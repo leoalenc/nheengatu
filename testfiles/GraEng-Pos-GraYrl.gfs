@@ -1,0 +1,430 @@
+import GraEng.gf
+import GraYrl.gf
+! echo "@ I am happy"
+p -lang=GraEng "I am happy" | l -lang=GraYrl
+! echo "@ I am heavy"
+p -lang=GraEng "I am heavy" | l -lang=GraYrl
+! echo "@ I am here"
+p -lang=GraEng "I am here" | l -lang=GraYrl
+! echo "@ I am near her"
+p -lang=GraEng "I am near her" | l -lang=GraYrl
+! echo "@ I am near her house"
+p -lang=GraEng "I am near her house" | l -lang=GraYrl
+! echo "@ I am near him"
+p -lang=GraEng "I am near him" | l -lang=GraYrl
+! echo "@ I am near his house"
+p -lang=GraEng "I am near his house" | l -lang=GraYrl
+! echo "@ I am near it"
+p -lang=GraEng "I am near it" | l -lang=GraYrl
+! echo "@ I am near its house"
+p -lang=GraEng "I am near its house" | l -lang=GraYrl
+! echo "@ I am not happy"
+p -lang=GraEng "I am not happy" | l -lang=GraYrl
+! echo "@ I am not near her"
+p -lang=GraEng "I am not near her" | l -lang=GraYrl
+! echo "@ I am not near him"
+p -lang=GraEng "I am not near him" | l -lang=GraYrl
+! echo "@ I am not near it"
+p -lang=GraEng "I am not near it" | l -lang=GraYrl
+! echo "@ I am not very happy"
+p -lang=GraEng "I am not very happy" | l -lang=GraYrl
+! echo "@ I am with her"
+p -lang=GraEng "I am with her" | l -lang=GraYrl
+! echo "@ I am with him"
+p -lang=GraEng "I am with him" | l -lang=GraYrl
+! echo "@ I am with it"
+p -lang=GraEng "I am with it" | l -lang=GraYrl
+! echo "@ he is beautiful"
+p -lang=GraEng "he is beautiful" | l -lang=GraYrl
+! echo "@ he is happy"
+p -lang=GraEng "he is happy" | l -lang=GraYrl
+! echo "@ he is heavy"
+p -lang=GraEng "he is heavy" | l -lang=GraYrl
+! echo "@ he is hot"
+p -lang=GraEng "he is hot" | l -lang=GraYrl
+! echo "@ he is very happy"
+p -lang=GraEng "he is very happy" | l -lang=GraYrl
+! echo "@ her canoe is heavy"
+p -lang=GraEng "her canoe is heavy" | l -lang=GraYrl
+! echo "@ her canoe is in the river"
+p -lang=GraEng "her canoe is in the river" | l -lang=GraYrl
+! echo "@ her canoe is on the river"
+p -lang=GraEng "her canoe is on the river" | l -lang=GraYrl
+! echo "@ her community is beautiful"
+p -lang=GraEng "her community is beautiful" | l -lang=GraYrl
+! echo "@ her food is delicious"
+p -lang=GraEng "her food is delicious" | l -lang=GraYrl
+! echo "@ her food is hot"
+p -lang=GraEng "her food is hot" | l -lang=GraYrl
+! echo "@ her house is in the city"
+p -lang=GraEng "her house is in the city" | l -lang=GraYrl
+! echo "@ her house is near her"
+p -lang=GraEng "her house is near her" | l -lang=GraYrl
+! echo "@ her house is near him"
+p -lang=GraEng "her house is near him" | l -lang=GraYrl
+! echo "@ her house is near it"
+p -lang=GraEng "her house is near it" | l -lang=GraYrl
+! echo "@ her house is near the river of the city"
+p -lang=GraEng "her house is near the river of the city" | l -lang=GraYrl
+! echo "@ her house is on the city"
+p -lang=GraEng "her house is on the city" | l -lang=GraYrl
+! echo "@ her picture is beautiful"
+p -lang=GraEng "her picture is beautiful" | l -lang=GraYrl
+! echo "@ his canoe is heavy"
+p -lang=GraEng "his canoe is heavy" | l -lang=GraYrl
+! echo "@ his canoe is in the river"
+p -lang=GraEng "his canoe is in the river" | l -lang=GraYrl
+! echo "@ his canoe is on the river"
+p -lang=GraEng "his canoe is on the river" | l -lang=GraYrl
+! echo "@ his community is beautiful"
+p -lang=GraEng "his community is beautiful" | l -lang=GraYrl
+! echo "@ his food is delicious"
+p -lang=GraEng "his food is delicious" | l -lang=GraYrl
+! echo "@ his food is hot"
+p -lang=GraEng "his food is hot" | l -lang=GraYrl
+! echo "@ his house is in the city"
+p -lang=GraEng "his house is in the city" | l -lang=GraYrl
+! echo "@ his house is near her"
+p -lang=GraEng "his house is near her" | l -lang=GraYrl
+! echo "@ his house is near him"
+p -lang=GraEng "his house is near him" | l -lang=GraYrl
+! echo "@ his house is near it"
+p -lang=GraEng "his house is near it" | l -lang=GraYrl
+! echo "@ his house is near the river of the city"
+p -lang=GraEng "his house is near the river of the city" | l -lang=GraYrl
+! echo "@ his house is on the city"
+p -lang=GraEng "his house is on the city" | l -lang=GraYrl
+! echo "@ his picture is beautiful"
+p -lang=GraEng "his picture is beautiful" | l -lang=GraYrl
+! echo "@ it is beautiful"
+p -lang=GraEng "it is beautiful" | l -lang=GraYrl
+! echo "@ it is happy"
+p -lang=GraEng "it is happy" | l -lang=GraYrl
+! echo "@ it is heavy"
+p -lang=GraEng "it is heavy" | l -lang=GraYrl
+! echo "@ it is hot"
+p -lang=GraEng "it is hot" | l -lang=GraYrl
+! echo "@ it is very happy"
+p -lang=GraEng "it is very happy" | l -lang=GraYrl
+! echo "@ its canoe is heavy"
+p -lang=GraEng "its canoe is heavy" | l -lang=GraYrl
+! echo "@ its canoe is in the river"
+p -lang=GraEng "its canoe is in the river" | l -lang=GraYrl
+! echo "@ its canoe is on the river"
+p -lang=GraEng "its canoe is on the river" | l -lang=GraYrl
+! echo "@ its community is beautiful"
+p -lang=GraEng "its community is beautiful" | l -lang=GraYrl
+! echo "@ its food is delicious"
+p -lang=GraEng "its food is delicious" | l -lang=GraYrl
+! echo "@ its food is hot"
+p -lang=GraEng "its food is hot" | l -lang=GraYrl
+! echo "@ its house is in the city"
+p -lang=GraEng "its house is in the city" | l -lang=GraYrl
+! echo "@ its house is near her"
+p -lang=GraEng "its house is near her" | l -lang=GraYrl
+! echo "@ its house is near him"
+p -lang=GraEng "its house is near him" | l -lang=GraYrl
+! echo "@ its house is near it"
+p -lang=GraEng "its house is near it" | l -lang=GraYrl
+! echo "@ its house is near the river of the city"
+p -lang=GraEng "its house is near the river of the city" | l -lang=GraYrl
+! echo "@ its house is on the city"
+p -lang=GraEng "its house is on the city" | l -lang=GraYrl
+! echo "@ its picture is beautiful"
+p -lang=GraEng "its picture is beautiful" | l -lang=GraYrl
+! echo "@ my food is delicious"
+p -lang=GraEng "my food is delicious" | l -lang=GraYrl
+! echo "@ my house is in her"
+p -lang=GraEng "my house is in her" | l -lang=GraYrl
+! echo "@ my house is in him"
+p -lang=GraEng "my house is in him" | l -lang=GraYrl
+! echo "@ my house is in it"
+p -lang=GraEng "my house is in it" | l -lang=GraYrl
+! echo "@ my house is in that dirty path"
+p -lang=GraEng "my house is in that dirty path" | l -lang=GraYrl
+! echo "@ my house is in that dirty path of hers"
+p -lang=GraEng "my house is in that dirty path of hers" | l -lang=GraYrl
+! echo "@ my house is in that dirty path of his"
+p -lang=GraEng "my house is in that dirty path of his" | l -lang=GraYrl
+! echo "@ my house is in that dirty path of it"
+p -lang=GraEng "my house is in that dirty path of it" | l -lang=GraYrl
+! echo "@ my house is in that dirty street"
+p -lang=GraEng "my house is in that dirty street" | l -lang=GraYrl
+! echo "@ my house is in that dirty street of hers"
+p -lang=GraEng "my house is in that dirty street of hers" | l -lang=GraYrl
+! echo "@ my house is in that dirty street of his"
+p -lang=GraEng "my house is in that dirty street of his" | l -lang=GraYrl
+! echo "@ my house is in that dirty street of it"
+p -lang=GraEng "my house is in that dirty street of it" | l -lang=GraYrl
+! echo "@ my house is in the river"
+p -lang=GraEng "my house is in the river" | l -lang=GraYrl
+! echo "@ my house is near her"
+p -lang=GraEng "my house is near her" | l -lang=GraYrl
+! echo "@ my house is near her house"
+p -lang=GraEng "my house is near her house" | l -lang=GraYrl
+! echo "@ my house is near him"
+p -lang=GraEng "my house is near him" | l -lang=GraYrl
+! echo "@ my house is near his house"
+p -lang=GraEng "my house is near his house" | l -lang=GraYrl
+! echo "@ my house is near it"
+p -lang=GraEng "my house is near it" | l -lang=GraYrl
+! echo "@ my house is near its house"
+p -lang=GraEng "my house is near its house" | l -lang=GraYrl
+! echo "@ my house is near the river"
+p -lang=GraEng "my house is near the river" | l -lang=GraYrl
+! echo "@ my house is near this dirty path"
+p -lang=GraEng "my house is near this dirty path" | l -lang=GraYrl
+! echo "@ my house is near this dirty path of hers"
+p -lang=GraEng "my house is near this dirty path of hers" | l -lang=GraYrl
+! echo "@ my house is near this dirty path of his"
+p -lang=GraEng "my house is near this dirty path of his" | l -lang=GraYrl
+! echo "@ my house is near this dirty path of it"
+p -lang=GraEng "my house is near this dirty path of it" | l -lang=GraYrl
+! echo "@ my house is near this dirty street"
+p -lang=GraEng "my house is near this dirty street" | l -lang=GraYrl
+! echo "@ my house is near this dirty street of hers"
+p -lang=GraEng "my house is near this dirty street of hers" | l -lang=GraYrl
+! echo "@ my house is near this dirty street of his"
+p -lang=GraEng "my house is near this dirty street of his" | l -lang=GraYrl
+! echo "@ my house is near this dirty street of it"
+p -lang=GraEng "my house is near this dirty street of it" | l -lang=GraYrl
+! echo "@ my house is near you"
+p -lang=GraEng "my house is near you" | l -lang=GraYrl
+! echo "@ my house is near your house"
+p -lang=GraEng "my house is near your house" | l -lang=GraYrl
+! echo "@ my house is not in the river"
+p -lang=GraEng "my house is not in the river" | l -lang=GraYrl
+! echo "@ my house is not near the river"
+p -lang=GraEng "my house is not near the river" | l -lang=GraYrl
+! echo "@ my house is not on the river"
+p -lang=GraEng "my house is not on the river" | l -lang=GraYrl
+! echo "@ my house is on her"
+p -lang=GraEng "my house is on her" | l -lang=GraYrl
+! echo "@ my house is on him"
+p -lang=GraEng "my house is on him" | l -lang=GraYrl
+! echo "@ my house is on it"
+p -lang=GraEng "my house is on it" | l -lang=GraYrl
+! echo "@ my house is on that dirty path"
+p -lang=GraEng "my house is on that dirty path" | l -lang=GraYrl
+! echo "@ my house is on that dirty path of hers"
+p -lang=GraEng "my house is on that dirty path of hers" | l -lang=GraYrl
+! echo "@ my house is on that dirty path of his"
+p -lang=GraEng "my house is on that dirty path of his" | l -lang=GraYrl
+! echo "@ my house is on that dirty path of it"
+p -lang=GraEng "my house is on that dirty path of it" | l -lang=GraYrl
+! echo "@ my house is on that dirty street"
+p -lang=GraEng "my house is on that dirty street" | l -lang=GraYrl
+! echo "@ my house is on that dirty street of hers"
+p -lang=GraEng "my house is on that dirty street of hers" | l -lang=GraYrl
+! echo "@ my house is on that dirty street of his"
+p -lang=GraEng "my house is on that dirty street of his" | l -lang=GraYrl
+! echo "@ my house is on that dirty street of it"
+p -lang=GraEng "my house is on that dirty street of it" | l -lang=GraYrl
+! echo "@ my house is on the river"
+p -lang=GraEng "my house is on the river" | l -lang=GraYrl
+! echo "@ she is beautiful"
+p -lang=GraEng "she is beautiful" | l -lang=GraYrl
+! echo "@ she is happy"
+p -lang=GraEng "she is happy" | l -lang=GraYrl
+! echo "@ she is heavy"
+p -lang=GraEng "she is heavy" | l -lang=GraYrl
+! echo "@ she is hot"
+p -lang=GraEng "she is hot" | l -lang=GraYrl
+! echo "@ she is very happy"
+p -lang=GraEng "she is very happy" | l -lang=GraYrl
+! echo "@ that boy is in the canoe of the hook"
+p -lang=GraEng "that boy is in the canoe of the hook" | l -lang=GraYrl
+! echo "@ that canoe of mine is in the river"
+p -lang=GraEng "that canoe of mine is in the river" | l -lang=GraYrl
+! echo "@ that canoe of mine is on the river"
+p -lang=GraEng "that canoe of mine is on the river" | l -lang=GraYrl
+! echo "@ that food is very expensive"
+p -lang=GraEng "that food is very expensive" | l -lang=GraYrl
+! echo "@ that food of hers is beautiful"
+p -lang=GraEng "that food of hers is beautiful" | l -lang=GraYrl
+! echo "@ that food of his is beautiful"
+p -lang=GraEng "that food of his is beautiful" | l -lang=GraYrl
+! echo "@ that food of it is beautiful"
+p -lang=GraEng "that food of it is beautiful" | l -lang=GraYrl
+! echo "@ that hook of Pedro is in the canoe"
+p -lang=GraEng "that hook of Pedro is in the canoe" | l -lang=GraYrl
+! echo "@ that hook of the boy is in the canoe"
+p -lang=GraEng "that hook of the boy is in the canoe" | l -lang=GraYrl
+! echo "@ the ants are in her"
+p -lang=GraEng "the ants are in her" | l -lang=GraYrl
+! echo "@ the ants are in him"
+p -lang=GraEng "the ants are in him" | l -lang=GraYrl
+! echo "@ the ants are in it"
+p -lang=GraEng "the ants are in it" | l -lang=GraYrl
+! echo "@ the ants are on her"
+p -lang=GraEng "the ants are on her" | l -lang=GraYrl
+! echo "@ the ants are on him"
+p -lang=GraEng "the ants are on him" | l -lang=GraYrl
+! echo "@ the ants are on it"
+p -lang=GraEng "the ants are on it" | l -lang=GraYrl
+! echo "@ the branch of the tree is red"
+p -lang=GraEng "the branch of the tree is red" | l -lang=GraYrl
+! echo "@ the canoe is heavy"
+p -lang=GraEng "the canoe is heavy" | l -lang=GraYrl
+! echo "@ the canoe is in the river"
+p -lang=GraEng "the canoe is in the river" | l -lang=GraYrl
+! echo "@ the canoe is near the river"
+p -lang=GraEng "the canoe is near the river" | l -lang=GraYrl
+! echo "@ the canoe is on the river"
+p -lang=GraEng "the canoe is on the river" | l -lang=GraYrl
+! echo "@ the canoe is there"
+p -lang=GraEng "the canoe is there" | l -lang=GraYrl
+! echo "@ the city of her house is near the river"
+p -lang=GraEng "the city of her house is near the river" | l -lang=GraYrl
+! echo "@ the city of his house is near the river"
+p -lang=GraEng "the city of his house is near the river" | l -lang=GraYrl
+! echo "@ the city of its house is near the river"
+p -lang=GraEng "the city of its house is near the river" | l -lang=GraYrl
+! echo "@ the community of the boy is near your city"
+p -lang=GraEng "the community of the boy is near your city" | l -lang=GraYrl
+! echo "@ the delicious food is in her house"
+p -lang=GraEng "the delicious food is in her house" | l -lang=GraYrl
+! echo "@ the delicious food is in his house"
+p -lang=GraEng "the delicious food is in his house" | l -lang=GraYrl
+! echo "@ the delicious food is in its house"
+p -lang=GraEng "the delicious food is in its house" | l -lang=GraYrl
+! echo "@ the delicious food is on her house"
+p -lang=GraEng "the delicious food is on her house" | l -lang=GraYrl
+! echo "@ the delicious food is on his house"
+p -lang=GraEng "the delicious food is on his house" | l -lang=GraYrl
+! echo "@ the delicious food is on its house"
+p -lang=GraEng "the delicious food is on its house" | l -lang=GraYrl
+! echo "@ the food is delicious"
+p -lang=GraEng "the food is delicious" | l -lang=GraYrl
+! echo "@ the food of Maria is not delicious"
+p -lang=GraEng "the food of Maria is not delicious" | l -lang=GraYrl
+! echo "@ the food of Maria isn't delicious"
+p -lang=GraEng "the food of Maria isn't delicious" | l -lang=GraYrl
+! echo "@ the grandfather of Maria is in the river"
+p -lang=GraEng "the grandfather of Maria is in the river" | l -lang=GraYrl
+! echo "@ the grandfather of Maria is on the river"
+p -lang=GraEng "the grandfather of Maria is on the river" | l -lang=GraYrl
+! echo "@ the heavy canoe is cheap"
+p -lang=GraEng "the heavy canoe is cheap" | l -lang=GraYrl
+! echo "@ the house of Maria is not near her"
+p -lang=GraEng "the house of Maria is not near her" | l -lang=GraYrl
+! echo "@ the house of Maria is not near him"
+p -lang=GraEng "the house of Maria is not near him" | l -lang=GraYrl
+! echo "@ the house of Maria is not near it"
+p -lang=GraEng "the house of Maria is not near it" | l -lang=GraYrl
+! echo "@ the house of Maria isn't near her"
+p -lang=GraEng "the house of Maria isn't near her" | l -lang=GraYrl
+! echo "@ the house of Maria isn't near him"
+p -lang=GraEng "the house of Maria isn't near him" | l -lang=GraYrl
+! echo "@ the house of Maria isn't near it"
+p -lang=GraEng "the house of Maria isn't near it" | l -lang=GraYrl
+! echo "@ the language of your brother is beautiful"
+p -lang=GraEng "the language of your brother is beautiful" | l -lang=GraYrl
+! echo "@ the language of your husband is beautiful"
+p -lang=GraEng "the language of your husband is beautiful" | l -lang=GraYrl
+! echo "@ the picture is beautiful"
+p -lang=GraEng "the picture is beautiful" | l -lang=GraYrl
+! echo "@ the river of the canoe is near her"
+p -lang=GraEng "the river of the canoe is near her" | l -lang=GraYrl
+! echo "@ the river of the canoe is near him"
+p -lang=GraEng "the river of the canoe is near him" | l -lang=GraYrl
+! echo "@ the river of the canoe is near it"
+p -lang=GraEng "the river of the canoe is near it" | l -lang=GraYrl
+! echo "@ the sons of Maria are beautiful"
+p -lang=GraEng "the sons of Maria are beautiful" | l -lang=GraYrl
+! echo "@ the sons of the woman are with me"
+p -lang=GraEng "the sons of the woman are with me" | l -lang=GraYrl
+! echo "@ the tapioca cake is hot"
+p -lang=GraEng "the tapioca cake is hot" | l -lang=GraYrl
+! echo "@ the tapioca cakes are hot"
+p -lang=GraEng "the tapioca cakes are hot" | l -lang=GraYrl
+! echo "@ the woman is beautiful"
+p -lang=GraEng "the woman is beautiful" | l -lang=GraYrl
+! echo "@ the woman is happy"
+p -lang=GraEng "the woman is happy" | l -lang=GraYrl
+! echo "@ the women are beautiful"
+p -lang=GraEng "the women are beautiful" | l -lang=GraYrl
+! echo "@ the word of your brother is beautiful"
+p -lang=GraEng "the word of your brother is beautiful" | l -lang=GraYrl
+! echo "@ the word of your husband is beautiful"
+p -lang=GraEng "the word of your husband is beautiful" | l -lang=GraYrl
+! echo "@ their language of your brother is beautiful"
+p -lang=GraEng "their language of your brother is beautiful" | l -lang=GraYrl
+! echo "@ their word of your brother is beautiful"
+p -lang=GraEng "their word of your brother is beautiful" | l -lang=GraYrl
+! echo "@ these eggs of her picture are beautiful"
+p -lang=GraEng "these eggs of her picture are beautiful" | l -lang=GraYrl
+! echo "@ these eggs of his picture are beautiful"
+p -lang=GraEng "these eggs of his picture are beautiful" | l -lang=GraYrl
+! echo "@ these eggs of its picture are beautiful"
+p -lang=GraEng "these eggs of its picture are beautiful" | l -lang=GraYrl
+! echo "@ these eggs of the picture are beautiful"
+p -lang=GraEng "these eggs of the picture are beautiful" | l -lang=GraYrl
+! echo "@ these red fish are cheap"
+p -lang=GraEng "these red fish are cheap" | l -lang=GraYrl
+! echo "@ these stones are heavy"
+p -lang=GraEng "these stones are heavy" | l -lang=GraYrl
+! echo "@ they are happy"
+p -lang=GraEng "they are happy" | l -lang=GraYrl
+! echo "@ this knife of her wife is not in the house"
+p -lang=GraEng "this knife of her wife is not in the house" | l -lang=GraYrl
+! echo "@ this knife of his wife is not in the house"
+p -lang=GraEng "this knife of his wife is not in the house" | l -lang=GraYrl
+! echo "@ this knife of its wife is not in the house"
+p -lang=GraEng "this knife of its wife is not in the house" | l -lang=GraYrl
+! echo "@ this milk is hot"
+p -lang=GraEng "this milk is hot" | l -lang=GraYrl
+! echo "@ this picture of her eggs is beautiful"
+p -lang=GraEng "this picture of her eggs is beautiful" | l -lang=GraYrl
+! echo "@ this picture of hers of her eggs is beautiful"
+p -lang=GraEng "this picture of hers of her eggs is beautiful" | l -lang=GraYrl
+! echo "@ this picture of hers of his eggs is beautiful"
+p -lang=GraEng "this picture of hers of his eggs is beautiful" | l -lang=GraYrl
+! echo "@ this picture of hers of its eggs is beautiful"
+p -lang=GraEng "this picture of hers of its eggs is beautiful" | l -lang=GraYrl
+! echo "@ this picture of hers of the eggs is beautiful"
+p -lang=GraEng "this picture of hers of the eggs is beautiful" | l -lang=GraYrl
+! echo "@ this picture of his eggs is beautiful"
+p -lang=GraEng "this picture of his eggs is beautiful" | l -lang=GraYrl
+! echo "@ this picture of his of her eggs is beautiful"
+p -lang=GraEng "this picture of his of her eggs is beautiful" | l -lang=GraYrl
+! echo "@ this picture of his of his eggs is beautiful"
+p -lang=GraEng "this picture of his of his eggs is beautiful" | l -lang=GraYrl
+! echo "@ this picture of his of its eggs is beautiful"
+p -lang=GraEng "this picture of his of its eggs is beautiful" | l -lang=GraYrl
+! echo "@ this picture of his of the eggs is beautiful"
+p -lang=GraEng "this picture of his of the eggs is beautiful" | l -lang=GraYrl
+! echo "@ this picture of it of his eggs is beautiful"
+p -lang=GraEng "this picture of it of his eggs is beautiful" | l -lang=GraYrl
+! echo "@ this picture of it of its eggs is beautiful"
+p -lang=GraEng "this picture of it of its eggs is beautiful" | l -lang=GraYrl
+! echo "@ this picture of it of the eggs is beautiful"
+p -lang=GraEng "this picture of it of the eggs is beautiful" | l -lang=GraYrl
+! echo "@ this picture of its eggs is beautiful"
+p -lang=GraEng "this picture of its eggs is beautiful" | l -lang=GraYrl
+! echo "@ this picture of the child is beautiful"
+p -lang=GraEng "this picture of the child is beautiful" | l -lang=GraYrl
+! echo "@ this picture of the eggs is beautiful"
+p -lang=GraEng "this picture of the eggs is beautiful" | l -lang=GraYrl
+! echo "@ this stone is heavy"
+p -lang=GraEng "this stone is heavy" | l -lang=GraYrl
+! echo "@ this stone is very heavy"
+p -lang=GraEng "this stone is very heavy" | l -lang=GraYrl
+! echo "@ those sons of the woman are with them"
+p -lang=GraEng "those sons of the woman are with them" | l -lang=GraYrl
+! echo "@ we are near you"
+p -lang=GraEng "we are near you" | l -lang=GraYrl
+! echo "@ we are not in the community"
+p -lang=GraEng "we are not in the community" | l -lang=GraYrl
+! echo "@ we are not on the community"
+p -lang=GraEng "we are not on the community" | l -lang=GraYrl
+! echo "@ we aren't in the community"
+p -lang=GraEng "we aren't in the community" | l -lang=GraYrl
+! echo "@ we aren't on the community"
+p -lang=GraEng "we aren't on the community" | l -lang=GraYrl
+! echo "@ you are happy"
+p -lang=GraEng "you are happy" | l -lang=GraYrl
+! echo "@ you are not happy"
+p -lang=GraEng "you are not happy" | l -lang=GraYrl
+! echo "@ your food is very beautiful"
+p -lang=GraEng "your food is very beautiful" | l -lang=GraYrl

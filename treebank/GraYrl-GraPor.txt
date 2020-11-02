@@ -1,0 +1,1300 @@
+SENT-1:: Maria mimbira-itá puranga
+as filhas da Maria são bonitas
+os filhos da Maria são bonitos
+
+
+SENT-2:: Maria mimbira-itá puranga uiku
+as filhas da Maria estão bonitas
+os filhos da Maria estão bonitos
+
+
+SENT-3:: Maria ramunha paranã upé
+o avô da Maria é no rio
+o avô da Maria é no rio
+
+
+SENT-4:: Maria ramunha uiku paranã upé
+o avô da Maria está no rio
+o avô da Maria está no rio
+
+
+SENT-5:: Maria raíra-itá puranga
+os filhos da Maria são bonitos
+
+
+SENT-6:: Maria raíra-itá puranga uiku
+os filhos da Maria estão bonitos
+
+
+SENT-7:: Maria rimbiú ti sé
+a comida da Maria não é deliciosa
+
+
+SENT-8:: Maria rimbiú ti sé uiku
+a comida da Maria não está deliciosa
+
+
+SENT-9:: Maria ruka ti suaki
+a casa da Maria não é perto dele
+a casa da Maria não é perto dele
+a casa da Maria não é perto dela
+
+
+SENT-10:: Maria ruka ti uiku suaki
+a casa da Maria não está perto dele
+a casa da Maria não está perto dele
+a casa da Maria não está perto dela
+
+
+SENT-11:: aiku i irũmu
+eu estou com ele
+eu estou com ele
+eu estou com ela
+
+
+SENT-12:: aiku iké
+eu estou aqui
+
+
+SENT-13:: aiku suaki
+eu estou perto dele
+eu estou perto dele
+eu estou perto dela
+
+
+SENT-14:: aintá aintá ruri
+eles são felizes
+
+
+SENT-15:: aintá aintá ruri uiku
+eles estão felizes
+
+
+SENT-16:: aintá ruri
+eles são felizes
+
+
+SENT-17:: aintá ta ruri
+eles são felizes
+
+
+SENT-18:: aé i pusé
+ele é pesado
+ele é pesado
+ela é pesada
+
+
+SENT-19:: aé i pusé uiku
+ele está pesado
+ele está pesado
+ela está pesada
+
+
+SENT-20:: aé puranga
+ele é bonito
+ele é bonito
+ela é bonita
+
+
+SENT-21:: aé puranga uiku
+ele está bonito
+ele está bonito
+ela está bonita
+
+
+SENT-22:: aé saku
+ele é quente
+ele é quente
+ela é quente
+
+
+SENT-23:: aé saku uiku
+ele está quente
+ele está quente
+ela está quente
+
+
+SENT-24:: aé suri
+ele é feliz
+ele é feliz
+ela é feliz
+
+
+SENT-25:: aé suri retana
+ele é muito feliz
+ele é muito feliz
+ela é muito feliz
+
+
+SENT-26:: aé suri retana uiku
+ele está muito feliz
+ele está muito feliz
+ela está muito feliz
+
+
+SENT-27:: aé suri uiku
+ele está feliz
+ele está feliz
+ela está feliz
+
+
+SENT-28:: aé ti suri uiku
+ele não está feliz
+ele não está feliz
+ela não está feliz
+
+
+SENT-29:: i igara i pusé
+a canoa dela é pesada
+a canoa dele é pesada
+a canoa dele é pesada
+
+
+SENT-30:: i igara i pusé uiku
+a canoa dela está pesada
+a canoa dele está pesada
+a canoa dele está pesada
+
+
+SENT-31:: i igara paranã upé
+a canoa dela é no rio
+a canoa dela é no rio
+a canoa dele é no rio
+a canoa dele é no rio
+a canoa dele é no rio
+a canoa dele é no rio
+
+
+SENT-32:: i igara uiku paranã upé
+a canoa dela está no rio
+a canoa dela está no rio
+a canoa dele está no rio
+a canoa dele está no rio
+a canoa dele está no rio
+a canoa dele está no rio
+
+
+SENT-33:: i pusé
+ele é pesado
+ele é pesado
+ela é pesada
+
+
+SENT-34:: i pusé uiku
+ele está pesado
+ele está pesado
+ela está pesada
+
+
+SENT-35:: iaiku pe ruaki
+nós estamos perto de vocês
+
+
+SENT-36:: iandé iaiku ne ruaki
+nós estamos perto de você
+
+
+SENT-37:: iandé iaiku pe ruaki
+nós estamos perto de vocês
+
+
+SENT-38:: iandé ne ruaki
+nós somos perto de você
+
+
+SENT-39:: iandé pe ruaki
+nós somos perto de vocês
+
+
+SENT-40:: iandé ti iaiku tendaua upé
+nós não estamos na comunidade
+nós não estamos na comunidade
+
+
+SENT-41:: iandé ti tendaua upé
+nós não somos na comunidade
+nós não somos na comunidade
+
+
+SENT-42:: igara ape
+a canoa é lá
+
+
+SENT-43:: igara i pusé
+a canoa é pesada
+
+
+SENT-44:: igara i pusé uiku
+a canoa está pesada
+
+
+SENT-45:: igara paranã ruaki
+a canoa é perto do rio
+
+
+SENT-46:: igara paranã suaki
+o rio da canoa é perto dele
+o rio da canoa é perto dele
+o rio da canoa é perto dela
+
+
+SENT-47:: igara paranã uiku suaki
+o rio da canoa está perto dele
+o rio da canoa está perto dele
+o rio da canoa está perto dela
+
+
+SENT-48:: igara paranã upé
+a canoa é no rio
+a canoa é no rio
+
+
+SENT-49:: igara pusé sepiasuíma uiku
+a pesada canoa está barata
+
+
+SENT-50:: igara uiku ape
+a canoa está lá
+
+
+SENT-51:: igara uiku paranã ruaki
+a canoa está perto do rio
+
+
+SENT-52:: igara uiku paranã upé
+a canoa está no rio
+a canoa está no rio
+
+
+SENT-53:: indé ne ruri
+você é feliz
+
+
+SENT-54:: indé ne ruri reiku
+você está feliz
+
+
+SENT-55:: indé ti ne ruri
+você não é feliz
+
+
+SENT-56:: indé ti ne ruri reiku
+você não está feliz
+
+
+SENT-57:: ixé aiku i irũmu
+eu estou com ele
+eu estou com ele
+eu estou com ela
+
+
+SENT-58:: ixé aiku iké
+eu estou aqui
+
+
+SENT-59:: ixé aiku suaki
+eu estou perto dele
+eu estou perto dele
+eu estou perto dela
+
+
+SENT-60:: ixé aiku suka ruaki
+eu estou perto da casa dela
+eu estou perto da casa dele
+eu estou perto da casa dele
+
+
+SENT-61:: ixé i irũmu
+eu sou com ele
+eu sou com ele
+eu sou com ela
+
+
+SENT-62:: ixé iké
+eu sou aqui
+
+
+SENT-63:: ixé niti se ruri
+eu não sou feliz
+
+
+SENT-64:: ixé niti se ruri aiku
+eu não estou feliz
+
+
+SENT-65:: ixé niti se ruri retana
+eu não sou muito feliz
+
+
+SENT-66:: ixé niti se ruri retana aiku
+eu não estou muito feliz
+
+
+SENT-67:: ixé se pusé
+eu sou pesado
+
+
+SENT-68:: ixé se pusé aiku
+eu estou pesado
+
+
+SENT-69:: ixé se ruri
+eu sou feliz
+
+
+SENT-70:: ixé se ruri aiku
+eu estou feliz
+
+
+SENT-71:: ixé suaki
+eu sou perto dele
+eu sou perto dele
+eu sou perto dela
+
+
+SENT-72:: ixé suka ruaki
+eu sou perto da casa dela
+eu sou perto da casa dele
+eu sou perto da casa dele
+
+
+SENT-73:: ixé ti aiku suaki
+eu não estou perto dele
+eu não estou perto dele
+eu não estou perto dela
+
+
+SENT-74:: ixé ti se ruri
+eu não sou feliz
+
+
+SENT-75:: ixé ti se ruri aiku
+eu não estou feliz
+
+
+SENT-76:: ixé ti se ruri retana
+eu não sou muito feliz
+
+
+SENT-77:: ixé ti se ruri retana aiku
+eu não estou muito feliz
+
+
+SENT-78:: ixé ti suaki
+eu não sou perto dele
+eu não sou perto dele
+eu não sou perto dela
+
+
+SENT-79:: kunhã mimbira-itá se irũmu
+as filhas da mulher são comigo
+os filhos da mulher são comigo
+
+
+SENT-80:: kunhã mimbira-itá uiku se irũmu
+as filhas da mulher estão comigo
+os filhos da mulher estão comigo
+
+
+SENT-81:: kunhã puranga
+a mulher é bonita
+
+
+SENT-82:: kunhã puranga uiku
+a mulher está bonita
+
+
+SENT-83:: kunhã raíra-itá se irũmu
+os filhos da mulher são comigo
+
+
+SENT-84:: kunhã raíra-itá uiku se irũmu
+os filhos da mulher estão comigo
+
+
+SENT-85:: kunhã suri
+a mulher é feliz
+
+
+SENT-86:: kunhã suri uiku
+a mulher está feliz
+
+
+SENT-87:: kunhã-itá puranga
+as mulheres são bonitas
+
+
+SENT-88:: kunhã-itá puranga uiku
+as mulheres estão bonitas
+
+
+SENT-89:: kurumĩ rendaua ne taua ruaki
+a comunidade do menino é perto da sua cidade
+
+
+SENT-90:: kurumĩ rendaua pe taua ruaki
+a comunidade do menino é perto da cidade de vocês
+
+
+SENT-91:: kurumĩ rendaua uiku ne taua ruaki
+a comunidade do menino está perto da sua cidade
+
+
+SENT-92:: kurumĩ rendaua uiku pe taua ruaki
+a comunidade do menino está perto da cidade de vocês
+
+
+SENT-93:: kuá itá i pusé
+esta pedra é pesada
+
+
+SENT-94:: kuá itá i pusé retana
+esta pedra é muito pesada
+
+
+SENT-95:: kuá itá i pusé retana uiku
+esta pedra está muito pesada
+
+
+SENT-96:: kuá itá i pusé uiku
+esta pedra está pesada
+
+
+SENT-97:: kuá itá-itá aintá pusé
+estas pedras são pesadas
+
+
+SENT-98:: kuá itá-itá aintá pusé uiku
+estas pedras estão pesadas
+
+
+SENT-99:: kuá itá-itá ta pusé
+estas pedras são pesadas
+
+
+SENT-100:: kuá itá-itá ta pusé uiku
+estas pedras estão pesadas
+
+
+SENT-101:: kuá kambi saku
+este leite é quente
+
+
+SENT-102:: kuá kambi saku uiku
+este leite está quente
+
+
+SENT-103:: kuá pirá-itá piranga sepiasuíma uiku
+estes vermelhos peixes estão baratos
+
+
+SENT-104:: kuá simiriku kisé ti uiku uka upé
+esta faca da esposa não está na casa
+esta faca da esposa não está na casa
+esta faca da esposa dela não está na casa
+esta faca da esposa dela não está na casa
+esta faca da esposa dele não está na casa
+esta faca da esposa dele não está na casa
+esta faca da esposa dele não está na casa
+esta faca da esposa dele não está na casa
+
+
+SENT-105:: kuá simiriku kisé ti uka upé
+esta faca da esposa não é na casa
+esta faca da esposa não é na casa
+esta faca da esposa dela não é na casa
+esta faca da esposa dela não é na casa
+esta faca da esposa dele não é na casa
+esta faca da esposa dele não é na casa
+esta faca da esposa dele não é na casa
+esta faca da esposa dele não é na casa
+
+
+SENT-106:: kuá supiá-itá rangaua puranga
+esta fotografia dos ovos é bonita
+esta fotografia dos ovos dela é bonita
+esta fotografia dos ovos dele é bonita
+esta fotografia dos ovos dele é bonita
+
+
+SENT-107:: kuá supiá-itá rangaua puranga uiku
+esta fotografia dos ovos está bonita
+esta fotografia dos ovos dela está bonita
+esta fotografia dos ovos dele está bonita
+esta fotografia dos ovos dele está bonita
+
+
+SENT-108:: kuá supiá-itá sangaua puranga
+esta fotografia dela dos ovos é bonita
+esta fotografia dele dos ovos é bonita
+esta fotografia dele dos ovos é bonita
+esta fotografia dela dos ovos dela é bonita
+esta fotografia dele dos ovos dela é bonita
+esta fotografia dele dos ovos dela é bonita
+esta fotografia dela dos ovos dele é bonita
+esta fotografia dele dos ovos dele é bonita
+esta fotografia dele dos ovos dele é bonita
+esta fotografia dela dos ovos dele é bonita
+esta fotografia dele dos ovos dele é bonita
+esta fotografia dele dos ovos dele é bonita
+
+
+SENT-109:: kuá supiá-itá sangaua puranga uiku
+esta fotografia dela dos ovos está bonita
+esta fotografia dele dos ovos está bonita
+esta fotografia dele dos ovos está bonita
+esta fotografia dela dos ovos dela está bonita
+esta fotografia dele dos ovos dela está bonita
+esta fotografia dele dos ovos dela está bonita
+esta fotografia dela dos ovos dele está bonita
+esta fotografia dele dos ovos dele está bonita
+esta fotografia dele dos ovos dele está bonita
+esta fotografia dela dos ovos dele está bonita
+esta fotografia dele dos ovos dele está bonita
+esta fotografia dele dos ovos dele está bonita
+
+
+SENT-110:: kuá taína rangaua puranga
+esta fotografia da criança é bonita
+
+
+SENT-111:: kuá taína rangaua puranga uiku
+esta fotografia da criança está bonita
+
+
+SENT-112:: kuá-itá itá aintá pusé
+estas pedras são pesadas
+
+
+SENT-113:: kuá-itá itá aintá pusé uiku
+estas pedras estão pesadas
+
+
+SENT-114:: kuá-itá itá ta pusé
+estas pedras são pesadas
+
+
+SENT-115:: kuá-itá itá ta pusé uiku
+estas pedras estão pesadas
+
+
+SENT-116:: kuá-itá piranga pirá sepiasuíma
+estes vermelhos peixes são baratos
+
+
+SENT-117:: kuá-itá piranga pirá sepiasuíma uiku
+estes vermelhos peixes estão baratos
+
+
+SENT-118:: kuá-itá pirá piranga sepiasuíma uiku
+estes vermelhos peixes estão baratos
+
+
+SENT-119:: kuá-itá sangaua rupiá puranga
+estes ovos da fotografia são bonitos
+estes ovos da fotografia dela são bonitos
+estes ovos da fotografia dele são bonitos
+estes ovos da fotografia dele são bonitos
+
+
+SENT-120:: kuá-itá sangaua rupiá puranga uiku
+estes ovos da fotografia estão bonitos
+estes ovos da fotografia dela estão bonitos
+estes ovos da fotografia dele estão bonitos
+estes ovos da fotografia dele estão bonitos
+
+
+SENT-121:: meiú saku
+o beiju é quente
+
+
+SENT-122:: meiú saku uiku
+o beiju está quente
+
+
+SENT-123:: meiú-itá aintá raku
+os beijus são quentes
+
+
+SENT-124:: meiú-itá aintá raku uiku
+os beijus estão quentes
+
+
+SENT-125:: meiú-itá ta raku uiku
+os beijus estão quentes
+
+
+SENT-126:: mirá rakanga piranga
+o galho da árvore é vermelho
+
+
+SENT-127:: mirá rakanga piranga uiku
+o galho da árvore está vermelho
+
+
+SENT-128:: ne kiuíra aintá nheenga puranga
+a delea língua do seu irmão é bonita
+a delea palavra do seu irmão é bonita
+
+
+SENT-129:: ne kiuíra aintá nheenga puranga uiku
+a delea língua do seu irmão está bonita
+a delea palavra do seu irmão está bonita
+
+
+SENT-130:: ne kiuíra nheenga puranga
+a língua do seu irmão é bonita
+a palavra do seu irmão é bonita
+
+
+SENT-131:: ne kiuíra nheenga puranga uiku
+a língua do seu irmão está bonita
+a palavra do seu irmão está bonita
+
+
+SENT-132:: ne kiuíra ta nheenga puranga
+a delea língua do seu irmão é bonita
+a delea palavra do seu irmão é bonita
+
+
+SENT-133:: ne mena nheenga puranga
+a língua do seu marido é bonita
+a palavra do seu marido é bonita
+
+
+SENT-134:: ne mena nheenga puranga uiku
+a língua do seu marido está bonita
+a palavra do seu marido está bonita
+
+
+SENT-135:: ne rimbiú puranga retana
+a sua comida é muito bonita
+
+
+SENT-136:: ne rimbiú puranga retana uiku
+a sua comida está muito bonita
+
+
+SENT-137:: ne ruri
+você é feliz
+
+
+SENT-138:: ne ruri reiku
+você está feliz
+
+
+SENT-139:: nhaã Pedro pindá igara upé
+aquele anzol do Pedro é na canoa
+aquele anzol do Pedro é na canoa
+aquele Pedro é na canoa do anzol
+aquele Pedro é na canoa do anzol
+
+
+SENT-140:: nhaã Pedro pindá uiku igara kuara upé
+aquele anzol do Pedro está na canoa
+
+
+SENT-141:: nhaã Pedro pindá uiku igara upé
+aquele anzol do Pedro está na canoa
+aquele anzol do Pedro está na canoa
+
+
+SENT-142:: nhaã kunhã mimbira-itá uiku aintá irũmu
+aquelas filhas da mulher estão com eles
+aqueles filhos da mulher estão com eles
+
+
+SENT-143:: nhaã kurumĩ pindá igara pupé
+aquele anzol do menino é na canoa
+aquele menino é na canoa do anzol
+
+
+SENT-144:: nhaã kurumĩ pindá igara upé
+aquele anzol do menino é na canoa
+aquele anzol do menino é na canoa
+aquele menino é na canoa do anzol
+aquele menino é na canoa do anzol
+
+
+SENT-145:: nhaã kurumĩ pindá uiku igara upé
+aquele anzol do menino está na canoa
+aquele anzol do menino está na canoa
+
+
+SENT-146:: nhaã kurumĩ uiku pindá igara upé
+aquele menino está na canoa do anzol
+aquele menino está na canoa do anzol
+
+
+SENT-147:: nhaã se igara uiku paranã upé
+aquela minha canoa está no rio
+aquela minha canoa está no rio
+
+
+SENT-148:: nhaã timbiú sepiasu retana
+aquela comida é muito cara
+
+
+SENT-149:: nhaã timbiú sepiasu retana uiku
+aquela comida está muito cara
+
+
+SENT-150:: nhaã ximbiú puranga
+aquela comida dela é bonita
+aquela comida dele é bonita
+aquela comida dele é bonita
+
+
+SENT-151:: nhaã ximiriku kisé ti uiku uka pupé
+aquela faca da esposa dela não está na casa
+aquela faca da esposa dele não está na casa
+aquela faca da esposa dele não está na casa
+
+
+SENT-152:: nhaã-itá kunhã mimbira aintá irũmu
+aquelas filhas da mulher são com eles
+aqueles filhos da mulher são com eles
+
+
+SENT-153:: nhaã-itá kunhã mimbira uiku aintá irũmu
+aquelas filhas da mulher estão com eles
+aqueles filhos da mulher estão com eles
+
+
+SENT-154:: nhaã-itá kunhã raíra aintá irũmu
+aqueles filhos da mulher são com eles
+
+
+SENT-155:: nhaã-itá kunhã raíra uiku aintá irũmu
+aqueles filhos da mulher estão com eles
+
+
+SENT-156:: nhaã-itá simiriku mimbira uiku aintá irũmu
+aquelas filhas da esposa estão com eles
+aqueles filhos da esposa estão com eles
+aquelas filhas da esposa dela estão com eles
+aqueles filhos da esposa dela estão com eles
+aquelas filhas da esposa dele estão com eles
+aqueles filhos da esposa dele estão com eles
+aquelas filhas da esposa dele estão com eles
+aqueles filhos da esposa dele estão com eles
+
+
+SENT-157:: nhaã-itá simiriku raíra uiku aintá irũmu
+aqueles filhos da esposa estão com eles
+aqueles filhos da esposa dela estão com eles
+aqueles filhos da esposa dele estão com eles
+aqueles filhos da esposa dele estão com eles
+
+
+SENT-158:: niti se ruri
+eu não sou feliz
+
+
+SENT-159:: pe kiuíra aintá nheenga puranga
+a delea língua do irmão de vocês é bonita
+a delea palavra do irmão de vocês é bonita
+
+
+SENT-160:: pe kiuíra aintá nheenga puranga uiku
+a delea língua do irmão de vocês está bonita
+a delea palavra do irmão de vocês está bonita
+
+
+SENT-161:: pe kiuíra nheenga puranga
+a língua do irmão de vocês é bonita
+a palavra do irmão de vocês é bonita
+
+
+SENT-162:: pe kiuíra nheenga puranga uiku
+a língua do irmão de vocês está bonita
+a palavra do irmão de vocês está bonita
+
+
+SENT-163:: pe mena nheenga puranga
+a língua do marido de vocês é bonita
+a palavra do marido de vocês é bonita
+
+
+SENT-164:: pe mena nheenga puranga uiku
+a língua do marido de vocês está bonita
+a palavra do marido de vocês está bonita
+
+
+SENT-165:: pe rimbiú puranga retana
+a comida de vocês é muito bonita
+
+
+SENT-166:: pe rimbiú puranga retana uiku
+a comida de vocês está muito bonita
+
+
+SENT-167:: pe ruri peiku
+vocês estão felizes
+
+
+SENT-168:: penhẽ pe ruri
+vocês são felizes
+
+
+SENT-169:: penhẽ pe ruri peiku
+vocês estão felizes
+
+
+SENT-170:: penhẽ ti pe ruri
+vocês não são felizes
+
+
+SENT-171:: penhẽ ti pe ruri peiku
+vocês não estão felizes
+
+
+SENT-172:: pusé igara sepiasuíma
+a pesada canoa é barata
+
+
+SENT-173:: pusé igara sepiasuíma uiku
+a pesada canoa está barata
+
+
+SENT-174:: sangaua puranga
+a fotografia é bonita
+a fotografia dela é bonita
+a fotografia dele é bonita
+a fotografia dele é bonita
+
+
+SENT-175:: sangaua puranga uiku
+a fotografia está bonita
+a fotografia dela está bonita
+a fotografia dele está bonita
+a fotografia dele está bonita
+
+
+SENT-176:: se pusé
+eu sou pesado
+
+
+SENT-177:: se pusé aiku
+eu estou pesado
+
+
+SENT-178:: se rimbiú sé
+a minha comida é deliciosa
+
+
+SENT-179:: se rimbiú sé uiku
+a minha comida está deliciosa
+
+
+SENT-180:: se ruka i upé
+a minha casa é nele
+a minha casa é nele
+a minha casa é nela
+a minha casa é nele
+a minha casa é nele
+a minha casa é nela
+
+
+SENT-181:: se ruka kuá kiá pé ruaki
+a minha casa é perto deste sujo caminho
+a minha casa é perto desta suja rua
+
+
+SENT-182:: se ruka kuá kiá sapé ruaki
+a minha casa é perto deste sujo caminho dela
+a minha casa é perto desta suja rua dela
+a minha casa é perto deste sujo caminho dele
+a minha casa é perto desta suja rua dele
+a minha casa é perto deste sujo caminho dele
+a minha casa é perto desta suja rua dele
+
+
+SENT-183:: se ruka ne ruaki
+a minha casa é perto de você
+
+
+SENT-184:: se ruka ne ruka ruaki
+a minha casa é perto da sua casa
+
+
+SENT-185:: se ruka nhaã kiá pé upé
+a minha casa é naquele sujo caminho
+a minha casa é naquela suja rua
+a minha casa é naquele sujo caminho
+a minha casa é naquela suja rua
+
+
+SENT-186:: se ruka nhaã kiá sapé upé
+a minha casa é naquele sujo caminho dela
+a minha casa é naquela suja rua dela
+a minha casa é naquele sujo caminho dele
+a minha casa é naquela suja rua dele
+a minha casa é naquele sujo caminho dele
+a minha casa é naquela suja rua dele
+a minha casa é naquele sujo caminho dela
+a minha casa é naquela suja rua dela
+a minha casa é naquele sujo caminho dele
+a minha casa é naquela suja rua dele
+a minha casa é naquele sujo caminho dele
+a minha casa é naquela suja rua dele
+
+
+SENT-187:: se ruka niti paranã ruaki
+a minha casa não é perto do rio
+
+
+SENT-188:: se ruka niti paranã upé
+a minha casa não é no rio
+a minha casa não é no rio
+
+
+SENT-189:: se ruka paranã ruaki
+a minha casa é perto do rio
+
+
+SENT-190:: se ruka paranã upé
+a minha casa é no rio
+a minha casa é no rio
+
+
+SENT-191:: se ruka pe ruaki
+a minha casa é perto de vocês
+
+
+SENT-192:: se ruka pe ruka ruaki
+a minha casa é perto da casa de vocês
+
+
+SENT-193:: se ruka suaki
+a minha casa é perto dele
+a minha casa é perto dele
+a minha casa é perto dela
+
+
+SENT-194:: se ruka suka ruaki
+a minha casa é perto da casa dela
+a minha casa é perto da casa dele
+a minha casa é perto da casa dele
+
+
+SENT-195:: se ruka ti paranã ruaki
+a minha casa não é perto do rio
+
+
+SENT-196:: se ruka ti paranã upé
+a minha casa não é no rio
+a minha casa não é no rio
+
+
+SENT-197:: se ruka ti uiku paranã ruaki
+a minha casa não está perto do rio
+
+
+SENT-198:: se ruka ti uiku paranã upé
+a minha casa não está no rio
+a minha casa não está no rio
+
+
+SENT-199:: se ruka uiku i upé
+a minha casa está nele
+a minha casa está nele
+a minha casa está nela
+a minha casa está nele
+a minha casa está nele
+a minha casa está nela
+
+
+SENT-200:: se ruka uiku kuá kiá pé ruaki
+a minha casa está perto deste sujo caminho
+a minha casa está perto desta suja rua
+
+
+SENT-201:: se ruka uiku ne ruaki
+a minha casa está perto de você
+
+
+SENT-202:: se ruka uiku ne ruka ruaki
+a minha casa está perto da sua casa
+
+
+SENT-203:: se ruka uiku nhaã kiá pé upé
+a minha casa está naquele sujo caminho
+a minha casa está naquela suja rua
+a minha casa está naquele sujo caminho
+a minha casa está naquela suja rua
+
+
+SENT-204:: se ruka uiku nhaã kiá sapé upé
+a minha casa está naquele sujo caminho dela
+a minha casa está naquela suja rua dela
+a minha casa está naquele sujo caminho dele
+a minha casa está naquela suja rua dele
+a minha casa está naquele sujo caminho dele
+a minha casa está naquela suja rua dele
+a minha casa está naquele sujo caminho dela
+a minha casa está naquela suja rua dela
+a minha casa está naquele sujo caminho dele
+a minha casa está naquela suja rua dele
+a minha casa está naquele sujo caminho dele
+a minha casa está naquela suja rua dele
+
+
+SENT-205:: se ruka uiku paranã ruaki
+a minha casa está perto do rio
+
+
+SENT-206:: se ruka uiku paranã upé
+a minha casa está no rio
+a minha casa está no rio
+
+
+SENT-207:: se ruka uiku pe ruaki
+a minha casa está perto de vocês
+
+
+SENT-208:: se ruka uiku pe ruka ruaki
+a minha casa está perto da casa de vocês
+
+
+SENT-209:: se ruka uiku suaki
+a minha casa está perto dele
+a minha casa está perto dele
+a minha casa está perto dela
+
+
+SENT-210:: se ruka uiku suka ruaki
+a minha casa está perto da casa dela
+a minha casa está perto da casa dele
+a minha casa está perto da casa dele
+
+
+SENT-211:: se ruri
+eu sou feliz
+
+
+SENT-212:: se ruri aiku
+eu estou feliz
+
+
+SENT-213:: sendaua puranga
+a comunidade dela é bonita
+a comunidade dele é bonita
+a comunidade dele é bonita
+
+
+SENT-214:: sendaua puranga uiku
+a comunidade dela está bonita
+a comunidade dele está bonita
+a comunidade dele está bonita
+
+
+SENT-215:: simiriku mimbira-itá uiku se irũmu
+as filhas da esposa estão comigo
+os filhos da esposa estão comigo
+as filhas da esposa dela estão comigo
+os filhos da esposa dela estão comigo
+as filhas da esposa dele estão comigo
+os filhos da esposa dele estão comigo
+as filhas da esposa dele estão comigo
+os filhos da esposa dele estão comigo
+
+
+SENT-216:: simiriku puranga uiku
+a esposa está bonita
+a esposa dela está bonita
+a esposa dele está bonita
+a esposa dele está bonita
+
+
+SENT-217:: simiriku raíra-itá uiku se irũmu
+os filhos da esposa estão comigo
+os filhos da esposa dela estão comigo
+os filhos da esposa dele estão comigo
+os filhos da esposa dele estão comigo
+
+
+SENT-218:: simiriku suri uiku
+a esposa está feliz
+a esposa dela está feliz
+a esposa dele está feliz
+a esposa dele está feliz
+
+
+SENT-219:: suka suaki
+a casa dela é perto dele
+a casa dela é perto dele
+a casa dela é perto dela
+a casa dele é perto dele
+a casa dele é perto dele
+a casa dele é perto dela
+a casa dele é perto dele
+a casa dele é perto dele
+a casa dele é perto dela
+
+
+SENT-220:: suka taua paranã ruaki
+a cidade da casa dela é perto do rio
+a cidade da casa dele é perto do rio
+a cidade da casa dele é perto do rio
+a casa dela é perto do rio da cidade
+a casa dele é perto do rio da cidade
+a casa dele é perto do rio da cidade
+
+
+SENT-221:: suka taua uiku paranã ruaki
+a cidade da casa dela está perto do rio
+a cidade da casa dele está perto do rio
+a cidade da casa dele está perto do rio
+
+
+SENT-222:: suka taua upé
+a casa dela é na cidade
+a casa dela é na cidade
+a casa dele é na cidade
+a casa dele é na cidade
+a casa dele é na cidade
+a casa dele é na cidade
+
+
+SENT-223:: suka uiku suaki
+a casa dela está perto dele
+a casa dela está perto dele
+a casa dela está perto dela
+a casa dele está perto dele
+a casa dele está perto dele
+a casa dele está perto dela
+a casa dele está perto dele
+a casa dele está perto dele
+a casa dele está perto dela
+
+
+SENT-224:: suka uiku taua paranã ruaki
+a casa dela está perto do rio da cidade
+a casa dele está perto do rio da cidade
+a casa dele está perto do rio da cidade
+
+
+SENT-225:: suka uiku taua upé
+a casa dela está na cidade
+a casa dela está na cidade
+a casa dele está na cidade
+a casa dele está na cidade
+a casa dele está na cidade
+a casa dele está na cidade
+
+
+SENT-226:: suri
+ele é feliz
+ele é feliz
+ela é feliz
+
+
+SENT-227:: suri retana
+ele é muito feliz
+ele é muito feliz
+ela é muito feliz
+
+
+SENT-228:: suri uiku
+ele está feliz
+ele está feliz
+ela está feliz
+
+
+SENT-229:: sé timbiú suka upé
+a deliciosa comida é na casa dela
+a deliciosa comida é na casa dele
+a deliciosa comida é na casa dele
+a deliciosa comida é na casa dela
+a deliciosa comida é na casa dele
+a deliciosa comida é na casa dele
+
+
+SENT-230:: sé timbiú uiku suka upé
+a deliciosa comida está na casa dela
+a deliciosa comida está na casa dele
+a deliciosa comida está na casa dele
+a deliciosa comida está na casa dela
+a deliciosa comida está na casa dele
+a deliciosa comida está na casa dele
+
+
+SENT-231:: ti aiku suaki
+eu não estou perto dele
+eu não estou perto dele
+eu não estou perto dela
+
+
+SENT-232:: ti iaiku tendaua upé
+nós não estamos na comunidade
+nós não estamos na comunidade
+
+
+SENT-233:: ti ne ruri reiku
+você não está feliz
+
+
+SENT-234:: ti se ruri
+eu não sou feliz
+
+
+SENT-235:: timbiú sé
+a comida é deliciosa
+
+
+SENT-236:: timbiú sé uiku
+a comida está deliciosa
+
+
+SENT-237:: timbiú sé uiku suka upé
+a deliciosa comida está na casa dela
+a deliciosa comida está na casa dele
+a deliciosa comida está na casa dele
+a deliciosa comida está na casa dela
+a deliciosa comida está na casa dele
+a deliciosa comida está na casa dele
+
+
+SENT-238:: tukandira-itá i upé
+as formigas são nele
+as formigas são nele
+as formigas são nela
+as formigas são nele
+as formigas são nele
+as formigas são nela
+
+
+SENT-239:: tukandira-itá uiku i upé
+as formigas estão nele
+as formigas estão nele
+as formigas estão nela
+as formigas estão nele
+as formigas estão nele
+as formigas estão nela
+
+
+SENT-240:: ximbiú saku
+a comida dela é quente
+a comida dele é quente
+a comida dele é quente
+
+
+SENT-241:: ximbiú saku uiku
+a comida dela está quente
+a comida dele está quente
+a comida dele está quente
+
+
+SENT-242:: ximbiú sé
+a comida dela é deliciosa
+a comida dele é deliciosa
+a comida dele é deliciosa
+
+
+SENT-243:: ximbiú sé uiku
+a comida dela está deliciosa
+a comida dele está deliciosa
+a comida dele está deliciosa
+
+

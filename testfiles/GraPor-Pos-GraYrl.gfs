@@ -1,0 +1,442 @@
+import GraPor.gf
+import GraYrl.gf
+! echo "@ a canoa dela esta' pesada"
+p -lang=GraPor "a canoa dela está pesada" | l -lang=GraYrl
+! echo "@ a canoa dela e' no rio"
+p -lang=GraPor "a canoa dela é no rio" | l -lang=GraYrl
+! echo "@ a canoa dele esta' pesada"
+p -lang=GraPor "a canoa dele está pesada" | l -lang=GraYrl
+! echo "@ a canoa dele e' no rio"
+p -lang=GraPor "a canoa dele é no rio" | l -lang=GraYrl
+! echo "@ a canoa esta' la'"
+p -lang=GraPor "a canoa está lá" | l -lang=GraYrl
+! echo "@ a canoa esta' pesada"
+p -lang=GraPor "a canoa está pesada" | l -lang=GraYrl
+! echo "@ a canoa e' no rio"
+p -lang=GraPor "a canoa é no rio" | l -lang=GraYrl
+! echo "@ a canoa e' perto do rio"
+p -lang=GraPor "a canoa é perto do rio" | l -lang=GraYrl
+! echo "@ a casa da Maria na~o e' perto dela"
+p -lang=GraPor "a casa da Maria não é perto dela" | l -lang=GraYrl
+! echo "@ a casa da Maria na~o e' perto dele"
+p -lang=GraPor "a casa da Maria não é perto dele" | l -lang=GraYrl
+! echo "@ a casa dela esta' perto dela"
+p -lang=GraPor "a casa dela está perto dela" | l -lang=GraYrl
+! echo "@ a casa dela esta' perto dele"
+p -lang=GraPor "a casa dela está perto dele" | l -lang=GraYrl
+! echo "@ a casa dela e' na cidade"
+p -lang=GraPor "a casa dela é na cidade" | l -lang=GraYrl
+! echo "@ a casa dela e' perto dela"
+p -lang=GraPor "a casa dela é perto dela" | l -lang=GraYrl
+! echo "@ a casa dela e' perto dele"
+p -lang=GraPor "a casa dela é perto dele" | l -lang=GraYrl
+! echo "@ a casa dele esta' perto dela"
+p -lang=GraPor "a casa dele está perto dela" | l -lang=GraYrl
+! echo "@ a casa dele esta' perto dele"
+p -lang=GraPor "a casa dele está perto dele" | l -lang=GraYrl
+! echo "@ a casa dele e' na cidade"
+p -lang=GraPor "a casa dele é na cidade" | l -lang=GraYrl
+! echo "@ a casa dele e' perto dela"
+p -lang=GraPor "a casa dele é perto dela" | l -lang=GraYrl
+! echo "@ a casa dele e' perto dele"
+p -lang=GraPor "a casa dele é perto dele" | l -lang=GraYrl
+! echo "@ a comida da Maria na~o esta' deliciosa"
+p -lang=GraPor "a comida da Maria não está deliciosa" | l -lang=GraYrl
+! echo "@ a comida da Maria na~o e' deliciosa"
+p -lang=GraPor "a comida da Maria não é deliciosa" | l -lang=GraYrl
+! echo "@ a comida dela esta' deliciosa"
+p -lang=GraPor "a comida dela está deliciosa" | l -lang=GraYrl
+! echo "@ a comida dela e' deliciosa"
+p -lang=GraPor "a comida dela é deliciosa" | l -lang=GraYrl
+! echo "@ a comida dela e' quente"
+p -lang=GraPor "a comida dela é quente" | l -lang=GraYrl
+! echo "@ a comida dele esta' deliciosa"
+p -lang=GraPor "a comida dele está deliciosa" | l -lang=GraYrl
+! echo "@ a comida dele e' deliciosa"
+p -lang=GraPor "a comida dele é deliciosa" | l -lang=GraYrl
+! echo "@ a comida dele e' quente"
+p -lang=GraPor "a comida dele é quente" | l -lang=GraYrl
+! echo "@ a comida e' deliciosa"
+p -lang=GraPor "a comida é deliciosa" | l -lang=GraYrl
+! echo "@ a comunidade dela e' bonita"
+p -lang=GraPor "a comunidade dela é bonita" | l -lang=GraYrl
+! echo "@ a comunidade dele e' bonita"
+p -lang=GraPor "a comunidade dele é bonita" | l -lang=GraYrl
+! echo "@ a comunidade do menino e' perto da cidade de voce:s"
+p -lang=GraPor "a comunidade do menino é perto da cidade de vocês" | l -lang=GraYrl
+! echo "@ a deliciosa comida esta' na casa dela"
+p -lang=GraPor "a deliciosa comida está na casa dela" | l -lang=GraYrl
+! echo "@ a deliciosa comida esta' na casa dele"
+p -lang=GraPor "a deliciosa comida está na casa dele" | l -lang=GraYrl
+! echo "@ a fotografia dela esta' bonita"
+p -lang=GraPor "a fotografia dela está bonita" | l -lang=GraYrl
+! echo "@ a fotografia dela e' bonita"
+p -lang=GraPor "a fotografia dela é bonita" | l -lang=GraYrl
+! echo "@ a fotografia dele esta' bonita"
+p -lang=GraPor "a fotografia dele está bonita" | l -lang=GraYrl
+! echo "@ a fotografia dele e' bonita"
+p -lang=GraPor "a fotografia dele é bonita" | l -lang=GraYrl
+! echo "@ a fotografia esta' bonita"
+p -lang=GraPor "a fotografia está bonita" | l -lang=GraYrl
+! echo "@ a fotografia e' bonita"
+p -lang=GraPor "a fotografia é bonita" | l -lang=GraYrl
+! echo "@ a li'ngua deles do seu irma~o e' bonita"
+p -lang=GraPor "a língua deles do seu irmão é bonita" | l -lang=GraYrl
+! echo "@ a li'ngua do seu irma~o e' bonita"
+p -lang=GraPor "a língua do seu irmão é bonita" | l -lang=GraYrl
+! echo "@ a li'ngua do seu marido e' bonita"
+p -lang=GraPor "a língua do seu marido é bonita" | l -lang=GraYrl
+! echo "@ a li'ngua deles do teu irma~o e' bonita"
+p -lang=GraPor "a língua deles do teu irmão é bonita" | l -lang=GraYrl
+! echo "@ a li'ngua do teu irma~o e' bonita"
+p -lang=GraPor "a língua do teu irmão é bonita" | l -lang=GraYrl
+! echo "@ a li'ngua do teu marido e' bonita"
+p -lang=GraPor "a língua do teu marido é bonita" | l -lang=GraYrl
+! echo "@ a minha casa esta' naquela suja rua"
+p -lang=GraPor "a minha casa está naquela suja rua" | l -lang=GraYrl
+! echo "@ a minha casa esta' naquela suja rua dela"
+p -lang=GraPor "a minha casa está naquela suja rua dela" | l -lang=GraYrl
+! echo "@ a minha casa esta' naquela suja rua dele"
+p -lang=GraPor "a minha casa está naquela suja rua dele" | l -lang=GraYrl
+! echo "@ a minha casa esta' naquele sujo caminho"
+p -lang=GraPor "a minha casa está naquele sujo caminho" | l -lang=GraYrl
+! echo "@ a minha casa esta' naquele sujo caminho dela"
+p -lang=GraPor "a minha casa está naquele sujo caminho dela" | l -lang=GraYrl
+! echo "@ a minha casa esta' naquele sujo caminho dele"
+p -lang=GraPor "a minha casa está naquele sujo caminho dele" | l -lang=GraYrl
+! echo "@ a minha casa esta' nela"
+p -lang=GraPor "a minha casa está nela" | l -lang=GraYrl
+! echo "@ a minha casa esta' nele"
+p -lang=GraPor "a minha casa está nele" | l -lang=GraYrl
+! echo "@ a minha casa esta' perto de voce:"
+p -lang=GraPor "a minha casa está perto de você" | l -lang=GraYrl
+! echo "@ a minha casa esta' perto dela"
+p -lang=GraPor "a minha casa está perto dela" | l -lang=GraYrl
+! echo "@ a minha casa esta' perto dele"
+p -lang=GraPor "a minha casa está perto dele" | l -lang=GraYrl
+! echo "@ a minha casa esta' perto desta suja rua"
+p -lang=GraPor "a minha casa está perto desta suja rua" | l -lang=GraYrl
+! echo "@ a minha casa esta' perto deste sujo caminho"
+p -lang=GraPor "a minha casa está perto deste sujo caminho" | l -lang=GraYrl
+! echo "@ a minha casa na~o e' no rio"
+p -lang=GraPor "a minha casa não é no rio" | l -lang=GraYrl
+! echo "@ a minha casa na~o e' perto do rio"
+p -lang=GraPor "a minha casa não é perto do rio" | l -lang=GraYrl
+! echo "@ a minha casa e' naquela suja rua"
+p -lang=GraPor "a minha casa é naquela suja rua" | l -lang=GraYrl
+! echo "@ a minha casa e' naquela suja rua dela"
+p -lang=GraPor "a minha casa é naquela suja rua dela" | l -lang=GraYrl
+! echo "@ a minha casa e' naquela suja rua dele"
+p -lang=GraPor "a minha casa é naquela suja rua dele" | l -lang=GraYrl
+! echo "@ a minha casa e' naquele sujo caminho"
+p -lang=GraPor "a minha casa é naquele sujo caminho" | l -lang=GraYrl
+! echo "@ a minha casa e' naquele sujo caminho dela"
+p -lang=GraPor "a minha casa é naquele sujo caminho dela" | l -lang=GraYrl
+! echo "@ a minha casa e' naquele sujo caminho dele"
+p -lang=GraPor "a minha casa é naquele sujo caminho dele" | l -lang=GraYrl
+! echo "@ a minha casa e' nela"
+p -lang=GraPor "a minha casa é nela" | l -lang=GraYrl
+! echo "@ a minha casa e' nele"
+p -lang=GraPor "a minha casa é nele" | l -lang=GraYrl
+! echo "@ a minha casa e' no rio"
+p -lang=GraPor "a minha casa é no rio" | l -lang=GraYrl
+! echo "@ a minha casa e' perto da casa dela"
+p -lang=GraPor "a minha casa é perto da casa dela" | l -lang=GraYrl
+! echo "@ a minha casa e' perto da casa dele"
+p -lang=GraPor "a minha casa é perto da casa dele" | l -lang=GraYrl
+! echo "@ a minha casa e' perto da sua casa"
+p -lang=GraPor "a minha casa é perto da sua casa" | l -lang=GraYrl
+! echo "@ a minha casa e' perto de voce:"
+p -lang=GraPor "a minha casa é perto de você" | l -lang=GraYrl
+! echo "@ a minha casa e' perto dela"
+p -lang=GraPor "a minha casa é perto dela" | l -lang=GraYrl
+! echo "@ a minha casa e' perto dele"
+p -lang=GraPor "a minha casa é perto dele" | l -lang=GraYrl
+! echo "@ a minha casa e' perto desta suja rua"
+p -lang=GraPor "a minha casa é perto desta suja rua" | l -lang=GraYrl
+! echo "@ a minha casa e' perto desta suja rua dela"
+p -lang=GraPor "a minha casa é perto desta suja rua dela" | l -lang=GraYrl
+! echo "@ a minha casa e' perto desta suja rua dele"
+p -lang=GraPor "a minha casa é perto desta suja rua dele" | l -lang=GraYrl
+! echo "@ a minha casa e' perto deste sujo caminho"
+p -lang=GraPor "a minha casa é perto deste sujo caminho" | l -lang=GraYrl
+! echo "@ a minha casa e' perto deste sujo caminho dela"
+p -lang=GraPor "a minha casa é perto deste sujo caminho dela" | l -lang=GraYrl
+! echo "@ a minha casa e' perto deste sujo caminho dele"
+p -lang=GraPor "a minha casa é perto deste sujo caminho dele" | l -lang=GraYrl
+! echo "@ a minha casa e' perto do rio"
+p -lang=GraPor "a minha casa é perto do rio" | l -lang=GraYrl
+! echo "@ a minha comida e' deliciosa"
+p -lang=GraPor "a minha comida é deliciosa" | l -lang=GraYrl
+! echo "@ a mulher esta' bonita"
+p -lang=GraPor "a mulher está bonita" | l -lang=GraYrl
+! echo "@ a mulher esta' feliz"
+p -lang=GraPor "a mulher está feliz" | l -lang=GraYrl
+! echo "@ a palavra deles do seu irma~o e' bonita"
+p -lang=GraPor "a palavra deles do seu irmão é bonita" | l -lang=GraYrl
+! echo "@ a palavra do seu irma~o e' bonita"
+p -lang=GraPor "a palavra do seu irmão é bonita" | l -lang=GraYrl
+! echo "@ a palavra do seu marido e' bonita"
+p -lang=GraPor "a palavra do seu marido é bonita" | l -lang=GraYrl
+! echo "@ a palavra deles do teu irma~o e' bonita"
+p -lang=GraPor "a palavra deles do teu irmão é bonita" | l -lang=GraYrl
+! echo "@ a palavra do teu irma~o e' bonita"
+p -lang=GraPor "a palavra do teu irmão é bonita" | l -lang=GraYrl
+! echo "@ a palavra do teu marido e' bonita"
+p -lang=GraPor "a palavra do teu marido é bonita" | l -lang=GraYrl
+! echo "@ a pesada canoa esta' barata"
+p -lang=GraPor "a pesada canoa está barata" | l -lang=GraYrl
+! echo "@ a sua comida e' muito bonita"
+p -lang=GraPor "a sua comida é muito bonita" | l -lang=GraYrl
+! echo "@ aquela comida dela e' bonita"
+p -lang=GraPor "aquela comida dela é bonita" | l -lang=GraYrl
+! echo "@ aquela comida dele e' bonita"
+p -lang=GraPor "aquela comida dele é bonita" | l -lang=GraYrl
+! echo "@ aquela comida e' muito cara"
+p -lang=GraPor "aquela comida é muito cara" | l -lang=GraYrl
+! echo "@ aquela minha canoa esta' no rio"
+p -lang=GraPor "aquela minha canoa está no rio" | l -lang=GraYrl
+! echo "@ aquele anzol do Pedro esta' na canoa"
+p -lang=GraPor "aquele anzol do Pedro está na canoa" | l -lang=GraYrl
+! echo "@ aquele anzol do menino e' na canoa"
+p -lang=GraPor "aquele anzol do menino é na canoa" | l -lang=GraYrl
+! echo "@ aquele menino e' na canoa do anzol"
+p -lang=GraPor "aquele menino é na canoa do anzol" | l -lang=GraYrl
+! echo "@ aqueles filhos da mulher esta~o com eles"
+p -lang=GraPor "aqueles filhos da mulher estão com eles" | l -lang=GraYrl
+! echo "@ as formigas esta~o nela"
+p -lang=GraPor "as formigas estão nela" | l -lang=GraYrl
+! echo "@ as formigas esta~o nele"
+p -lang=GraPor "as formigas estão nele" | l -lang=GraYrl
+! echo "@ as mulheres esta~o bonitas"
+p -lang=GraPor "as mulheres estão bonitas" | l -lang=GraYrl
+! echo "@ ela esta' feliz"
+p -lang=GraPor "ela está feliz" | l -lang=GraYrl
+! echo "@ ela esta' pesada"
+p -lang=GraPor "ela está pesada" | l -lang=GraYrl
+! echo "@ ela e' bonita"
+p -lang=GraPor "ela é bonita" | l -lang=GraYrl
+! echo "@ ela e' feliz"
+p -lang=GraPor "ela é feliz" | l -lang=GraYrl
+! echo "@ ela e' muito feliz"
+p -lang=GraPor "ela é muito feliz" | l -lang=GraYrl
+! echo "@ ela e' pesada"
+p -lang=GraPor "ela é pesada" | l -lang=GraYrl
+! echo "@ ela e' quente"
+p -lang=GraPor "ela é quente" | l -lang=GraYrl
+! echo "@ ele esta' feliz"
+p -lang=GraPor "ele está feliz" | l -lang=GraYrl
+! echo "@ ele esta' pesado"
+p -lang=GraPor "ele está pesado" | l -lang=GraYrl
+! echo "@ ele e' bonito"
+p -lang=GraPor "ele é bonito" | l -lang=GraYrl
+! echo "@ ele e' feliz"
+p -lang=GraPor "ele é feliz" | l -lang=GraYrl
+! echo "@ ele e' muito feliz"
+p -lang=GraPor "ele é muito feliz" | l -lang=GraYrl
+! echo "@ ele e' pesado"
+p -lang=GraPor "ele é pesado" | l -lang=GraYrl
+! echo "@ ele e' quente"
+p -lang=GraPor "ele é quente" | l -lang=GraYrl
+! echo "@ eles sa~o felizes"
+p -lang=GraPor "eles são felizes" | l -lang=GraYrl
+! echo "@ esta faca da esposa dela na~o esta' na casa"
+p -lang=GraPor "esta faca da esposa dela não está na casa" | l -lang=GraYrl
+! echo "@ esta faca da esposa dele na~o esta' na casa"
+p -lang=GraPor "esta faca da esposa dele não está na casa" | l -lang=GraYrl
+! echo "@ esta fotografia da crianc,a e' bonita"
+p -lang=GraPor "esta fotografia da criança é bonita" | l -lang=GraYrl
+! echo "@ esta fotografia dela dos ovos dela esta' bonita"
+p -lang=GraPor "esta fotografia dela dos ovos dela está bonita" | l -lang=GraYrl
+! echo "@ esta fotografia dela dos ovos dela e' bonita"
+p -lang=GraPor "esta fotografia dela dos ovos dela é bonita" | l -lang=GraYrl
+! echo "@ esta fotografia dela dos ovos dele esta' bonita"
+p -lang=GraPor "esta fotografia dela dos ovos dele está bonita" | l -lang=GraYrl
+! echo "@ esta fotografia dela dos ovos dele e' bonita"
+p -lang=GraPor "esta fotografia dela dos ovos dele é bonita" | l -lang=GraYrl
+! echo "@ esta fotografia dela dos ovos esta' bonita"
+p -lang=GraPor "esta fotografia dela dos ovos está bonita" | l -lang=GraYrl
+! echo "@ esta fotografia dela dos ovos e' bonita"
+p -lang=GraPor "esta fotografia dela dos ovos é bonita" | l -lang=GraYrl
+! echo "@ esta fotografia dele dos ovos dela esta' bonita"
+p -lang=GraPor "esta fotografia dele dos ovos dela está bonita" | l -lang=GraYrl
+! echo "@ esta fotografia dele dos ovos dela e' bonita"
+p -lang=GraPor "esta fotografia dele dos ovos dela é bonita" | l -lang=GraYrl
+! echo "@ esta fotografia dele dos ovos dele esta' bonita"
+p -lang=GraPor "esta fotografia dele dos ovos dele está bonita" | l -lang=GraYrl
+! echo "@ esta fotografia dele dos ovos dele e' bonita"
+p -lang=GraPor "esta fotografia dele dos ovos dele é bonita" | l -lang=GraYrl
+! echo "@ esta fotografia dele dos ovos esta' bonita"
+p -lang=GraPor "esta fotografia dele dos ovos está bonita" | l -lang=GraYrl
+! echo "@ esta fotografia dele dos ovos e' bonita"
+p -lang=GraPor "esta fotografia dele dos ovos é bonita" | l -lang=GraYrl
+! echo "@ esta fotografia dos ovos dela esta' bonita"
+p -lang=GraPor "esta fotografia dos ovos dela está bonita" | l -lang=GraYrl
+! echo "@ esta fotografia dos ovos dela e' bonita"
+p -lang=GraPor "esta fotografia dos ovos dela é bonita" | l -lang=GraYrl
+! echo "@ esta fotografia dos ovos dele esta' bonita"
+p -lang=GraPor "esta fotografia dos ovos dele está bonita" | l -lang=GraYrl
+! echo "@ esta fotografia dos ovos dele e' bonita"
+p -lang=GraPor "esta fotografia dos ovos dele é bonita" | l -lang=GraYrl
+! echo "@ esta fotografia dos ovos esta' bonita"
+p -lang=GraPor "esta fotografia dos ovos está bonita" | l -lang=GraYrl
+! echo "@ esta fotografia dos ovos e' bonita"
+p -lang=GraPor "esta fotografia dos ovos é bonita" | l -lang=GraYrl
+! echo "@ esta pedra esta' muito pesada"
+p -lang=GraPor "esta pedra está muito pesada" | l -lang=GraYrl
+! echo "@ esta pedra esta' pesada"
+p -lang=GraPor "esta pedra está pesada" | l -lang=GraYrl
+! echo "@ esta pedra e' muito pesada"
+p -lang=GraPor "esta pedra é muito pesada" | l -lang=GraYrl
+! echo "@ esta pedra e' pesada"
+p -lang=GraPor "esta pedra é pesada" | l -lang=GraYrl
+! echo "@ estas pedras esta~o pesadas"
+p -lang=GraPor "estas pedras estão pesadas" | l -lang=GraYrl
+! echo "@ estas pedras sa~o pesadas"
+p -lang=GraPor "estas pedras são pesadas" | l -lang=GraYrl
+! echo "@ este leite esta' quente"
+p -lang=GraPor "este leite está quente" | l -lang=GraYrl
+! echo "@ estes ovos da fotografia dela esta~o bonitos"
+p -lang=GraPor "estes ovos da fotografia dela estão bonitos" | l -lang=GraYrl
+! echo "@ estes ovos da fotografia dela sa~o bonitos"
+p -lang=GraPor "estes ovos da fotografia dela são bonitos" | l -lang=GraYrl
+! echo "@ estes ovos da fotografia dele esta~o bonitos"
+p -lang=GraPor "estes ovos da fotografia dele estão bonitos" | l -lang=GraYrl
+! echo "@ estes ovos da fotografia dele sa~o bonitos"
+p -lang=GraPor "estes ovos da fotografia dele são bonitos" | l -lang=GraYrl
+! echo "@ estes ovos da fotografia esta~o bonitos"
+p -lang=GraPor "estes ovos da fotografia estão bonitos" | l -lang=GraYrl
+! echo "@ estes ovos da fotografia sa~o bonitos"
+p -lang=GraPor "estes ovos da fotografia são bonitos" | l -lang=GraYrl
+! echo "@ estes peixes vermelhos esta~o baratos"
+p -lang=GraPor "estes peixes vermelhos estão baratos" | l -lang=GraYrl
+! echo "@ estes vermelhos peixes esta~o baratos"
+p -lang=GraPor "estes vermelhos peixes estão baratos" | l -lang=GraYrl
+! echo "@ eu estou aqui"
+p -lang=GraPor "eu estou aqui" | l -lang=GraYrl
+! echo "@ eu estou com ela"
+p -lang=GraPor "eu estou com ela" | l -lang=GraYrl
+! echo "@ eu estou com ele"
+p -lang=GraPor "eu estou com ele" | l -lang=GraYrl
+! echo "@ eu estou feliz"
+p -lang=GraPor "eu estou feliz" | l -lang=GraYrl
+! echo "@ eu estou perto da casa dela"
+p -lang=GraPor "eu estou perto da casa dela" | l -lang=GraYrl
+! echo "@ eu estou perto da casa dele"
+p -lang=GraPor "eu estou perto da casa dele" | l -lang=GraYrl
+! echo "@ eu estou perto dela"
+p -lang=GraPor "eu estou perto dela" | l -lang=GraYrl
+! echo "@ eu estou perto dele"
+p -lang=GraPor "eu estou perto dele" | l -lang=GraYrl
+! echo "@ eu estou pesado"
+p -lang=GraPor "eu estou pesado" | l -lang=GraYrl
+! echo "@ eu na~o estou feliz"
+p -lang=GraPor "eu não estou feliz" | l -lang=GraYrl
+! echo "@ eu na~o estou muito feliz"
+p -lang=GraPor "eu não estou muito feliz" | l -lang=GraYrl
+! echo "@ eu na~o estou perto dela"
+p -lang=GraPor "eu não estou perto dela" | l -lang=GraYrl
+! echo "@ eu na~o estou perto dele"
+p -lang=GraPor "eu não estou perto dele" | l -lang=GraYrl
+! echo "@ eu na~o sou feliz"
+p -lang=GraPor "eu não sou feliz" | l -lang=GraYrl
+! echo "@ eu na~o sou muito feliz"
+p -lang=GraPor "eu não sou muito feliz" | l -lang=GraYrl
+! echo "@ eu sou feliz"
+p -lang=GraPor "eu sou feliz" | l -lang=GraYrl
+! echo "@ eu sou pesado"
+p -lang=GraPor "eu sou pesado" | l -lang=GraYrl
+! echo "@ estou aqui"
+p -lang=GraPor "estou aqui" | l -lang=GraYrl
+! echo "@ estou com ela"
+p -lang=GraPor "estou com ela" | l -lang=GraYrl
+! echo "@ estou com ele"
+p -lang=GraPor "estou com ele" | l -lang=GraYrl
+! echo "@ estou feliz"
+p -lang=GraPor "estou feliz" | l -lang=GraYrl
+! echo "@ estou perto da casa dela"
+p -lang=GraPor "estou perto da casa dela" | l -lang=GraYrl
+! echo "@ estou perto da casa dele"
+p -lang=GraPor "estou perto da casa dele" | l -lang=GraYrl
+! echo "@ estou perto dela"
+p -lang=GraPor "estou perto dela" | l -lang=GraYrl
+! echo "@ estou perto dele"
+p -lang=GraPor "estou perto dele" | l -lang=GraYrl
+! echo "@ estou pesado"
+p -lang=GraPor "estou pesado" | l -lang=GraYrl
+! echo "@ na~o estou feliz"
+p -lang=GraPor "não estou feliz" | l -lang=GraYrl
+! echo "@ na~o estou muito feliz"
+p -lang=GraPor "não estou muito feliz" | l -lang=GraYrl
+! echo "@ na~o estou perto dela"
+p -lang=GraPor "não estou perto dela" | l -lang=GraYrl
+! echo "@ na~o estou perto dele"
+p -lang=GraPor "não estou perto dele" | l -lang=GraYrl
+! echo "@ na~o sou feliz"
+p -lang=GraPor "não sou feliz" | l -lang=GraYrl
+! echo "@ na~o sou muito feliz"
+p -lang=GraPor "não sou muito feliz" | l -lang=GraYrl
+! echo "@ sou feliz"
+p -lang=GraPor "sou feliz" | l -lang=GraYrl
+! echo "@ sou pesado"
+p -lang=GraPor "sou pesado" | l -lang=GraYrl
+! echo "@ no's estamos perto de voce:s"
+p -lang=GraPor "nós estamos perto de vocês" | l -lang=GraYrl
+! echo "@ no's na~o estamos na comunidade"
+p -lang=GraPor "nós não estamos na comunidade" | l -lang=GraYrl
+! echo "@ estamos perto de voce:s"
+p -lang=GraPor "estamos perto de vocês" | l -lang=GraYrl
+! echo "@ na~o estamos na comunidade"
+p -lang=GraPor "não estamos na comunidade" | l -lang=GraYrl
+! echo "@ o avo: da Maria esta' no rio"
+p -lang=GraPor "o avô da Maria está no rio" | l -lang=GraYrl
+! echo "@ o beiju esta' quente"
+p -lang=GraPor "o beiju está quente" | l -lang=GraYrl
+! echo "@ o galho da a'rvore e' vermelho"
+p -lang=GraPor "o galho da árvore é vermelho" | l -lang=GraYrl
+! echo "@ o rio da canoa e' perto dela"
+p -lang=GraPor "o rio da canoa é perto dela" | l -lang=GraYrl
+! echo "@ o rio da canoa e' perto dele"
+p -lang=GraPor "o rio da canoa é perto dele" | l -lang=GraYrl
+! echo "@ os beijus esta~o quentes"
+p -lang=GraPor "os beijus estão quentes" | l -lang=GraYrl
+! echo "@ os filhos da Maria sa~o bonitos"
+p -lang=GraPor "os filhos da Maria são bonitos" | l -lang=GraYrl
+! echo "@ os filhos da mulher esta~o comigo"
+p -lang=GraPor "os filhos da mulher estão comigo" | l -lang=GraYrl
+! echo "@ voce: esta' feliz"
+p -lang=GraPor "você está feliz" | l -lang=GraYrl
+! echo "@ voce: na~o esta' feliz"
+p -lang=GraPor "você não está feliz" | l -lang=GraYrl
+! echo "@ voce: e' feliz"
+p -lang=GraPor "você é feliz" | l -lang=GraYrl
+! echo "@ voce:s esta~o felizes"
+p -lang=GraPor "vocês estão felizes" | l -lang=GraYrl
+! echo "@ esta' feliz"
+p -lang=GraPor "está feliz" | l -lang=GraYrl
+! echo "@ na~o esta' feliz"
+p -lang=GraPor "não está feliz" | l -lang=GraYrl
+! echo "@ e' feliz"
+p -lang=GraPor "é feliz" | l -lang=GraYrl
+! echo "@ esta~o felizes"
+p -lang=GraPor "estão felizes" | l -lang=GraYrl
+! echo "@ esta's feliz"
+p -lang=GraPor "estás feliz" | l -lang=GraYrl
+! echo "@ na~o esta's feliz"
+p -lang=GraPor "não estás feliz" | l -lang=GraYrl
+! echo "@ e's feliz"
+p -lang=GraPor "és feliz" | l -lang=GraYrl
+! echo "@ tu esta's feliz"
+p -lang=GraPor "tu estás feliz" | l -lang=GraYrl
+! echo "@ tu na~o esta's feliz"
+p -lang=GraPor "tu não estás feliz" | l -lang=GraYrl
+! echo "@ tu e's feliz"
+p -lang=GraPor "tu és feliz" | l -lang=GraYrl
+! echo "@ a casa dela e' perto do rio da cidade"
+p -lang=GraPor "a casa dela é perto do rio da cidade" | l -lang=GraYrl
+! echo "@ a casa dele e' perto do rio da cidade"
+p -lang=GraPor "a casa dele é perto do rio da cidade" | l -lang=GraYrl
+! echo "@ a cidade da casa dela e' perto do rio"
+p -lang=GraPor "a cidade da casa dela é perto do rio" | l -lang=GraYrl
+! echo "@ a cidade da casa dele e' perto do rio"
+p -lang=GraPor "a cidade da casa dele é perto do rio" | l -lang=GraYrl

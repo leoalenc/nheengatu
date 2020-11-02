@@ -1,0 +1,1300 @@
+#1: p -lang=GraYrl "Maria mimbira-itá puranga"
+Pred Yes (Poss (mkPsor SG Maria) (ThePL (mkKind Daughter_Of_Woman))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor SG Maria) (ThePL (mkKind Son_Of_Woman))) (IndLevelState (mkPropQual Beautiful))
+
+
+#2: p -lang=GraYrl "Maria mimbira-itá puranga uiku"
+Pred Yes (Poss (mkPsor SG Maria) (ThePL (mkKind Daughter_Of_Woman))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor SG Maria) (ThePL (mkKind Son_Of_Woman))) (StageLevelState (mkPropQual Beautiful))
+
+
+#3: p -lang=GraYrl "Maria ramunha paranã upé"
+Pred Yes (Poss (mkPsor SG Maria) (TheSG (mkKind Grandfather))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (Poss (mkPsor SG Maria) (TheSG (mkKind Grandfather))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+
+
+#4: p -lang=GraYrl "Maria ramunha uiku paranã upé"
+Pred Yes (Poss (mkPsor SG Maria) (TheSG (mkKind Grandfather))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (Poss (mkPsor SG Maria) (TheSG (mkKind Grandfather))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+
+
+#5: p -lang=GraYrl "Maria raíra-itá puranga"
+Pred Yes (Poss (mkPsor SG Maria) (ThePL (mkKind Son_Of_Man))) (IndLevelState (mkPropQual Beautiful))
+
+
+#6: p -lang=GraYrl "Maria raíra-itá puranga uiku"
+Pred Yes (Poss (mkPsor SG Maria) (ThePL (mkKind Son_Of_Man))) (StageLevelState (mkPropQual Beautiful))
+
+
+#7: p -lang=GraYrl "Maria rimbiú ti sé"
+Pred No (Poss (mkPsor SG Maria) (TheSG (mkKind Food))) (IndLevelState (mkPropQual Delicious))
+
+
+#8: p -lang=GraYrl "Maria rimbiú ti sé uiku"
+Pred No (Poss (mkPsor SG Maria) (TheSG (mkKind Food))) (StageLevelState (mkPropQual Delicious))
+
+
+#9: p -lang=GraYrl "Maria ruka ti suaki"
+Pred No (Poss (mkPsor SG Maria) (TheSG (mkKind House))) (IndLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred No (Poss (mkPsor SG Maria) (TheSG (mkKind House))) (IndLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred No (Poss (mkPsor SG Maria) (TheSG (mkKind House))) (IndLevelState (mkPropLoc (Near (mkItemDeitic She))))
+
+
+#10: p -lang=GraYrl "Maria ruka ti uiku suaki"
+Pred No (Poss (mkPsor SG Maria) (TheSG (mkKind House))) (StageLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred No (Poss (mkPsor SG Maria) (TheSG (mkKind House))) (StageLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred No (Poss (mkPsor SG Maria) (TheSG (mkKind House))) (StageLevelState (mkPropLoc (Near (mkItemDeitic She))))
+
+
+#11: p -lang=GraYrl "aiku i irũmu"
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (With (mkItemDeitic He))))
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (With (mkItemDeitic It))))
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (With (mkItemDeitic She))))
+
+
+#12: p -lang=GraYrl "aiku iké"
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc Here))
+
+
+#13: p -lang=GraYrl "aiku suaki"
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemDeitic She))))
+
+
+#14: p -lang=GraYrl "aintá aintá ruri"
+Pred Yes (mkItemDeitic They) (IndLevelState (mkPropQual Happy))
+
+
+#15: p -lang=GraYrl "aintá aintá ruri uiku"
+Pred Yes (mkItemDeitic They) (StageLevelState (mkPropQual Happy))
+
+
+#16: p -lang=GraYrl "aintá ruri"
+Pred Yes (mkItemDeitic They) (IndLevelState (mkPropQual Happy))
+
+
+#17: p -lang=GraYrl "aintá ta ruri"
+Pred Yes (mkItemDeitic They) (IndLevelState (mkPropQual Happy))
+
+
+#18: p -lang=GraYrl "aé i pusé"
+Pred Yes (mkItemDeitic He) (IndLevelState (mkPropQual Heavy))
+Pred Yes (mkItemDeitic It) (IndLevelState (mkPropQual Heavy))
+Pred Yes (mkItemDeitic She) (IndLevelState (mkPropQual Heavy))
+
+
+#19: p -lang=GraYrl "aé i pusé uiku"
+Pred Yes (mkItemDeitic He) (StageLevelState (mkPropQual Heavy))
+Pred Yes (mkItemDeitic It) (StageLevelState (mkPropQual Heavy))
+Pred Yes (mkItemDeitic She) (StageLevelState (mkPropQual Heavy))
+
+
+#20: p -lang=GraYrl "aé puranga"
+Pred Yes (mkItemDeitic He) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemDeitic It) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemDeitic She) (IndLevelState (mkPropQual Beautiful))
+
+
+#21: p -lang=GraYrl "aé puranga uiku"
+Pred Yes (mkItemDeitic He) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemDeitic It) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemDeitic She) (StageLevelState (mkPropQual Beautiful))
+
+
+#22: p -lang=GraYrl "aé saku"
+Pred Yes (mkItemDeitic He) (IndLevelState (mkPropQual Hot))
+Pred Yes (mkItemDeitic It) (IndLevelState (mkPropQual Hot))
+Pred Yes (mkItemDeitic She) (IndLevelState (mkPropQual Hot))
+
+
+#23: p -lang=GraYrl "aé saku uiku"
+Pred Yes (mkItemDeitic He) (StageLevelState (mkPropQual Hot))
+Pred Yes (mkItemDeitic It) (StageLevelState (mkPropQual Hot))
+Pred Yes (mkItemDeitic She) (StageLevelState (mkPropQual Hot))
+
+
+#24: p -lang=GraYrl "aé suri"
+Pred Yes (mkItemDeitic He) (IndLevelState (mkPropQual Happy))
+Pred Yes (mkItemDeitic It) (IndLevelState (mkPropQual Happy))
+Pred Yes (mkItemDeitic She) (IndLevelState (mkPropQual Happy))
+
+
+#25: p -lang=GraYrl "aé suri retana"
+Pred Yes (mkItemDeitic He) (IndLevelState (mkPropQual (Very Happy)))
+Pred Yes (mkItemDeitic It) (IndLevelState (mkPropQual (Very Happy)))
+Pred Yes (mkItemDeitic She) (IndLevelState (mkPropQual (Very Happy)))
+
+
+#26: p -lang=GraYrl "aé suri retana uiku"
+Pred Yes (mkItemDeitic He) (StageLevelState (mkPropQual (Very Happy)))
+Pred Yes (mkItemDeitic It) (StageLevelState (mkPropQual (Very Happy)))
+Pred Yes (mkItemDeitic She) (StageLevelState (mkPropQual (Very Happy)))
+
+
+#27: p -lang=GraYrl "aé suri uiku"
+Pred Yes (mkItemDeitic He) (StageLevelState (mkPropQual Happy))
+Pred Yes (mkItemDeitic It) (StageLevelState (mkPropQual Happy))
+Pred Yes (mkItemDeitic She) (StageLevelState (mkPropQual Happy))
+
+
+#28: p -lang=GraYrl "aé ti suri uiku"
+Pred No (mkItemDeitic He) (StageLevelState (mkPropQual Happy))
+Pred No (mkItemDeitic It) (StageLevelState (mkPropQual Happy))
+Pred No (mkItemDeitic She) (StageLevelState (mkPropQual Happy))
+
+
+#29: p -lang=GraYrl "i igara i pusé"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Canoe)))) (IndLevelState (mkPropQual Heavy))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Canoe)))) (IndLevelState (mkPropQual Heavy))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Canoe)))) (IndLevelState (mkPropQual Heavy))
+
+
+#30: p -lang=GraYrl "i igara i pusé uiku"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Canoe)))) (StageLevelState (mkPropQual Heavy))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Canoe)))) (StageLevelState (mkPropQual Heavy))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Canoe)))) (StageLevelState (mkPropQual Heavy))
+
+
+#31: p -lang=GraYrl "i igara paranã upé"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Canoe)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Canoe)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Canoe)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Canoe)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Canoe)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Canoe)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+
+
+#32: p -lang=GraYrl "i igara uiku paranã upé"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Canoe)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Canoe)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Canoe)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Canoe)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Canoe)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Canoe)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+
+
+#33: p -lang=GraYrl "i pusé"
+Pred Yes (mkItemDeitic He) (IndLevelState (mkPropQual Heavy))
+Pred Yes (mkItemDeitic It) (IndLevelState (mkPropQual Heavy))
+Pred Yes (mkItemDeitic She) (IndLevelState (mkPropQual Heavy))
+
+
+#34: p -lang=GraYrl "i pusé uiku"
+Pred Yes (mkItemDeitic He) (StageLevelState (mkPropQual Heavy))
+Pred Yes (mkItemDeitic It) (StageLevelState (mkPropQual Heavy))
+Pred Yes (mkItemDeitic She) (StageLevelState (mkPropQual Heavy))
+
+
+#35: p -lang=GraYrl "iaiku pe ruaki"
+Pred Yes (mkItemDeitic We) (StageLevelState (mkPropLoc (Near (mkItemDeitic YouPL))))
+
+
+#36: p -lang=GraYrl "iandé iaiku ne ruaki"
+Pred Yes (mkItemDeitic We) (StageLevelState (mkPropLoc (Near (mkItemDeitic YouSG))))
+
+
+#37: p -lang=GraYrl "iandé iaiku pe ruaki"
+Pred Yes (mkItemDeitic We) (StageLevelState (mkPropLoc (Near (mkItemDeitic YouPL))))
+
+
+#38: p -lang=GraYrl "iandé ne ruaki"
+Pred Yes (mkItemDeitic We) (IndLevelState (mkPropLoc (Near (mkItemDeitic YouSG))))
+
+
+#39: p -lang=GraYrl "iandé pe ruaki"
+Pred Yes (mkItemDeitic We) (IndLevelState (mkPropLoc (Near (mkItemDeitic YouPL))))
+
+
+#40: p -lang=GraYrl "iandé ti iaiku tendaua upé"
+Pred No (mkItemDeitic We) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind Community))))))
+Pred No (mkItemDeitic We) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind Community))))))
+
+
+#41: p -lang=GraYrl "iandé ti tendaua upé"
+Pred No (mkItemDeitic We) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind Community))))))
+Pred No (mkItemDeitic We) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind Community))))))
+
+
+#42: p -lang=GraYrl "igara ape"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Canoe))) (IndLevelState (mkPropLoc There))
+
+
+#43: p -lang=GraYrl "igara i pusé"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Canoe))) (IndLevelState (mkPropQual Heavy))
+
+
+#44: p -lang=GraYrl "igara i pusé uiku"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Canoe))) (StageLevelState (mkPropQual Heavy))
+
+
+#45: p -lang=GraYrl "igara paranã ruaki"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Canoe))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
+
+
+#46: p -lang=GraYrl "igara paranã suaki"
+Pred Yes (Poss (mkPsor SG Canoe) (TheSG (mkKind River))) (IndLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred Yes (Poss (mkPsor SG Canoe) (TheSG (mkKind River))) (IndLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred Yes (Poss (mkPsor SG Canoe) (TheSG (mkKind River))) (IndLevelState (mkPropLoc (Near (mkItemDeitic She))))
+
+
+#47: p -lang=GraYrl "igara paranã uiku suaki"
+Pred Yes (Poss (mkPsor SG Canoe) (TheSG (mkKind River))) (StageLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred Yes (Poss (mkPsor SG Canoe) (TheSG (mkKind River))) (StageLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred Yes (Poss (mkPsor SG Canoe) (TheSG (mkKind River))) (StageLevelState (mkPropLoc (Near (mkItemDeitic She))))
+
+
+#48: p -lang=GraYrl "igara paranã upé"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Canoe))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Canoe))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+
+
+#49: p -lang=GraYrl "igara pusé sepiasuíma uiku"
+Pred Yes (mkItemNonDeitic (TheSG (Mod Heavy (mkKind Canoe)))) (StageLevelState (mkPropQual Cheap))
+
+
+#50: p -lang=GraYrl "igara uiku ape"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Canoe))) (StageLevelState (mkPropLoc There))
+
+
+#51: p -lang=GraYrl "igara uiku paranã ruaki"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Canoe))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
+
+
+#52: p -lang=GraYrl "igara uiku paranã upé"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Canoe))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Canoe))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+
+
+#53: p -lang=GraYrl "indé ne ruri"
+Pred Yes (mkItemDeitic YouSG) (IndLevelState (mkPropQual Happy))
+
+
+#54: p -lang=GraYrl "indé ne ruri reiku"
+Pred Yes (mkItemDeitic YouSG) (StageLevelState (mkPropQual Happy))
+
+
+#55: p -lang=GraYrl "indé ti ne ruri"
+Pred No (mkItemDeitic YouSG) (IndLevelState (mkPropQual Happy))
+
+
+#56: p -lang=GraYrl "indé ti ne ruri reiku"
+Pred No (mkItemDeitic YouSG) (StageLevelState (mkPropQual Happy))
+
+
+#57: p -lang=GraYrl "ixé aiku i irũmu"
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (With (mkItemDeitic He))))
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (With (mkItemDeitic It))))
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (With (mkItemDeitic She))))
+
+
+#58: p -lang=GraYrl "ixé aiku iké"
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc Here))
+
+
+#59: p -lang=GraYrl "ixé aiku suaki"
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemDeitic She))))
+
+
+#60: p -lang=GraYrl "ixé aiku suka ruaki"
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))))))
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))))))
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))))))
+
+
+#61: p -lang=GraYrl "ixé i irũmu"
+Pred Yes (mkItemDeitic I) (IndLevelState (mkPropLoc (With (mkItemDeitic He))))
+Pred Yes (mkItemDeitic I) (IndLevelState (mkPropLoc (With (mkItemDeitic It))))
+Pred Yes (mkItemDeitic I) (IndLevelState (mkPropLoc (With (mkItemDeitic She))))
+
+
+#62: p -lang=GraYrl "ixé iké"
+Pred Yes (mkItemDeitic I) (IndLevelState (mkPropLoc Here))
+
+
+#63: p -lang=GraYrl "ixé niti se ruri"
+Pred No (mkItemDeitic I) (IndLevelState (mkPropQual Happy))
+
+
+#64: p -lang=GraYrl "ixé niti se ruri aiku"
+Pred No (mkItemDeitic I) (StageLevelState (mkPropQual Happy))
+
+
+#65: p -lang=GraYrl "ixé niti se ruri retana"
+Pred No (mkItemDeitic I) (IndLevelState (mkPropQual (Very Happy)))
+
+
+#66: p -lang=GraYrl "ixé niti se ruri retana aiku"
+Pred No (mkItemDeitic I) (StageLevelState (mkPropQual (Very Happy)))
+
+
+#67: p -lang=GraYrl "ixé se pusé"
+Pred Yes (mkItemDeitic I) (IndLevelState (mkPropQual Heavy))
+
+
+#68: p -lang=GraYrl "ixé se pusé aiku"
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropQual Heavy))
+
+
+#69: p -lang=GraYrl "ixé se ruri"
+Pred Yes (mkItemDeitic I) (IndLevelState (mkPropQual Happy))
+
+
+#70: p -lang=GraYrl "ixé se ruri aiku"
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropQual Happy))
+
+
+#71: p -lang=GraYrl "ixé suaki"
+Pred Yes (mkItemDeitic I) (IndLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred Yes (mkItemDeitic I) (IndLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred Yes (mkItemDeitic I) (IndLevelState (mkPropLoc (Near (mkItemDeitic She))))
+
+
+#72: p -lang=GraYrl "ixé suka ruaki"
+Pred Yes (mkItemDeitic I) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))))))
+Pred Yes (mkItemDeitic I) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))))))
+Pred Yes (mkItemDeitic I) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))))))
+
+
+#73: p -lang=GraYrl "ixé ti aiku suaki"
+Pred No (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred No (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred No (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemDeitic She))))
+
+
+#74: p -lang=GraYrl "ixé ti se ruri"
+Pred No (mkItemDeitic I) (IndLevelState (mkPropQual Happy))
+
+
+#75: p -lang=GraYrl "ixé ti se ruri aiku"
+Pred No (mkItemDeitic I) (StageLevelState (mkPropQual Happy))
+
+
+#76: p -lang=GraYrl "ixé ti se ruri retana"
+Pred No (mkItemDeitic I) (IndLevelState (mkPropQual (Very Happy)))
+
+
+#77: p -lang=GraYrl "ixé ti se ruri retana aiku"
+Pred No (mkItemDeitic I) (StageLevelState (mkPropQual (Very Happy)))
+
+
+#78: p -lang=GraYrl "ixé ti suaki"
+Pred No (mkItemDeitic I) (IndLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred No (mkItemDeitic I) (IndLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred No (mkItemDeitic I) (IndLevelState (mkPropLoc (Near (mkItemDeitic She))))
+
+
+#79: p -lang=GraYrl "kunhã mimbira-itá se irũmu"
+Pred Yes (Poss (mkPsor SG Woman) (ThePL (mkKind Daughter_Of_Woman))) (IndLevelState (mkPropLoc (With (mkItemDeitic I))))
+Pred Yes (Poss (mkPsor SG Woman) (ThePL (mkKind Son_Of_Woman))) (IndLevelState (mkPropLoc (With (mkItemDeitic I))))
+
+
+#80: p -lang=GraYrl "kunhã mimbira-itá uiku se irũmu"
+Pred Yes (Poss (mkPsor SG Woman) (ThePL (mkKind Daughter_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+Pred Yes (Poss (mkPsor SG Woman) (ThePL (mkKind Son_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+
+
+#81: p -lang=GraYrl "kunhã puranga"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Woman))) (IndLevelState (mkPropQual Beautiful))
+
+
+#82: p -lang=GraYrl "kunhã puranga uiku"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Woman))) (StageLevelState (mkPropQual Beautiful))
+
+
+#83: p -lang=GraYrl "kunhã raíra-itá se irũmu"
+Pred Yes (Poss (mkPsor SG Woman) (ThePL (mkKind Son_Of_Man))) (IndLevelState (mkPropLoc (With (mkItemDeitic I))))
+
+
+#84: p -lang=GraYrl "kunhã raíra-itá uiku se irũmu"
+Pred Yes (Poss (mkPsor SG Woman) (ThePL (mkKind Son_Of_Man))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+
+
+#85: p -lang=GraYrl "kunhã suri"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Woman))) (IndLevelState (mkPropQual Happy))
+
+
+#86: p -lang=GraYrl "kunhã suri uiku"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Woman))) (StageLevelState (mkPropQual Happy))
+
+
+#87: p -lang=GraYrl "kunhã-itá puranga"
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Woman))) (IndLevelState (mkPropQual Beautiful))
+
+
+#88: p -lang=GraYrl "kunhã-itá puranga uiku"
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Woman))) (StageLevelState (mkPropQual Beautiful))
+
+
+#89: p -lang=GraYrl "kurumĩ rendaua ne taua ruaki"
+Pred Yes (Poss (mkPsor SG Boy) (TheSG (mkKind Community))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ YourSG City)))))))
+
+
+#90: p -lang=GraYrl "kurumĩ rendaua pe taua ruaki"
+Pred Yes (Poss (mkPsor SG Boy) (TheSG (mkKind Community))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ YourPL City)))))))
+
+
+#91: p -lang=GraYrl "kurumĩ rendaua uiku ne taua ruaki"
+Pred Yes (Poss (mkPsor SG Boy) (TheSG (mkKind Community))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ YourSG City)))))))
+
+
+#92: p -lang=GraYrl "kurumĩ rendaua uiku pe taua ruaki"
+Pred Yes (Poss (mkPsor SG Boy) (TheSG (mkKind Community))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ YourPL City)))))))
+
+
+#93: p -lang=GraYrl "kuá itá i pusé"
+Pred Yes (mkItemNonDeitic (This (mkKind Stone))) (IndLevelState (mkPropQual Heavy))
+
+
+#94: p -lang=GraYrl "kuá itá i pusé retana"
+Pred Yes (mkItemNonDeitic (This (mkKind Stone))) (IndLevelState (mkPropQual (Very Heavy)))
+
+
+#95: p -lang=GraYrl "kuá itá i pusé retana uiku"
+Pred Yes (mkItemNonDeitic (This (mkKind Stone))) (StageLevelState (mkPropQual (Very Heavy)))
+
+
+#96: p -lang=GraYrl "kuá itá i pusé uiku"
+Pred Yes (mkItemNonDeitic (This (mkKind Stone))) (StageLevelState (mkPropQual Heavy))
+
+
+#97: p -lang=GraYrl "kuá itá-itá aintá pusé"
+Pred Yes (mkItemNonDeitic (These (mkKind Stone))) (IndLevelState (mkPropQual Heavy))
+
+
+#98: p -lang=GraYrl "kuá itá-itá aintá pusé uiku"
+Pred Yes (mkItemNonDeitic (These (mkKind Stone))) (StageLevelState (mkPropQual Heavy))
+
+
+#99: p -lang=GraYrl "kuá itá-itá ta pusé"
+Pred Yes (mkItemNonDeitic (These (mkKind Stone))) (IndLevelState (mkPropQual Heavy))
+
+
+#100: p -lang=GraYrl "kuá itá-itá ta pusé uiku"
+Pred Yes (mkItemNonDeitic (These (mkKind Stone))) (StageLevelState (mkPropQual Heavy))
+
+
+#101: p -lang=GraYrl "kuá kambi saku"
+Pred Yes (mkItemNonDeitic (This (mkKind Milk))) (IndLevelState (mkPropQual Hot))
+
+
+#102: p -lang=GraYrl "kuá kambi saku uiku"
+Pred Yes (mkItemNonDeitic (This (mkKind Milk))) (StageLevelState (mkPropQual Hot))
+
+
+#103: p -lang=GraYrl "kuá pirá-itá piranga sepiasuíma uiku"
+Pred Yes (mkItemNonDeitic (These (Mod Red (mkKind Fish)))) (StageLevelState (mkPropQual Cheap))
+
+
+#104: p -lang=GraYrl "kuá simiriku kisé ti uiku uka upé"
+Pred No (Poss (mkPsor SG Wife) (This (mkKind Knife))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor SG Wife) (This (mkKind Knife))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor_ SG (Poss_ Her Wife)) (This (mkKind Knife))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor_ SG (Poss_ Her Wife)) (This (mkKind Knife))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor_ SG (Poss_ His Wife)) (This (mkKind Knife))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor_ SG (Poss_ His Wife)) (This (mkKind Knife))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor_ SG (Poss_ Its Wife)) (This (mkKind Knife))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor_ SG (Poss_ Its Wife)) (This (mkKind Knife))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind House))))))
+
+
+#105: p -lang=GraYrl "kuá simiriku kisé ti uka upé"
+Pred No (Poss (mkPsor SG Wife) (This (mkKind Knife))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor SG Wife) (This (mkKind Knife))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor_ SG (Poss_ Her Wife)) (This (mkKind Knife))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor_ SG (Poss_ Her Wife)) (This (mkKind Knife))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor_ SG (Poss_ His Wife)) (This (mkKind Knife))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor_ SG (Poss_ His Wife)) (This (mkKind Knife))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor_ SG (Poss_ Its Wife)) (This (mkKind Knife))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor_ SG (Poss_ Its Wife)) (This (mkKind Knife))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind House))))))
+
+
+#106: p -lang=GraYrl "kuá supiá-itá rangaua puranga"
+Pred Yes (Poss (mkPsor PL Egg) (This (mkKind Picture))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Her Egg)) (This (mkKind Picture))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ His Egg)) (This (mkKind Picture))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Its Egg)) (This (mkKind Picture))) (IndLevelState (mkPropQual Beautiful))
+
+
+#107: p -lang=GraYrl "kuá supiá-itá rangaua puranga uiku"
+Pred Yes (Poss (mkPsor PL Egg) (This (mkKind Picture))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Her Egg)) (This (mkKind Picture))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ His Egg)) (This (mkKind Picture))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Its Egg)) (This (mkKind Picture))) (StageLevelState (mkPropQual Beautiful))
+
+
+#108: p -lang=GraYrl "kuá supiá-itá sangaua puranga"
+Pred Yes (Poss (mkPsor PL Egg) (This (mkKind_ (Poss_ Her Picture)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor PL Egg) (This (mkKind_ (Poss_ His Picture)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor PL Egg) (This (mkKind_ (Poss_ Its Picture)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Her Egg)) (This (mkKind_ (Poss_ Her Picture)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Her Egg)) (This (mkKind_ (Poss_ His Picture)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Her Egg)) (This (mkKind_ (Poss_ Its Picture)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ His Egg)) (This (mkKind_ (Poss_ Her Picture)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ His Egg)) (This (mkKind_ (Poss_ His Picture)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ His Egg)) (This (mkKind_ (Poss_ Its Picture)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Its Egg)) (This (mkKind_ (Poss_ Her Picture)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Its Egg)) (This (mkKind_ (Poss_ His Picture)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Its Egg)) (This (mkKind_ (Poss_ Its Picture)))) (IndLevelState (mkPropQual Beautiful))
+
+
+#109: p -lang=GraYrl "kuá supiá-itá sangaua puranga uiku"
+Pred Yes (Poss (mkPsor PL Egg) (This (mkKind_ (Poss_ Her Picture)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor PL Egg) (This (mkKind_ (Poss_ His Picture)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor PL Egg) (This (mkKind_ (Poss_ Its Picture)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Her Egg)) (This (mkKind_ (Poss_ Her Picture)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Her Egg)) (This (mkKind_ (Poss_ His Picture)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Her Egg)) (This (mkKind_ (Poss_ Its Picture)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ His Egg)) (This (mkKind_ (Poss_ Her Picture)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ His Egg)) (This (mkKind_ (Poss_ His Picture)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ His Egg)) (This (mkKind_ (Poss_ Its Picture)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Its Egg)) (This (mkKind_ (Poss_ Her Picture)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Its Egg)) (This (mkKind_ (Poss_ His Picture)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Its Egg)) (This (mkKind_ (Poss_ Its Picture)))) (StageLevelState (mkPropQual Beautiful))
+
+
+#110: p -lang=GraYrl "kuá taína rangaua puranga"
+Pred Yes (Poss (mkPsor SG Child) (This (mkKind Picture))) (IndLevelState (mkPropQual Beautiful))
+
+
+#111: p -lang=GraYrl "kuá taína rangaua puranga uiku"
+Pred Yes (Poss (mkPsor SG Child) (This (mkKind Picture))) (StageLevelState (mkPropQual Beautiful))
+
+
+#112: p -lang=GraYrl "kuá-itá itá aintá pusé"
+Pred Yes (mkItemNonDeitic (These (mkKind Stone))) (IndLevelState (mkPropQual Heavy))
+
+
+#113: p -lang=GraYrl "kuá-itá itá aintá pusé uiku"
+Pred Yes (mkItemNonDeitic (These (mkKind Stone))) (StageLevelState (mkPropQual Heavy))
+
+
+#114: p -lang=GraYrl "kuá-itá itá ta pusé"
+Pred Yes (mkItemNonDeitic (These (mkKind Stone))) (IndLevelState (mkPropQual Heavy))
+
+
+#115: p -lang=GraYrl "kuá-itá itá ta pusé uiku"
+Pred Yes (mkItemNonDeitic (These (mkKind Stone))) (StageLevelState (mkPropQual Heavy))
+
+
+#116: p -lang=GraYrl "kuá-itá piranga pirá sepiasuíma"
+Pred Yes (mkItemNonDeitic (These (Mod Red (mkKind Fish)))) (IndLevelState (mkPropQual Cheap))
+
+
+#117: p -lang=GraYrl "kuá-itá piranga pirá sepiasuíma uiku"
+Pred Yes (mkItemNonDeitic (These (Mod Red (mkKind Fish)))) (StageLevelState (mkPropQual Cheap))
+
+
+#118: p -lang=GraYrl "kuá-itá pirá piranga sepiasuíma uiku"
+Pred Yes (mkItemNonDeitic (These (Mod Red (mkKind Fish)))) (StageLevelState (mkPropQual Cheap))
+
+
+#119: p -lang=GraYrl "kuá-itá sangaua rupiá puranga"
+Pred Yes (Poss (mkPsor SG Picture) (These (mkKind Egg))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Her Picture)) (These (mkKind Egg))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ His Picture)) (These (mkKind Egg))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Its Picture)) (These (mkKind Egg))) (IndLevelState (mkPropQual Beautiful))
+
+
+#120: p -lang=GraYrl "kuá-itá sangaua rupiá puranga uiku"
+Pred Yes (Poss (mkPsor SG Picture) (These (mkKind Egg))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Her Picture)) (These (mkKind Egg))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ His Picture)) (These (mkKind Egg))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Its Picture)) (These (mkKind Egg))) (StageLevelState (mkPropQual Beautiful))
+
+
+#121: p -lang=GraYrl "meiú saku"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Tapioca_Cake))) (IndLevelState (mkPropQual Hot))
+
+
+#122: p -lang=GraYrl "meiú saku uiku"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Tapioca_Cake))) (StageLevelState (mkPropQual Hot))
+
+
+#123: p -lang=GraYrl "meiú-itá aintá raku"
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Tapioca_Cake))) (IndLevelState (mkPropQual Hot))
+
+
+#124: p -lang=GraYrl "meiú-itá aintá raku uiku"
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Tapioca_Cake))) (StageLevelState (mkPropQual Hot))
+
+
+#125: p -lang=GraYrl "meiú-itá ta raku uiku"
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Tapioca_Cake))) (StageLevelState (mkPropQual Hot))
+
+
+#126: p -lang=GraYrl "mirá rakanga piranga"
+Pred Yes (Poss (mkPsor SG Tree) (TheSG (mkKind Branch))) (IndLevelState (mkPropQual Red))
+
+
+#127: p -lang=GraYrl "mirá rakanga piranga uiku"
+Pred Yes (Poss (mkPsor SG Tree) (TheSG (mkKind Branch))) (StageLevelState (mkPropQual Red))
+
+
+#128: p -lang=GraYrl "ne kiuíra aintá nheenga puranga"
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourSG Brother_Of_Woman)) (TheSG (mkKind_ (Poss_ Their Language)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourSG Brother_Of_Woman)) (TheSG (mkKind_ (Poss_ Their Word)))) (IndLevelState (mkPropQual Beautiful))
+
+
+#129: p -lang=GraYrl "ne kiuíra aintá nheenga puranga uiku"
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourSG Brother_Of_Woman)) (TheSG (mkKind_ (Poss_ Their Language)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourSG Brother_Of_Woman)) (TheSG (mkKind_ (Poss_ Their Word)))) (StageLevelState (mkPropQual Beautiful))
+
+
+#130: p -lang=GraYrl "ne kiuíra nheenga puranga"
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourSG Brother_Of_Woman)) (TheSG (mkKind Language))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourSG Brother_Of_Woman)) (TheSG (mkKind Word))) (IndLevelState (mkPropQual Beautiful))
+
+
+#131: p -lang=GraYrl "ne kiuíra nheenga puranga uiku"
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourSG Brother_Of_Woman)) (TheSG (mkKind Language))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourSG Brother_Of_Woman)) (TheSG (mkKind Word))) (StageLevelState (mkPropQual Beautiful))
+
+
+#132: p -lang=GraYrl "ne kiuíra ta nheenga puranga"
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourSG Brother_Of_Woman)) (TheSG (mkKind_ (Poss_ Their Language)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourSG Brother_Of_Woman)) (TheSG (mkKind_ (Poss_ Their Word)))) (IndLevelState (mkPropQual Beautiful))
+
+
+#133: p -lang=GraYrl "ne mena nheenga puranga"
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourSG Husband)) (TheSG (mkKind Language))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourSG Husband)) (TheSG (mkKind Word))) (IndLevelState (mkPropQual Beautiful))
+
+
+#134: p -lang=GraYrl "ne mena nheenga puranga uiku"
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourSG Husband)) (TheSG (mkKind Language))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourSG Husband)) (TheSG (mkKind Word))) (StageLevelState (mkPropQual Beautiful))
+
+
+#135: p -lang=GraYrl "ne rimbiú puranga retana"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ YourSG Food)))) (IndLevelState (mkPropQual (Very Beautiful)))
+
+
+#136: p -lang=GraYrl "ne rimbiú puranga retana uiku"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ YourSG Food)))) (StageLevelState (mkPropQual (Very Beautiful)))
+
+
+#137: p -lang=GraYrl "ne ruri"
+Pred Yes (mkItemDeitic YouSG) (IndLevelState (mkPropQual Happy))
+
+
+#138: p -lang=GraYrl "ne ruri reiku"
+Pred Yes (mkItemDeitic YouSG) (StageLevelState (mkPropQual Happy))
+
+
+#139: p -lang=GraYrl "nhaã Pedro pindá igara upé"
+Pred Yes (Poss (mkPsor SG Pedro) (That (mkKind Hook))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind Canoe))))))
+Pred Yes (Poss (mkPsor SG Pedro) (That (mkKind Hook))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind Canoe))))))
+Pred Yes (mkItemNonDeitic (That (mkKind Pedro))) (IndLevelState (mkPropLoc (In (Poss (mkPsor SG Hook) (TheSG (mkKind Canoe))))))
+Pred Yes (mkItemNonDeitic (That (mkKind Pedro))) (IndLevelState (mkPropLoc (On (Poss (mkPsor SG Hook) (TheSG (mkKind Canoe))))))
+
+
+#140: p -lang=GraYrl "nhaã Pedro pindá uiku igara kuara upé"
+Pred Yes (Poss (mkPsor SG Pedro) (That (mkKind Hook))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind Canoe))))))
+
+
+#141: p -lang=GraYrl "nhaã Pedro pindá uiku igara upé"
+Pred Yes (Poss (mkPsor SG Pedro) (That (mkKind Hook))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind Canoe))))))
+Pred Yes (Poss (mkPsor SG Pedro) (That (mkKind Hook))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind Canoe))))))
+
+
+#142: p -lang=GraYrl "nhaã kunhã mimbira-itá uiku aintá irũmu"
+Pred Yes (Poss (mkPsor SG Woman) (Those (mkKind Daughter_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+Pred Yes (Poss (mkPsor SG Woman) (Those (mkKind Son_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+
+
+#143: p -lang=GraYrl "nhaã kurumĩ pindá igara pupé"
+Pred Yes (Poss (mkPsor SG Boy) (That (mkKind Hook))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind Canoe))))))
+Pred Yes (mkItemNonDeitic (That (mkKind Boy))) (IndLevelState (mkPropLoc (In (Poss (mkPsor SG Hook) (TheSG (mkKind Canoe))))))
+
+
+#144: p -lang=GraYrl "nhaã kurumĩ pindá igara upé"
+Pred Yes (Poss (mkPsor SG Boy) (That (mkKind Hook))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind Canoe))))))
+Pred Yes (Poss (mkPsor SG Boy) (That (mkKind Hook))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind Canoe))))))
+Pred Yes (mkItemNonDeitic (That (mkKind Boy))) (IndLevelState (mkPropLoc (In (Poss (mkPsor SG Hook) (TheSG (mkKind Canoe))))))
+Pred Yes (mkItemNonDeitic (That (mkKind Boy))) (IndLevelState (mkPropLoc (On (Poss (mkPsor SG Hook) (TheSG (mkKind Canoe))))))
+
+
+#145: p -lang=GraYrl "nhaã kurumĩ pindá uiku igara upé"
+Pred Yes (Poss (mkPsor SG Boy) (That (mkKind Hook))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind Canoe))))))
+Pred Yes (Poss (mkPsor SG Boy) (That (mkKind Hook))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind Canoe))))))
+
+
+#146: p -lang=GraYrl "nhaã kurumĩ uiku pindá igara upé"
+Pred Yes (mkItemNonDeitic (That (mkKind Boy))) (StageLevelState (mkPropLoc (In (Poss (mkPsor SG Hook) (TheSG (mkKind Canoe))))))
+Pred Yes (mkItemNonDeitic (That (mkKind Boy))) (StageLevelState (mkPropLoc (On (Poss (mkPsor SG Hook) (TheSG (mkKind Canoe))))))
+
+
+#147: p -lang=GraYrl "nhaã se igara uiku paranã upé"
+Pred Yes (mkItemNonDeitic (That (mkKind_ (Poss_ My Canoe)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (That (mkKind_ (Poss_ My Canoe)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+
+
+#148: p -lang=GraYrl "nhaã timbiú sepiasu retana"
+Pred Yes (mkItemNonDeitic (That (mkKind Food))) (IndLevelState (mkPropQual (Very Expensive)))
+
+
+#149: p -lang=GraYrl "nhaã timbiú sepiasu retana uiku"
+Pred Yes (mkItemNonDeitic (That (mkKind Food))) (StageLevelState (mkPropQual (Very Expensive)))
+
+
+#150: p -lang=GraYrl "nhaã ximbiú puranga"
+Pred Yes (mkItemNonDeitic (That (mkKind_ (Poss_ Her Food)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (That (mkKind_ (Poss_ His Food)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (That (mkKind_ (Poss_ Its Food)))) (IndLevelState (mkPropQual Beautiful))
+
+
+#151: p -lang=GraYrl "nhaã ximiriku kisé ti uiku uka pupé"
+Pred No (Poss (mkPsor_ SG (Poss_ Her Wife)) (That (mkKind Knife))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor_ SG (Poss_ His Wife)) (That (mkKind Knife))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor_ SG (Poss_ Its Wife)) (That (mkKind Knife))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind House))))))
+
+
+#152: p -lang=GraYrl "nhaã-itá kunhã mimbira aintá irũmu"
+Pred Yes (Poss (mkPsor SG Woman) (Those (mkKind Daughter_Of_Woman))) (IndLevelState (mkPropLoc (With (mkItemDeitic They))))
+Pred Yes (Poss (mkPsor SG Woman) (Those (mkKind Son_Of_Woman))) (IndLevelState (mkPropLoc (With (mkItemDeitic They))))
+
+
+#153: p -lang=GraYrl "nhaã-itá kunhã mimbira uiku aintá irũmu"
+Pred Yes (Poss (mkPsor SG Woman) (Those (mkKind Daughter_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+Pred Yes (Poss (mkPsor SG Woman) (Those (mkKind Son_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+
+
+#154: p -lang=GraYrl "nhaã-itá kunhã raíra aintá irũmu"
+Pred Yes (Poss (mkPsor SG Woman) (Those (mkKind Son_Of_Man))) (IndLevelState (mkPropLoc (With (mkItemDeitic They))))
+
+
+#155: p -lang=GraYrl "nhaã-itá kunhã raíra uiku aintá irũmu"
+Pred Yes (Poss (mkPsor SG Woman) (Those (mkKind Son_Of_Man))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+
+
+#156: p -lang=GraYrl "nhaã-itá simiriku mimbira uiku aintá irũmu"
+Pred Yes (Poss (mkPsor SG Wife) (Those (mkKind Daughter_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+Pred Yes (Poss (mkPsor SG Wife) (Those (mkKind Son_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Her Wife)) (Those (mkKind Daughter_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Her Wife)) (Those (mkKind Son_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ His Wife)) (Those (mkKind Daughter_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ His Wife)) (Those (mkKind Son_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Its Wife)) (Those (mkKind Daughter_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Its Wife)) (Those (mkKind Son_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+
+
+#157: p -lang=GraYrl "nhaã-itá simiriku raíra uiku aintá irũmu"
+Pred Yes (Poss (mkPsor SG Wife) (Those (mkKind Son_Of_Man))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Her Wife)) (Those (mkKind Son_Of_Man))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ His Wife)) (Those (mkKind Son_Of_Man))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Its Wife)) (Those (mkKind Son_Of_Man))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+
+
+#158: p -lang=GraYrl "niti se ruri"
+Pred No (mkItemDeitic I) (IndLevelState (mkPropQual Happy))
+
+
+#159: p -lang=GraYrl "pe kiuíra aintá nheenga puranga"
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourPL Brother_Of_Woman)) (TheSG (mkKind_ (Poss_ Their Language)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourPL Brother_Of_Woman)) (TheSG (mkKind_ (Poss_ Their Word)))) (IndLevelState (mkPropQual Beautiful))
+
+
+#160: p -lang=GraYrl "pe kiuíra aintá nheenga puranga uiku"
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourPL Brother_Of_Woman)) (TheSG (mkKind_ (Poss_ Their Language)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourPL Brother_Of_Woman)) (TheSG (mkKind_ (Poss_ Their Word)))) (StageLevelState (mkPropQual Beautiful))
+
+
+#161: p -lang=GraYrl "pe kiuíra nheenga puranga"
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourPL Brother_Of_Woman)) (TheSG (mkKind Language))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourPL Brother_Of_Woman)) (TheSG (mkKind Word))) (IndLevelState (mkPropQual Beautiful))
+
+
+#162: p -lang=GraYrl "pe kiuíra nheenga puranga uiku"
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourPL Brother_Of_Woman)) (TheSG (mkKind Language))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourPL Brother_Of_Woman)) (TheSG (mkKind Word))) (StageLevelState (mkPropQual Beautiful))
+
+
+#163: p -lang=GraYrl "pe mena nheenga puranga"
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourPL Husband)) (TheSG (mkKind Language))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourPL Husband)) (TheSG (mkKind Word))) (IndLevelState (mkPropQual Beautiful))
+
+
+#164: p -lang=GraYrl "pe mena nheenga puranga uiku"
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourPL Husband)) (TheSG (mkKind Language))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourPL Husband)) (TheSG (mkKind Word))) (StageLevelState (mkPropQual Beautiful))
+
+
+#165: p -lang=GraYrl "pe rimbiú puranga retana"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ YourPL Food)))) (IndLevelState (mkPropQual (Very Beautiful)))
+
+
+#166: p -lang=GraYrl "pe rimbiú puranga retana uiku"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ YourPL Food)))) (StageLevelState (mkPropQual (Very Beautiful)))
+
+
+#167: p -lang=GraYrl "pe ruri peiku"
+Pred Yes (mkItemDeitic YouPL) (StageLevelState (mkPropQual Happy))
+
+
+#168: p -lang=GraYrl "penhẽ pe ruri"
+Pred Yes (mkItemDeitic YouPL) (IndLevelState (mkPropQual Happy))
+
+
+#169: p -lang=GraYrl "penhẽ pe ruri peiku"
+Pred Yes (mkItemDeitic YouPL) (StageLevelState (mkPropQual Happy))
+
+
+#170: p -lang=GraYrl "penhẽ ti pe ruri"
+Pred No (mkItemDeitic YouPL) (IndLevelState (mkPropQual Happy))
+
+
+#171: p -lang=GraYrl "penhẽ ti pe ruri peiku"
+Pred No (mkItemDeitic YouPL) (StageLevelState (mkPropQual Happy))
+
+
+#172: p -lang=GraYrl "pusé igara sepiasuíma"
+Pred Yes (mkItemNonDeitic (TheSG (Mod Heavy (mkKind Canoe)))) (IndLevelState (mkPropQual Cheap))
+
+
+#173: p -lang=GraYrl "pusé igara sepiasuíma uiku"
+Pred Yes (mkItemNonDeitic (TheSG (Mod Heavy (mkKind Canoe)))) (StageLevelState (mkPropQual Cheap))
+
+
+#174: p -lang=GraYrl "sangaua puranga"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Picture))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Picture)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Picture)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Picture)))) (IndLevelState (mkPropQual Beautiful))
+
+
+#175: p -lang=GraYrl "sangaua puranga uiku"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Picture))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Picture)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Picture)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Picture)))) (StageLevelState (mkPropQual Beautiful))
+
+
+#176: p -lang=GraYrl "se pusé"
+Pred Yes (mkItemDeitic I) (IndLevelState (mkPropQual Heavy))
+
+
+#177: p -lang=GraYrl "se pusé aiku"
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropQual Heavy))
+
+
+#178: p -lang=GraYrl "se rimbiú sé"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My Food)))) (IndLevelState (mkPropQual Delicious))
+
+
+#179: p -lang=GraYrl "se rimbiú sé uiku"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My Food)))) (StageLevelState (mkPropQual Delicious))
+
+
+#180: p -lang=GraYrl "se ruka i upé"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (In (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (In (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (In (mkItemDeitic She))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (On (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (On (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (On (mkItemDeitic She))))
+
+
+#181: p -lang=GraYrl "se ruka kuá kiá pé ruaki"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (This (Mod Dirty (mkKind Path)))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (This (Mod Dirty (mkKind Street)))))))
+
+
+#182: p -lang=GraYrl "se ruka kuá kiá sapé ruaki"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (This (Mod Dirty (mkKind_ (Poss_ Her Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (This (Mod Dirty (mkKind_ (Poss_ Her Street))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (This (Mod Dirty (mkKind_ (Poss_ His Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (This (Mod Dirty (mkKind_ (Poss_ His Street))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (This (Mod Dirty (mkKind_ (Poss_ Its Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (This (Mod Dirty (mkKind_ (Poss_ Its Street))))))))
+
+
+#183: p -lang=GraYrl "se ruka ne ruaki"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic YouSG))))
+
+
+#184: p -lang=GraYrl "se ruka ne ruka ruaki"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ YourSG House)))))))
+
+
+#185: p -lang=GraYrl "se ruka nhaã kiá pé upé"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind Path)))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind Street)))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind Path)))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind Street)))))))
+
+
+#186: p -lang=GraYrl "se ruka nhaã kiá sapé upé"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Her Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Her Street))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ His Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ His Street))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Its Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Its Street))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Her Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Her Street))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ His Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ His Street))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Its Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Its Street))))))))
+
+
+#187: p -lang=GraYrl "se ruka niti paranã ruaki"
+Pred No (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
+
+
+#188: p -lang=GraYrl "se ruka niti paranã upé"
+Pred No (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred No (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+
+
+#189: p -lang=GraYrl "se ruka paranã ruaki"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
+
+
+#190: p -lang=GraYrl "se ruka paranã upé"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+
+
+#191: p -lang=GraYrl "se ruka pe ruaki"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic YouPL))))
+
+
+#192: p -lang=GraYrl "se ruka pe ruka ruaki"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ YourPL House)))))))
+
+
+#193: p -lang=GraYrl "se ruka suaki"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic She))))
+
+
+#194: p -lang=GraYrl "se ruka suka ruaki"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))))))
+
+
+#195: p -lang=GraYrl "se ruka ti paranã ruaki"
+Pred No (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
+
+
+#196: p -lang=GraYrl "se ruka ti paranã upé"
+Pred No (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred No (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+
+
+#197: p -lang=GraYrl "se ruka ti uiku paranã ruaki"
+Pred No (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
+
+
+#198: p -lang=GraYrl "se ruka ti uiku paranã upé"
+Pred No (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred No (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+
+
+#199: p -lang=GraYrl "se ruka uiku i upé"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (In (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (In (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (In (mkItemDeitic She))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (On (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (On (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (On (mkItemDeitic She))))
+
+
+#200: p -lang=GraYrl "se ruka uiku kuá kiá pé ruaki"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (This (Mod Dirty (mkKind Path)))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (This (Mod Dirty (mkKind Street)))))))
+
+
+#201: p -lang=GraYrl "se ruka uiku ne ruaki"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic YouSG))))
+
+
+#202: p -lang=GraYrl "se ruka uiku ne ruka ruaki"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ YourSG House)))))))
+
+
+#203: p -lang=GraYrl "se ruka uiku nhaã kiá pé upé"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind Path)))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind Street)))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind Path)))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind Street)))))))
+
+
+#204: p -lang=GraYrl "se ruka uiku nhaã kiá sapé upé"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Her Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Her Street))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ His Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ His Street))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Its Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Its Street))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Her Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Her Street))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ His Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ His Street))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Its Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Its Street))))))))
+
+
+#205: p -lang=GraYrl "se ruka uiku paranã ruaki"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
+
+
+#206: p -lang=GraYrl "se ruka uiku paranã upé"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+
+
+#207: p -lang=GraYrl "se ruka uiku pe ruaki"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic YouPL))))
+
+
+#208: p -lang=GraYrl "se ruka uiku pe ruka ruaki"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ YourPL House)))))))
+
+
+#209: p -lang=GraYrl "se ruka uiku suaki"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic She))))
+
+
+#210: p -lang=GraYrl "se ruka uiku suka ruaki"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))))))
+
+
+#211: p -lang=GraYrl "se ruri"
+Pred Yes (mkItemDeitic I) (IndLevelState (mkPropQual Happy))
+
+
+#212: p -lang=GraYrl "se ruri aiku"
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropQual Happy))
+
+
+#213: p -lang=GraYrl "sendaua puranga"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Community)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Community)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Community)))) (IndLevelState (mkPropQual Beautiful))
+
+
+#214: p -lang=GraYrl "sendaua puranga uiku"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Community)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Community)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Community)))) (StageLevelState (mkPropQual Beautiful))
+
+
+#215: p -lang=GraYrl "simiriku mimbira-itá uiku se irũmu"
+Pred Yes (Poss (mkPsor SG Wife) (ThePL (mkKind Daughter_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+Pred Yes (Poss (mkPsor SG Wife) (ThePL (mkKind Son_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Her Wife)) (ThePL (mkKind Daughter_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Her Wife)) (ThePL (mkKind Son_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ His Wife)) (ThePL (mkKind Daughter_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ His Wife)) (ThePL (mkKind Son_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Its Wife)) (ThePL (mkKind Daughter_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Its Wife)) (ThePL (mkKind Son_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+
+
+#216: p -lang=GraYrl "simiriku puranga uiku"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Wife))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Wife)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Wife)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Wife)))) (StageLevelState (mkPropQual Beautiful))
+
+
+#217: p -lang=GraYrl "simiriku raíra-itá uiku se irũmu"
+Pred Yes (Poss (mkPsor SG Wife) (ThePL (mkKind Son_Of_Man))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Her Wife)) (ThePL (mkKind Son_Of_Man))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ His Wife)) (ThePL (mkKind Son_Of_Man))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Its Wife)) (ThePL (mkKind Son_Of_Man))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+
+
+#218: p -lang=GraYrl "simiriku suri uiku"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Wife))) (StageLevelState (mkPropQual Happy))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Wife)))) (StageLevelState (mkPropQual Happy))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Wife)))) (StageLevelState (mkPropQual Happy))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Wife)))) (StageLevelState (mkPropQual Happy))
+
+
+#219: p -lang=GraYrl "suka suaki"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic She))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic She))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic She))))
+
+
+#220: p -lang=GraYrl "suka taua paranã ruaki"
+Pred Yes (Poss (mkPsor_ SG (Poss_ Her House)) (TheSG (mkKind City))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ His House)) (TheSG (mkKind City))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Its House)) (TheSG (mkKind City))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))) (IndLevelState (mkPropLoc (Near (Poss (mkPsor SG City) (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))) (IndLevelState (mkPropLoc (Near (Poss (mkPsor SG City) (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))) (IndLevelState (mkPropLoc (Near (Poss (mkPsor SG City) (TheSG (mkKind River))))))
+
+
+#221: p -lang=GraYrl "suka taua uiku paranã ruaki"
+Pred Yes (Poss (mkPsor_ SG (Poss_ Her House)) (TheSG (mkKind City))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ His House)) (TheSG (mkKind City))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Its House)) (TheSG (mkKind City))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
+
+
+#222: p -lang=GraYrl "suka taua upé"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind City))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind City))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind City))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind City))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind City))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind City))))))
+
+
+#223: p -lang=GraYrl "suka uiku suaki"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic She))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic She))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic She))))
+
+
+#224: p -lang=GraYrl "suka uiku taua paranã ruaki"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))) (StageLevelState (mkPropLoc (Near (Poss (mkPsor SG City) (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))) (StageLevelState (mkPropLoc (Near (Poss (mkPsor SG City) (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))) (StageLevelState (mkPropLoc (Near (Poss (mkPsor SG City) (TheSG (mkKind River))))))
+
+
+#225: p -lang=GraYrl "suka uiku taua upé"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind City))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind City))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind City))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind City))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind City))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind City))))))
+
+
+#226: p -lang=GraYrl "suri"
+Pred Yes (mkItemDeitic He) (IndLevelState (mkPropQual Happy))
+Pred Yes (mkItemDeitic It) (IndLevelState (mkPropQual Happy))
+Pred Yes (mkItemDeitic She) (IndLevelState (mkPropQual Happy))
+
+
+#227: p -lang=GraYrl "suri retana"
+Pred Yes (mkItemDeitic He) (IndLevelState (mkPropQual (Very Happy)))
+Pred Yes (mkItemDeitic It) (IndLevelState (mkPropQual (Very Happy)))
+Pred Yes (mkItemDeitic She) (IndLevelState (mkPropQual (Very Happy)))
+
+
+#228: p -lang=GraYrl "suri uiku"
+Pred Yes (mkItemDeitic He) (StageLevelState (mkPropQual Happy))
+Pred Yes (mkItemDeitic It) (StageLevelState (mkPropQual Happy))
+Pred Yes (mkItemDeitic She) (StageLevelState (mkPropQual Happy))
+
+
+#229: p -lang=GraYrl "sé timbiú suka upé"
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))))))
+
+
+#230: p -lang=GraYrl "sé timbiú uiku suka upé"
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))))))
+
+
+#231: p -lang=GraYrl "ti aiku suaki"
+Pred No (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred No (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred No (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemDeitic She))))
+
+
+#232: p -lang=GraYrl "ti iaiku tendaua upé"
+Pred No (mkItemDeitic We) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind Community))))))
+Pred No (mkItemDeitic We) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind Community))))))
+
+
+#233: p -lang=GraYrl "ti ne ruri reiku"
+Pred No (mkItemDeitic YouSG) (StageLevelState (mkPropQual Happy))
+
+
+#234: p -lang=GraYrl "ti se ruri"
+Pred No (mkItemDeitic I) (IndLevelState (mkPropQual Happy))
+
+
+#235: p -lang=GraYrl "timbiú sé"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Food))) (IndLevelState (mkPropQual Delicious))
+
+
+#236: p -lang=GraYrl "timbiú sé uiku"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Food))) (StageLevelState (mkPropQual Delicious))
+
+
+#237: p -lang=GraYrl "timbiú sé uiku suka upé"
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))))))
+
+
+#238: p -lang=GraYrl "tukandira-itá i upé"
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Ant))) (IndLevelState (mkPropLoc (In (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Ant))) (IndLevelState (mkPropLoc (In (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Ant))) (IndLevelState (mkPropLoc (In (mkItemDeitic She))))
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Ant))) (IndLevelState (mkPropLoc (On (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Ant))) (IndLevelState (mkPropLoc (On (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Ant))) (IndLevelState (mkPropLoc (On (mkItemDeitic She))))
+
+
+#239: p -lang=GraYrl "tukandira-itá uiku i upé"
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Ant))) (StageLevelState (mkPropLoc (In (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Ant))) (StageLevelState (mkPropLoc (In (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Ant))) (StageLevelState (mkPropLoc (In (mkItemDeitic She))))
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Ant))) (StageLevelState (mkPropLoc (On (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Ant))) (StageLevelState (mkPropLoc (On (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Ant))) (StageLevelState (mkPropLoc (On (mkItemDeitic She))))
+
+
+#240: p -lang=GraYrl "ximbiú saku"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Food)))) (IndLevelState (mkPropQual Hot))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Food)))) (IndLevelState (mkPropQual Hot))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Food)))) (IndLevelState (mkPropQual Hot))
+
+
+#241: p -lang=GraYrl "ximbiú saku uiku"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Food)))) (StageLevelState (mkPropQual Hot))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Food)))) (StageLevelState (mkPropQual Hot))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Food)))) (StageLevelState (mkPropQual Hot))
+
+
+#242: p -lang=GraYrl "ximbiú sé"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Food)))) (IndLevelState (mkPropQual Delicious))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Food)))) (IndLevelState (mkPropQual Delicious))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Food)))) (IndLevelState (mkPropQual Delicious))
+
+
+#243: p -lang=GraYrl "ximbiú sé uiku"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Food)))) (StageLevelState (mkPropQual Delicious))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Food)))) (StageLevelState (mkPropQual Delicious))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Food)))) (StageLevelState (mkPropQual Delicious))
+
+

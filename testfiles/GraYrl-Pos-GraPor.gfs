@@ -1,0 +1,286 @@
+import GraYrl.gf
+import GraPor.gf
+! echo "@ Maria ruka ti suaki"
+p -lang=GraYrl "Maria ruka ti suaki" | l -lang=GraPor
+! echo "@ aiku ike'"
+p -lang=GraYrl "aiku iké" | l -lang=GraPor
+! echo "@ ae' i puse'"
+p -lang=GraYrl "aé i pusé" | l -lang=GraPor
+! echo "@ ae' puranga"
+p -lang=GraYrl "aé puranga" | l -lang=GraPor
+! echo "@ ae' saku"
+p -lang=GraYrl "aé saku" | l -lang=GraPor
+! echo "@ ae' suri"
+p -lang=GraYrl "aé suri" | l -lang=GraPor
+! echo "@ i igara i puse' uiku"
+p -lang=GraYrl "i igara i pusé uiku" | l -lang=GraPor
+! echo "@ i igara parana~ upe'"
+p -lang=GraYrl "i igara paranã upé" | l -lang=GraPor
+! echo "@ iande' ti iaiku tendaua upe'"
+p -lang=GraYrl "iandé ti iaiku tendaua upé" | l -lang=GraPor
+! echo "@ igara i puse' uiku"
+p -lang=GraYrl "igara i pusé uiku" | l -lang=GraPor
+! echo "@ igara puse' sepiasui'ma uiku"
+p -lang=GraYrl "igara pusé sepiasuíma uiku" | l -lang=GraPor
+! echo "@ inde' ti ne ruri reiku"
+p -lang=GraYrl "indé ti ne ruri reiku" | l -lang=GraPor
+! echo "@ ixe' aiku ike'"
+p -lang=GraYrl "ixé aiku iké" | l -lang=GraPor
+! echo "@ ixe' aiku suaki"
+p -lang=GraYrl "ixé aiku suaki" | l -lang=GraPor
+! echo "@ ixe' se puse'"
+p -lang=GraYrl "ixé se pusé" | l -lang=GraPor
+! echo "@ ixe' se ruri aiku"
+p -lang=GraYrl "ixé se ruri aiku" | l -lang=GraPor
+! echo "@ kunha~ puranga uiku"
+p -lang=GraYrl "kunhã puranga uiku" | l -lang=GraPor
+! echo "@ kunha~-ita' puranga uiku"
+p -lang=GraYrl "kunhã-itá puranga uiku" | l -lang=GraPor
+! echo "@ kurumi~ rendaua pe taua ruaki"
+p -lang=GraYrl "kurumĩ rendaua pe taua ruaki" | l -lang=GraPor
+! echo "@ kua' kambi saku uiku"
+p -lang=GraYrl "kuá kambi saku uiku" | l -lang=GraPor
+! echo "@ kua' pira'-ita' piranga sepiasui'ma uiku"
+p -lang=GraYrl "kuá pirá-itá piranga sepiasuíma uiku" | l -lang=GraPor
+! echo "@ kua' tai'na rangaua puranga"
+p -lang=GraYrl "kuá taína rangaua puranga" | l -lang=GraPor
+! echo "@ nhaa~ ximiriku kise' ti uiku uka pupe'"
+p -lang=GraYrl "nhaã ximiriku kisé ti uiku uka pupé" | l -lang=GraPor
+! echo "@ kua'-ita' pira' piranga sepiasui'ma uiku"
+p -lang=GraYrl "kuá-itá pirá piranga sepiasuíma uiku" | l -lang=GraPor
+! echo "@ meiu'-ita' ta raku uiku"
+p -lang=GraYrl "meiú-itá ta raku uiku" | l -lang=GraPor
+! echo "@ mira' rakanga piranga"
+p -lang=GraYrl "mirá rakanga piranga" | l -lang=GraPor
+! echo "@ ne kiui'ra ta nheenga puranga"
+p -lang=GraYrl "ne kiuíra ta nheenga puranga" | l -lang=GraPor
+! echo "@ ne mena nheenga puranga"
+p -lang=GraYrl "ne mena nheenga puranga" | l -lang=GraPor
+! echo "@ ne rimbiu' puranga retana"
+p -lang=GraYrl "ne rimbiú puranga retana" | l -lang=GraPor
+! echo "@ nhaa~ Pedro pinda' uiku igara kuara upe'"
+p -lang=GraYrl "nhaã Pedro pindá uiku igara kuara upé" | l -lang=GraPor
+! echo "@ nhaa~ kurumi~ pinda' igara pupe'"
+p -lang=GraYrl "nhaã kurumĩ pindá igara pupé" | l -lang=GraPor
+! echo "@ nhaa~ timbiu' sepiasu retana"
+p -lang=GraYrl "nhaã timbiú sepiasu retana" | l -lang=GraPor
+! echo "@ nhaa~ ximbiu' puranga"
+p -lang=GraYrl "nhaã ximbiú puranga" | l -lang=GraPor
+! echo "@ se puse'"
+p -lang=GraYrl "se pusé" | l -lang=GraPor
+! echo "@ se puse' aiku"
+p -lang=GraYrl "se pusé aiku" | l -lang=GraPor
+! echo "@ se ruri aiku"
+p -lang=GraYrl "se ruri aiku" | l -lang=GraPor
+! echo "@ sendaua puranga"
+p -lang=GraYrl "sendaua puranga" | l -lang=GraPor
+! echo "@ suka taua upe'"
+p -lang=GraYrl "suka taua upé" | l -lang=GraPor
+! echo "@ suri"
+p -lang=GraYrl "suri" | l -lang=GraPor
+! echo "@ ti iaiku tendaua upe'"
+p -lang=GraYrl "ti iaiku tendaua upé" | l -lang=GraPor
+! echo "@ ti ne ruri reiku"
+p -lang=GraYrl "ti ne ruri reiku" | l -lang=GraPor
+! echo "@ tukandira-ita' uiku i upe'"
+p -lang=GraYrl "tukandira-itá uiku i upé" | l -lang=GraPor
+! echo "@ ximbiu' saku"
+p -lang=GraYrl "ximbiú saku" | l -lang=GraPor
+! echo "@ Maria mimbira-ita' puranga"
+p -lang=GraYrl "Maria mimbira-itá puranga" | l -lang=GraPor
+! echo "@ Maria ramunha uiku parana~ upe'"
+p -lang=GraYrl "Maria ramunha uiku paranã upé" | l -lang=GraPor
+! echo "@ Maria rimbiu' ti se'"
+p -lang=GraYrl "Maria rimbiú ti sé" | l -lang=GraPor
+! echo "@ Maria rimbiu' ti se' uiku"
+p -lang=GraYrl "Maria rimbiú ti sé uiku" | l -lang=GraPor
+! echo "@ aiku i iru~mu"
+p -lang=GraYrl "aiku i irũmu" | l -lang=GraPor
+! echo "@ aiku ike'"
+p -lang=GraYrl "aiku iké" | l -lang=GraPor
+! echo "@ aiku suaki"
+p -lang=GraYrl "aiku suaki" | l -lang=GraPor
+! echo "@ ainta' ruri"
+p -lang=GraYrl "aintá ruri" | l -lang=GraPor
+! echo "@ ainta' ta ruri"
+p -lang=GraYrl "aintá ta ruri" | l -lang=GraPor
+! echo "@ ae' suri"
+p -lang=GraYrl "aé suri" | l -lang=GraPor
+! echo "@ ae' suri uiku"
+p -lang=GraYrl "aé suri uiku" | l -lang=GraPor
+! echo "@ i puse'"
+p -lang=GraYrl "i pusé" | l -lang=GraPor
+! echo "@ i puse' uiku"
+p -lang=GraYrl "i pusé uiku" | l -lang=GraPor
+! echo "@ iaiku pe ruaki"
+p -lang=GraYrl "iaiku pe ruaki" | l -lang=GraPor
+! echo "@ igara parana~ ruaki"
+p -lang=GraYrl "igara paranã ruaki" | l -lang=GraPor
+! echo "@ igara parana~ suaki"
+p -lang=GraYrl "igara paranã suaki" | l -lang=GraPor
+! echo "@ igara parana~ upe'"
+p -lang=GraYrl "igara paranã upé" | l -lang=GraPor
+! echo "@ igara uiku ape"
+p -lang=GraYrl "igara uiku ape" | l -lang=GraPor
+! echo "@ inde' ne ruri"
+p -lang=GraYrl "indé ne ruri" | l -lang=GraPor
+! echo "@ inde' ne ruri reiku"
+p -lang=GraYrl "indé ne ruri reiku" | l -lang=GraPor
+! echo "@ ixe' aiku suaki"
+p -lang=GraYrl "ixé aiku suaki" | l -lang=GraPor
+! echo "@ ixe' aiku suka ruaki"
+p -lang=GraYrl "ixé aiku suka ruaki" | l -lang=GraPor
+! echo "@ ixe' niti se ruri"
+p -lang=GraYrl "ixé niti se ruri" | l -lang=GraPor
+! echo "@ ixe' niti se ruri aiku"
+p -lang=GraYrl "ixé niti se ruri aiku" | l -lang=GraPor
+! echo "@ ixe' niti se ruri retana"
+p -lang=GraYrl "ixé niti se ruri retana" | l -lang=GraPor
+! echo "@ ixe' niti se ruri retana aiku"
+p -lang=GraYrl "ixé niti se ruri retana aiku" | l -lang=GraPor
+! echo "@ ixe' se ruri"
+p -lang=GraYrl "ixé se ruri" | l -lang=GraPor
+! echo "@ ixe' se ruri aiku"
+p -lang=GraYrl "ixé se ruri aiku" | l -lang=GraPor
+! echo "@ ixe' ti aiku suaki"
+p -lang=GraYrl "ixé ti aiku suaki" | l -lang=GraPor
+! echo "@ ixe' ti se ruri"
+p -lang=GraYrl "ixé ti se ruri" | l -lang=GraPor
+! echo "@ ixe' ti se ruri aiku"
+p -lang=GraYrl "ixé ti se ruri aiku" | l -lang=GraPor
+! echo "@ kunha~ mimbira-ita' uiku se iru~mu"
+p -lang=GraYrl "kunhã mimbira-itá uiku se irũmu" | l -lang=GraPor
+! echo "@ kunha~ suri uiku"
+p -lang=GraYrl "kunhã suri uiku" | l -lang=GraPor
+! echo "@ kua' ita' i puse'"
+p -lang=GraYrl "kuá itá i pusé" | l -lang=GraPor
+! echo "@ kua' ita' i puse' retana"
+p -lang=GraYrl "kuá itá i pusé retana" | l -lang=GraPor
+! echo "@ kua' ita' i puse' retana uiku"
+p -lang=GraYrl "kuá itá i pusé retana uiku" | l -lang=GraPor
+! echo "@ kua' ita' i puse' uiku"
+p -lang=GraYrl "kuá itá i pusé uiku" | l -lang=GraPor
+! echo "@ kua' ita'-ita' ainta' puse'"
+p -lang=GraYrl "kuá itá-itá aintá pusé" | l -lang=GraPor
+! echo "@ kua' ita'-ita' ainta' puse' uiku"
+p -lang=GraYrl "kuá itá-itá aintá pusé uiku" | l -lang=GraPor
+! echo "@ kua' ita'-ita' ta puse'"
+p -lang=GraYrl "kuá itá-itá ta pusé" | l -lang=GraPor
+! echo "@ kua' ita'-ita' ta puse' uiku"
+p -lang=GraYrl "kuá itá-itá ta pusé uiku" | l -lang=GraPor
+! echo "@ kua' supia'-ita' rangaua puranga"
+p -lang=GraYrl "kuá supiá-itá rangaua puranga" | l -lang=GraPor
+! echo "@ kua' supia'-ita' rangaua puranga uiku"
+p -lang=GraYrl "kuá supiá-itá rangaua puranga uiku" | l -lang=GraPor
+! echo "@ kua' supia'-ita' sangaua puranga"
+p -lang=GraYrl "kuá supiá-itá sangaua puranga" | l -lang=GraPor
+! echo "@ kua' supia'-ita' sangaua puranga uiku"
+p -lang=GraYrl "kuá supiá-itá sangaua puranga uiku" | l -lang=GraPor
+! echo "@ kua'-ita' ita' ainta' puse'"
+p -lang=GraYrl "kuá-itá itá aintá pusé" | l -lang=GraPor
+! echo "@ kua'-ita' ita' ainta' puse' uiku"
+p -lang=GraYrl "kuá-itá itá aintá pusé uiku" | l -lang=GraPor
+! echo "@ kua'-ita' ita' ta puse'"
+p -lang=GraYrl "kuá-itá itá ta pusé" | l -lang=GraPor
+! echo "@ kua'-ita' ita' ta puse' uiku"
+p -lang=GraYrl "kuá-itá itá ta pusé uiku" | l -lang=GraPor
+! echo "@ kua'-ita' sangaua rupia' puranga"
+p -lang=GraYrl "kuá-itá sangaua rupiá puranga" | l -lang=GraPor
+! echo "@ kua'-ita' sangaua rupia' puranga uiku"
+p -lang=GraYrl "kuá-itá sangaua rupiá puranga uiku" | l -lang=GraPor
+! echo "@ meiu' saku uiku"
+p -lang=GraYrl "meiú saku uiku" | l -lang=GraPor
+! echo "@ meiu'-ita' ainta' raku uiku"
+p -lang=GraYrl "meiú-itá aintá raku uiku" | l -lang=GraPor
+! echo "@ ne kiui'ra ainta' nheenga puranga"
+p -lang=GraYrl "ne kiuíra aintá nheenga puranga" | l -lang=GraPor
+! echo "@ ne kiui'ra nheenga puranga"
+p -lang=GraYrl "ne kiuíra nheenga puranga" | l -lang=GraPor
+! echo "@ ne ruri"
+p -lang=GraYrl "ne ruri" | l -lang=GraPor
+! echo "@ ne ruri reiku"
+p -lang=GraYrl "ne ruri reiku" | l -lang=GraPor
+! echo "@ nhaa~ kunha~ mimbira-ita' uiku ainta' iru~mu"
+p -lang=GraYrl "nhaã kunhã mimbira-itá uiku aintá irũmu" | l -lang=GraPor
+! echo "@ nhaa~ se igara uiku parana~ upe'"
+p -lang=GraYrl "nhaã se igara uiku paranã upé" | l -lang=GraPor
+! echo "@ niti se ruri"
+p -lang=GraYrl "niti se ruri" | l -lang=GraPor
+! echo "@ pe ruri peiku"
+p -lang=GraYrl "pe ruri peiku" | l -lang=GraPor
+! echo "@ sangaua puranga"
+p -lang=GraYrl "sangaua puranga" | l -lang=GraPor
+! echo "@ sangaua puranga uiku"
+p -lang=GraYrl "sangaua puranga uiku" | l -lang=GraPor
+! echo "@ se rimbiu' se'"
+p -lang=GraYrl "se rimbiú sé" | l -lang=GraPor
+! echo "@ se ruka i upe'"
+p -lang=GraYrl "se ruka i upé" | l -lang=GraPor
+! echo "@ se ruka kua' kia' pe' ruaki"
+p -lang=GraYrl "se ruka kuá kiá pé ruaki" | l -lang=GraPor
+! echo "@ se ruka kua' kia' sape' ruaki"
+p -lang=GraYrl "se ruka kuá kiá sapé ruaki" | l -lang=GraPor
+! echo "@ se ruka ne ruaki"
+p -lang=GraYrl "se ruka ne ruaki" | l -lang=GraPor
+! echo "@ se ruka ne ruka ruaki"
+p -lang=GraYrl "se ruka ne ruka ruaki" | l -lang=GraPor
+! echo "@ se ruka nhaa~ kia' pe' upe'"
+p -lang=GraYrl "se ruka nhaã kiá pé upé" | l -lang=GraPor
+! echo "@ se ruka nhaa~ kia' sape' upe'"
+p -lang=GraYrl "se ruka nhaã kiá sapé upé" | l -lang=GraPor
+! echo "@ se ruka niti parana~ ruaki"
+p -lang=GraYrl "se ruka niti paranã ruaki" | l -lang=GraPor
+! echo "@ se ruka niti parana~ upe'"
+p -lang=GraYrl "se ruka niti paranã upé" | l -lang=GraPor
+! echo "@ se ruka parana~ ruaki"
+p -lang=GraYrl "se ruka paranã ruaki" | l -lang=GraPor
+! echo "@ se ruka parana~ upe'"
+p -lang=GraYrl "se ruka paranã upé" | l -lang=GraPor
+! echo "@ se ruka suaki"
+p -lang=GraYrl "se ruka suaki" | l -lang=GraPor
+! echo "@ se ruka suka ruaki"
+p -lang=GraYrl "se ruka suka ruaki" | l -lang=GraPor
+! echo "@ se ruka ti parana~ ruaki"
+p -lang=GraYrl "se ruka ti paranã ruaki" | l -lang=GraPor
+! echo "@ se ruka ti parana~ upe'"
+p -lang=GraYrl "se ruka ti paranã upé" | l -lang=GraPor
+! echo "@ se ruka uiku i upe'"
+p -lang=GraYrl "se ruka uiku i upé" | l -lang=GraPor
+! echo "@ se ruka uiku kua' kia' pe' ruaki"
+p -lang=GraYrl "se ruka uiku kuá kiá pé ruaki" | l -lang=GraPor
+! echo "@ se ruka uiku ne ruaki"
+p -lang=GraYrl "se ruka uiku ne ruaki" | l -lang=GraPor
+! echo "@ se ruka uiku nhaa~ kia' pe' upe'"
+p -lang=GraYrl "se ruka uiku nhaã kiá pé upé" | l -lang=GraPor
+! echo "@ se ruka uiku nhaa~ kia' sape' upe'"
+p -lang=GraYrl "se ruka uiku nhaã kiá sapé upé" | l -lang=GraPor
+! echo "@ se ruka uiku suaki"
+p -lang=GraYrl "se ruka uiku suaki" | l -lang=GraPor
+! echo "@ se ruri"
+p -lang=GraYrl "se ruri" | l -lang=GraPor
+! echo "@ se ruri aiku"
+p -lang=GraYrl "se ruri aiku" | l -lang=GraPor
+! echo "@ suka suaki"
+p -lang=GraYrl "suka suaki" | l -lang=GraPor
+! echo "@ suka taua parana~ ruaki"
+p -lang=GraYrl "suka taua paranã ruaki" | l -lang=GraPor
+! echo "@ suka uiku suaki"
+p -lang=GraYrl "suka uiku suaki" | l -lang=GraPor
+! echo "@ suri"
+p -lang=GraYrl "suri" | l -lang=GraPor
+! echo "@ suri retana"
+p -lang=GraYrl "suri retana" | l -lang=GraPor
+! echo "@ suri uiku"
+p -lang=GraYrl "suri uiku" | l -lang=GraPor
+! echo "@ ti aiku suaki"
+p -lang=GraYrl "ti aiku suaki" | l -lang=GraPor
+! echo "@ ti se ruri"
+p -lang=GraYrl "ti se ruri" | l -lang=GraPor
+! echo "@ timbiu' se'"
+p -lang=GraYrl "timbiú sé" | l -lang=GraPor
+! echo "@ timbiu' se' uiku suka upe'"
+p -lang=GraYrl "timbiú sé uiku suka upé" | l -lang=GraPor
+! echo "@ ximbiu' se'"
+p -lang=GraYrl "ximbiú sé" | l -lang=GraPor
+! echo "@ ximbiu' se' uiku"
+p -lang=GraYrl "ximbiú sé uiku" | l -lang=GraPor

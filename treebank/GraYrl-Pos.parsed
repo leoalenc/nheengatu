@@ -1,0 +1,814 @@
+Pred Yes (Poss (mkPsor SG Maria) (ThePL (mkKind Daughter_Of_Woman))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor SG Maria) (ThePL (mkKind Son_Of_Woman))) (IndLevelState (mkPropQual Beautiful))
+
+Pred Yes (Poss (mkPsor SG Maria) (ThePL (mkKind Daughter_Of_Woman))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor SG Maria) (ThePL (mkKind Son_Of_Woman))) (StageLevelState (mkPropQual Beautiful))
+
+Pred Yes (Poss (mkPsor SG Maria) (TheSG (mkKind Grandfather))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (Poss (mkPsor SG Maria) (TheSG (mkKind Grandfather))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+
+Pred Yes (Poss (mkPsor SG Maria) (TheSG (mkKind Grandfather))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (Poss (mkPsor SG Maria) (TheSG (mkKind Grandfather))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+
+Pred Yes (Poss (mkPsor SG Maria) (ThePL (mkKind Son_Of_Man))) (IndLevelState (mkPropQual Beautiful))
+
+Pred Yes (Poss (mkPsor SG Maria) (ThePL (mkKind Son_Of_Man))) (StageLevelState (mkPropQual Beautiful))
+
+Pred No (Poss (mkPsor SG Maria) (TheSG (mkKind Food))) (IndLevelState (mkPropQual Delicious))
+
+Pred No (Poss (mkPsor SG Maria) (TheSG (mkKind Food))) (StageLevelState (mkPropQual Delicious))
+
+Pred No (Poss (mkPsor SG Maria) (TheSG (mkKind House))) (IndLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred No (Poss (mkPsor SG Maria) (TheSG (mkKind House))) (IndLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred No (Poss (mkPsor SG Maria) (TheSG (mkKind House))) (IndLevelState (mkPropLoc (Near (mkItemDeitic She))))
+
+Pred No (Poss (mkPsor SG Maria) (TheSG (mkKind House))) (StageLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred No (Poss (mkPsor SG Maria) (TheSG (mkKind House))) (StageLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred No (Poss (mkPsor SG Maria) (TheSG (mkKind House))) (StageLevelState (mkPropLoc (Near (mkItemDeitic She))))
+
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (With (mkItemDeitic He))))
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (With (mkItemDeitic It))))
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (With (mkItemDeitic She))))
+
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc Here))
+
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemDeitic She))))
+
+Pred Yes (mkItemDeitic They) (IndLevelState (mkPropQual Happy))
+
+Pred Yes (mkItemDeitic They) (StageLevelState (mkPropQual Happy))
+
+Pred Yes (mkItemDeitic They) (IndLevelState (mkPropQual Happy))
+
+Pred Yes (mkItemDeitic They) (IndLevelState (mkPropQual Happy))
+
+Pred Yes (mkItemDeitic He) (IndLevelState (mkPropQual Heavy))
+Pred Yes (mkItemDeitic It) (IndLevelState (mkPropQual Heavy))
+Pred Yes (mkItemDeitic She) (IndLevelState (mkPropQual Heavy))
+
+Pred Yes (mkItemDeitic He) (StageLevelState (mkPropQual Heavy))
+Pred Yes (mkItemDeitic It) (StageLevelState (mkPropQual Heavy))
+Pred Yes (mkItemDeitic She) (StageLevelState (mkPropQual Heavy))
+
+Pred Yes (mkItemDeitic He) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemDeitic It) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemDeitic She) (IndLevelState (mkPropQual Beautiful))
+
+Pred Yes (mkItemDeitic He) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemDeitic It) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemDeitic She) (StageLevelState (mkPropQual Beautiful))
+
+Pred Yes (mkItemDeitic He) (IndLevelState (mkPropQual Hot))
+Pred Yes (mkItemDeitic It) (IndLevelState (mkPropQual Hot))
+Pred Yes (mkItemDeitic She) (IndLevelState (mkPropQual Hot))
+
+Pred Yes (mkItemDeitic He) (StageLevelState (mkPropQual Hot))
+Pred Yes (mkItemDeitic It) (StageLevelState (mkPropQual Hot))
+Pred Yes (mkItemDeitic She) (StageLevelState (mkPropQual Hot))
+
+Pred Yes (mkItemDeitic He) (IndLevelState (mkPropQual Happy))
+Pred Yes (mkItemDeitic It) (IndLevelState (mkPropQual Happy))
+Pred Yes (mkItemDeitic She) (IndLevelState (mkPropQual Happy))
+
+Pred Yes (mkItemDeitic He) (IndLevelState (mkPropQual (Very Happy)))
+Pred Yes (mkItemDeitic It) (IndLevelState (mkPropQual (Very Happy)))
+Pred Yes (mkItemDeitic She) (IndLevelState (mkPropQual (Very Happy)))
+
+Pred Yes (mkItemDeitic He) (StageLevelState (mkPropQual (Very Happy)))
+Pred Yes (mkItemDeitic It) (StageLevelState (mkPropQual (Very Happy)))
+Pred Yes (mkItemDeitic She) (StageLevelState (mkPropQual (Very Happy)))
+
+Pred Yes (mkItemDeitic He) (StageLevelState (mkPropQual Happy))
+Pred Yes (mkItemDeitic It) (StageLevelState (mkPropQual Happy))
+Pred Yes (mkItemDeitic She) (StageLevelState (mkPropQual Happy))
+
+Pred No (mkItemDeitic He) (StageLevelState (mkPropQual Happy))
+Pred No (mkItemDeitic It) (StageLevelState (mkPropQual Happy))
+Pred No (mkItemDeitic She) (StageLevelState (mkPropQual Happy))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Canoe)))) (IndLevelState (mkPropQual Heavy))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Canoe)))) (IndLevelState (mkPropQual Heavy))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Canoe)))) (IndLevelState (mkPropQual Heavy))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Canoe)))) (StageLevelState (mkPropQual Heavy))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Canoe)))) (StageLevelState (mkPropQual Heavy))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Canoe)))) (StageLevelState (mkPropQual Heavy))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Canoe)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Canoe)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Canoe)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Canoe)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Canoe)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Canoe)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Canoe)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Canoe)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Canoe)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Canoe)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Canoe)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Canoe)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+
+Pred Yes (mkItemDeitic He) (IndLevelState (mkPropQual Heavy))
+Pred Yes (mkItemDeitic It) (IndLevelState (mkPropQual Heavy))
+Pred Yes (mkItemDeitic She) (IndLevelState (mkPropQual Heavy))
+
+Pred Yes (mkItemDeitic He) (StageLevelState (mkPropQual Heavy))
+Pred Yes (mkItemDeitic It) (StageLevelState (mkPropQual Heavy))
+Pred Yes (mkItemDeitic She) (StageLevelState (mkPropQual Heavy))
+
+Pred Yes (mkItemDeitic We) (StageLevelState (mkPropLoc (Near (mkItemDeitic YouPL))))
+
+Pred Yes (mkItemDeitic We) (StageLevelState (mkPropLoc (Near (mkItemDeitic YouSG))))
+
+Pred Yes (mkItemDeitic We) (StageLevelState (mkPropLoc (Near (mkItemDeitic YouPL))))
+
+Pred Yes (mkItemDeitic We) (IndLevelState (mkPropLoc (Near (mkItemDeitic YouSG))))
+
+Pred Yes (mkItemDeitic We) (IndLevelState (mkPropLoc (Near (mkItemDeitic YouPL))))
+
+Pred No (mkItemDeitic We) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind Community))))))
+Pred No (mkItemDeitic We) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind Community))))))
+
+Pred No (mkItemDeitic We) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind Community))))))
+Pred No (mkItemDeitic We) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind Community))))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Canoe))) (IndLevelState (mkPropLoc There))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Canoe))) (IndLevelState (mkPropQual Heavy))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Canoe))) (StageLevelState (mkPropQual Heavy))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Canoe))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
+
+Pred Yes (Poss (mkPsor SG Canoe) (TheSG (mkKind River))) (IndLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred Yes (Poss (mkPsor SG Canoe) (TheSG (mkKind River))) (IndLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred Yes (Poss (mkPsor SG Canoe) (TheSG (mkKind River))) (IndLevelState (mkPropLoc (Near (mkItemDeitic She))))
+
+Pred Yes (Poss (mkPsor SG Canoe) (TheSG (mkKind River))) (StageLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred Yes (Poss (mkPsor SG Canoe) (TheSG (mkKind River))) (StageLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred Yes (Poss (mkPsor SG Canoe) (TheSG (mkKind River))) (StageLevelState (mkPropLoc (Near (mkItemDeitic She))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Canoe))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Canoe))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+
+Pred Yes (mkItemNonDeitic (TheSG (Mod Heavy (mkKind Canoe)))) (StageLevelState (mkPropQual Cheap))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Canoe))) (StageLevelState (mkPropLoc There))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Canoe))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Canoe))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Canoe))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+
+Pred Yes (mkItemDeitic YouSG) (IndLevelState (mkPropQual Happy))
+
+Pred Yes (mkItemDeitic YouSG) (StageLevelState (mkPropQual Happy))
+
+Pred No (mkItemDeitic YouSG) (IndLevelState (mkPropQual Happy))
+
+Pred No (mkItemDeitic YouSG) (StageLevelState (mkPropQual Happy))
+
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (With (mkItemDeitic He))))
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (With (mkItemDeitic It))))
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (With (mkItemDeitic She))))
+
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc Here))
+
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemDeitic She))))
+
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))))))
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))))))
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))))))
+
+Pred Yes (mkItemDeitic I) (IndLevelState (mkPropLoc (With (mkItemDeitic He))))
+Pred Yes (mkItemDeitic I) (IndLevelState (mkPropLoc (With (mkItemDeitic It))))
+Pred Yes (mkItemDeitic I) (IndLevelState (mkPropLoc (With (mkItemDeitic She))))
+
+Pred Yes (mkItemDeitic I) (IndLevelState (mkPropLoc Here))
+
+Pred No (mkItemDeitic I) (IndLevelState (mkPropQual Happy))
+
+Pred No (mkItemDeitic I) (StageLevelState (mkPropQual Happy))
+
+Pred No (mkItemDeitic I) (IndLevelState (mkPropQual (Very Happy)))
+
+Pred No (mkItemDeitic I) (StageLevelState (mkPropQual (Very Happy)))
+
+Pred Yes (mkItemDeitic I) (IndLevelState (mkPropQual Heavy))
+
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropQual Heavy))
+
+Pred Yes (mkItemDeitic I) (IndLevelState (mkPropQual Happy))
+
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropQual Happy))
+
+Pred Yes (mkItemDeitic I) (IndLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred Yes (mkItemDeitic I) (IndLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred Yes (mkItemDeitic I) (IndLevelState (mkPropLoc (Near (mkItemDeitic She))))
+
+Pred Yes (mkItemDeitic I) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))))))
+Pred Yes (mkItemDeitic I) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))))))
+Pred Yes (mkItemDeitic I) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))))))
+
+Pred No (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred No (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred No (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemDeitic She))))
+
+Pred No (mkItemDeitic I) (IndLevelState (mkPropQual Happy))
+
+Pred No (mkItemDeitic I) (StageLevelState (mkPropQual Happy))
+
+Pred No (mkItemDeitic I) (IndLevelState (mkPropQual (Very Happy)))
+
+Pred No (mkItemDeitic I) (StageLevelState (mkPropQual (Very Happy)))
+
+Pred No (mkItemDeitic I) (IndLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred No (mkItemDeitic I) (IndLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred No (mkItemDeitic I) (IndLevelState (mkPropLoc (Near (mkItemDeitic She))))
+
+Pred Yes (Poss (mkPsor SG Woman) (ThePL (mkKind Daughter_Of_Woman))) (IndLevelState (mkPropLoc (With (mkItemDeitic I))))
+Pred Yes (Poss (mkPsor SG Woman) (ThePL (mkKind Son_Of_Woman))) (IndLevelState (mkPropLoc (With (mkItemDeitic I))))
+
+Pred Yes (Poss (mkPsor SG Woman) (ThePL (mkKind Daughter_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+Pred Yes (Poss (mkPsor SG Woman) (ThePL (mkKind Son_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Woman))) (IndLevelState (mkPropQual Beautiful))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Woman))) (StageLevelState (mkPropQual Beautiful))
+
+Pred Yes (Poss (mkPsor SG Woman) (ThePL (mkKind Son_Of_Man))) (IndLevelState (mkPropLoc (With (mkItemDeitic I))))
+
+Pred Yes (Poss (mkPsor SG Woman) (ThePL (mkKind Son_Of_Man))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Woman))) (IndLevelState (mkPropQual Happy))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Woman))) (StageLevelState (mkPropQual Happy))
+
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Woman))) (IndLevelState (mkPropQual Beautiful))
+
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Woman))) (StageLevelState (mkPropQual Beautiful))
+
+Pred Yes (Poss (mkPsor SG Boy) (TheSG (mkKind Community))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ YourSG City)))))))
+
+Pred Yes (Poss (mkPsor SG Boy) (TheSG (mkKind Community))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ YourPL City)))))))
+
+Pred Yes (Poss (mkPsor SG Boy) (TheSG (mkKind Community))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ YourSG City)))))))
+
+Pred Yes (Poss (mkPsor SG Boy) (TheSG (mkKind Community))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ YourPL City)))))))
+
+Pred Yes (mkItemNonDeitic (This (mkKind Stone))) (IndLevelState (mkPropQual Heavy))
+
+Pred Yes (mkItemNonDeitic (This (mkKind Stone))) (IndLevelState (mkPropQual (Very Heavy)))
+
+Pred Yes (mkItemNonDeitic (This (mkKind Stone))) (StageLevelState (mkPropQual (Very Heavy)))
+
+Pred Yes (mkItemNonDeitic (This (mkKind Stone))) (StageLevelState (mkPropQual Heavy))
+
+Pred Yes (mkItemNonDeitic (These (mkKind Stone))) (IndLevelState (mkPropQual Heavy))
+
+Pred Yes (mkItemNonDeitic (These (mkKind Stone))) (StageLevelState (mkPropQual Heavy))
+
+Pred Yes (mkItemNonDeitic (These (mkKind Stone))) (IndLevelState (mkPropQual Heavy))
+
+Pred Yes (mkItemNonDeitic (These (mkKind Stone))) (StageLevelState (mkPropQual Heavy))
+
+Pred Yes (mkItemNonDeitic (This (mkKind Milk))) (IndLevelState (mkPropQual Hot))
+
+Pred Yes (mkItemNonDeitic (This (mkKind Milk))) (StageLevelState (mkPropQual Hot))
+
+Pred Yes (mkItemNonDeitic (These (Mod Red (mkKind Fish)))) (StageLevelState (mkPropQual Cheap))
+
+Pred No (Poss (mkPsor SG Wife) (This (mkKind Knife))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor SG Wife) (This (mkKind Knife))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor_ SG (Poss_ Her Wife)) (This (mkKind Knife))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor_ SG (Poss_ Her Wife)) (This (mkKind Knife))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor_ SG (Poss_ His Wife)) (This (mkKind Knife))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor_ SG (Poss_ His Wife)) (This (mkKind Knife))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor_ SG (Poss_ Its Wife)) (This (mkKind Knife))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor_ SG (Poss_ Its Wife)) (This (mkKind Knife))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind House))))))
+
+Pred No (Poss (mkPsor SG Wife) (This (mkKind Knife))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor SG Wife) (This (mkKind Knife))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor_ SG (Poss_ Her Wife)) (This (mkKind Knife))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor_ SG (Poss_ Her Wife)) (This (mkKind Knife))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor_ SG (Poss_ His Wife)) (This (mkKind Knife))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor_ SG (Poss_ His Wife)) (This (mkKind Knife))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor_ SG (Poss_ Its Wife)) (This (mkKind Knife))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor_ SG (Poss_ Its Wife)) (This (mkKind Knife))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind House))))))
+
+Pred Yes (Poss (mkPsor PL Egg) (This (mkKind Picture))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Her Egg)) (This (mkKind Picture))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ His Egg)) (This (mkKind Picture))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Its Egg)) (This (mkKind Picture))) (IndLevelState (mkPropQual Beautiful))
+
+Pred Yes (Poss (mkPsor PL Egg) (This (mkKind Picture))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Her Egg)) (This (mkKind Picture))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ His Egg)) (This (mkKind Picture))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Its Egg)) (This (mkKind Picture))) (StageLevelState (mkPropQual Beautiful))
+
+Pred Yes (Poss (mkPsor PL Egg) (This (mkKind_ (Poss_ Her Picture)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor PL Egg) (This (mkKind_ (Poss_ His Picture)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor PL Egg) (This (mkKind_ (Poss_ Its Picture)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Her Egg)) (This (mkKind_ (Poss_ Her Picture)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Her Egg)) (This (mkKind_ (Poss_ His Picture)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Her Egg)) (This (mkKind_ (Poss_ Its Picture)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ His Egg)) (This (mkKind_ (Poss_ Her Picture)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ His Egg)) (This (mkKind_ (Poss_ His Picture)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ His Egg)) (This (mkKind_ (Poss_ Its Picture)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Its Egg)) (This (mkKind_ (Poss_ Her Picture)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Its Egg)) (This (mkKind_ (Poss_ His Picture)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Its Egg)) (This (mkKind_ (Poss_ Its Picture)))) (IndLevelState (mkPropQual Beautiful))
+
+Pred Yes (Poss (mkPsor PL Egg) (This (mkKind_ (Poss_ Her Picture)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor PL Egg) (This (mkKind_ (Poss_ His Picture)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor PL Egg) (This (mkKind_ (Poss_ Its Picture)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Her Egg)) (This (mkKind_ (Poss_ Her Picture)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Her Egg)) (This (mkKind_ (Poss_ His Picture)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Her Egg)) (This (mkKind_ (Poss_ Its Picture)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ His Egg)) (This (mkKind_ (Poss_ Her Picture)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ His Egg)) (This (mkKind_ (Poss_ His Picture)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ His Egg)) (This (mkKind_ (Poss_ Its Picture)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Its Egg)) (This (mkKind_ (Poss_ Her Picture)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Its Egg)) (This (mkKind_ (Poss_ His Picture)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ PL (Poss_ Its Egg)) (This (mkKind_ (Poss_ Its Picture)))) (StageLevelState (mkPropQual Beautiful))
+
+Pred Yes (Poss (mkPsor SG Child) (This (mkKind Picture))) (IndLevelState (mkPropQual Beautiful))
+
+Pred Yes (Poss (mkPsor SG Child) (This (mkKind Picture))) (StageLevelState (mkPropQual Beautiful))
+
+Pred Yes (mkItemNonDeitic (These (mkKind Stone))) (IndLevelState (mkPropQual Heavy))
+
+Pred Yes (mkItemNonDeitic (These (mkKind Stone))) (StageLevelState (mkPropQual Heavy))
+
+Pred Yes (mkItemNonDeitic (These (mkKind Stone))) (IndLevelState (mkPropQual Heavy))
+
+Pred Yes (mkItemNonDeitic (These (mkKind Stone))) (StageLevelState (mkPropQual Heavy))
+
+Pred Yes (mkItemNonDeitic (These (Mod Red (mkKind Fish)))) (IndLevelState (mkPropQual Cheap))
+
+Pred Yes (mkItemNonDeitic (These (Mod Red (mkKind Fish)))) (StageLevelState (mkPropQual Cheap))
+
+Pred Yes (mkItemNonDeitic (These (Mod Red (mkKind Fish)))) (StageLevelState (mkPropQual Cheap))
+
+Pred Yes (Poss (mkPsor SG Picture) (These (mkKind Egg))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Her Picture)) (These (mkKind Egg))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ His Picture)) (These (mkKind Egg))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Its Picture)) (These (mkKind Egg))) (IndLevelState (mkPropQual Beautiful))
+
+Pred Yes (Poss (mkPsor SG Picture) (These (mkKind Egg))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Her Picture)) (These (mkKind Egg))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ His Picture)) (These (mkKind Egg))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Its Picture)) (These (mkKind Egg))) (StageLevelState (mkPropQual Beautiful))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Tapioca_Cake))) (IndLevelState (mkPropQual Hot))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Tapioca_Cake))) (StageLevelState (mkPropQual Hot))
+
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Tapioca_Cake))) (IndLevelState (mkPropQual Hot))
+
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Tapioca_Cake))) (StageLevelState (mkPropQual Hot))
+
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Tapioca_Cake))) (StageLevelState (mkPropQual Hot))
+
+Pred Yes (Poss (mkPsor SG Tree) (TheSG (mkKind Branch))) (IndLevelState (mkPropQual Red))
+
+Pred Yes (Poss (mkPsor SG Tree) (TheSG (mkKind Branch))) (StageLevelState (mkPropQual Red))
+
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourSG Brother_Of_Woman)) (TheSG (mkKind_ (Poss_ Their Language)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourSG Brother_Of_Woman)) (TheSG (mkKind_ (Poss_ Their Word)))) (IndLevelState (mkPropQual Beautiful))
+
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourSG Brother_Of_Woman)) (TheSG (mkKind_ (Poss_ Their Language)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourSG Brother_Of_Woman)) (TheSG (mkKind_ (Poss_ Their Word)))) (StageLevelState (mkPropQual Beautiful))
+
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourSG Brother_Of_Woman)) (TheSG (mkKind Language))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourSG Brother_Of_Woman)) (TheSG (mkKind Word))) (IndLevelState (mkPropQual Beautiful))
+
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourSG Brother_Of_Woman)) (TheSG (mkKind Language))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourSG Brother_Of_Woman)) (TheSG (mkKind Word))) (StageLevelState (mkPropQual Beautiful))
+
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourSG Brother_Of_Woman)) (TheSG (mkKind_ (Poss_ Their Language)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourSG Brother_Of_Woman)) (TheSG (mkKind_ (Poss_ Their Word)))) (IndLevelState (mkPropQual Beautiful))
+
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourSG Husband)) (TheSG (mkKind Language))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourSG Husband)) (TheSG (mkKind Word))) (IndLevelState (mkPropQual Beautiful))
+
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourSG Husband)) (TheSG (mkKind Language))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourSG Husband)) (TheSG (mkKind Word))) (StageLevelState (mkPropQual Beautiful))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ YourSG Food)))) (IndLevelState (mkPropQual (Very Beautiful)))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ YourSG Food)))) (StageLevelState (mkPropQual (Very Beautiful)))
+
+Pred Yes (mkItemDeitic YouSG) (IndLevelState (mkPropQual Happy))
+
+Pred Yes (mkItemDeitic YouSG) (StageLevelState (mkPropQual Happy))
+
+Pred Yes (Poss (mkPsor SG Pedro) (That (mkKind Hook))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind Canoe))))))
+Pred Yes (Poss (mkPsor SG Pedro) (That (mkKind Hook))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind Canoe))))))
+Pred Yes (mkItemNonDeitic (That (mkKind Pedro))) (IndLevelState (mkPropLoc (In (Poss (mkPsor SG Hook) (TheSG (mkKind Canoe))))))
+Pred Yes (mkItemNonDeitic (That (mkKind Pedro))) (IndLevelState (mkPropLoc (On (Poss (mkPsor SG Hook) (TheSG (mkKind Canoe))))))
+
+Pred Yes (Poss (mkPsor SG Pedro) (That (mkKind Hook))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind Canoe))))))
+
+Pred Yes (Poss (mkPsor SG Pedro) (That (mkKind Hook))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind Canoe))))))
+Pred Yes (Poss (mkPsor SG Pedro) (That (mkKind Hook))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind Canoe))))))
+
+Pred Yes (Poss (mkPsor SG Woman) (Those (mkKind Daughter_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+Pred Yes (Poss (mkPsor SG Woman) (Those (mkKind Son_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+
+Pred Yes (Poss (mkPsor SG Boy) (That (mkKind Hook))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind Canoe))))))
+Pred Yes (mkItemNonDeitic (That (mkKind Boy))) (IndLevelState (mkPropLoc (In (Poss (mkPsor SG Hook) (TheSG (mkKind Canoe))))))
+
+Pred Yes (Poss (mkPsor SG Boy) (That (mkKind Hook))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind Canoe))))))
+Pred Yes (Poss (mkPsor SG Boy) (That (mkKind Hook))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind Canoe))))))
+Pred Yes (mkItemNonDeitic (That (mkKind Boy))) (IndLevelState (mkPropLoc (In (Poss (mkPsor SG Hook) (TheSG (mkKind Canoe))))))
+Pred Yes (mkItemNonDeitic (That (mkKind Boy))) (IndLevelState (mkPropLoc (On (Poss (mkPsor SG Hook) (TheSG (mkKind Canoe))))))
+
+Pred Yes (Poss (mkPsor SG Boy) (That (mkKind Hook))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind Canoe))))))
+Pred Yes (Poss (mkPsor SG Boy) (That (mkKind Hook))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind Canoe))))))
+
+Pred Yes (mkItemNonDeitic (That (mkKind Boy))) (StageLevelState (mkPropLoc (In (Poss (mkPsor SG Hook) (TheSG (mkKind Canoe))))))
+Pred Yes (mkItemNonDeitic (That (mkKind Boy))) (StageLevelState (mkPropLoc (On (Poss (mkPsor SG Hook) (TheSG (mkKind Canoe))))))
+
+Pred Yes (mkItemNonDeitic (That (mkKind_ (Poss_ My Canoe)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (That (mkKind_ (Poss_ My Canoe)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+
+Pred Yes (mkItemNonDeitic (That (mkKind Food))) (IndLevelState (mkPropQual (Very Expensive)))
+
+Pred Yes (mkItemNonDeitic (That (mkKind Food))) (StageLevelState (mkPropQual (Very Expensive)))
+
+Pred Yes (mkItemNonDeitic (That (mkKind_ (Poss_ Her Food)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (That (mkKind_ (Poss_ His Food)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (That (mkKind_ (Poss_ Its Food)))) (IndLevelState (mkPropQual Beautiful))
+
+Pred No (Poss (mkPsor_ SG (Poss_ Her Wife)) (That (mkKind Knife))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor_ SG (Poss_ His Wife)) (That (mkKind Knife))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind House))))))
+Pred No (Poss (mkPsor_ SG (Poss_ Its Wife)) (That (mkKind Knife))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind House))))))
+
+Pred Yes (Poss (mkPsor SG Woman) (Those (mkKind Daughter_Of_Woman))) (IndLevelState (mkPropLoc (With (mkItemDeitic They))))
+Pred Yes (Poss (mkPsor SG Woman) (Those (mkKind Son_Of_Woman))) (IndLevelState (mkPropLoc (With (mkItemDeitic They))))
+
+Pred Yes (Poss (mkPsor SG Woman) (Those (mkKind Daughter_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+Pred Yes (Poss (mkPsor SG Woman) (Those (mkKind Son_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+
+Pred Yes (Poss (mkPsor SG Woman) (Those (mkKind Son_Of_Man))) (IndLevelState (mkPropLoc (With (mkItemDeitic They))))
+
+Pred Yes (Poss (mkPsor SG Woman) (Those (mkKind Son_Of_Man))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+
+Pred Yes (Poss (mkPsor SG Wife) (Those (mkKind Daughter_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+Pred Yes (Poss (mkPsor SG Wife) (Those (mkKind Son_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Her Wife)) (Those (mkKind Daughter_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Her Wife)) (Those (mkKind Son_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ His Wife)) (Those (mkKind Daughter_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ His Wife)) (Those (mkKind Son_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Its Wife)) (Those (mkKind Daughter_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Its Wife)) (Those (mkKind Son_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+
+Pred Yes (Poss (mkPsor SG Wife) (Those (mkKind Son_Of_Man))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Her Wife)) (Those (mkKind Son_Of_Man))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ His Wife)) (Those (mkKind Son_Of_Man))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Its Wife)) (Those (mkKind Son_Of_Man))) (StageLevelState (mkPropLoc (With (mkItemDeitic They))))
+
+Pred No (mkItemDeitic I) (IndLevelState (mkPropQual Happy))
+
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourPL Brother_Of_Woman)) (TheSG (mkKind_ (Poss_ Their Language)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourPL Brother_Of_Woman)) (TheSG (mkKind_ (Poss_ Their Word)))) (IndLevelState (mkPropQual Beautiful))
+
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourPL Brother_Of_Woman)) (TheSG (mkKind_ (Poss_ Their Language)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourPL Brother_Of_Woman)) (TheSG (mkKind_ (Poss_ Their Word)))) (StageLevelState (mkPropQual Beautiful))
+
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourPL Brother_Of_Woman)) (TheSG (mkKind Language))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourPL Brother_Of_Woman)) (TheSG (mkKind Word))) (IndLevelState (mkPropQual Beautiful))
+
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourPL Brother_Of_Woman)) (TheSG (mkKind Language))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourPL Brother_Of_Woman)) (TheSG (mkKind Word))) (StageLevelState (mkPropQual Beautiful))
+
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourPL Husband)) (TheSG (mkKind Language))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourPL Husband)) (TheSG (mkKind Word))) (IndLevelState (mkPropQual Beautiful))
+
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourPL Husband)) (TheSG (mkKind Language))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (Poss (mkPsor_ SG (Poss_ YourPL Husband)) (TheSG (mkKind Word))) (StageLevelState (mkPropQual Beautiful))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ YourPL Food)))) (IndLevelState (mkPropQual (Very Beautiful)))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ YourPL Food)))) (StageLevelState (mkPropQual (Very Beautiful)))
+
+Pred Yes (mkItemDeitic YouPL) (StageLevelState (mkPropQual Happy))
+
+Pred Yes (mkItemDeitic YouPL) (IndLevelState (mkPropQual Happy))
+
+Pred Yes (mkItemDeitic YouPL) (StageLevelState (mkPropQual Happy))
+
+Pred No (mkItemDeitic YouPL) (IndLevelState (mkPropQual Happy))
+
+Pred No (mkItemDeitic YouPL) (StageLevelState (mkPropQual Happy))
+
+Pred Yes (mkItemNonDeitic (TheSG (Mod Heavy (mkKind Canoe)))) (IndLevelState (mkPropQual Cheap))
+
+Pred Yes (mkItemNonDeitic (TheSG (Mod Heavy (mkKind Canoe)))) (StageLevelState (mkPropQual Cheap))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Picture))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Picture)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Picture)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Picture)))) (IndLevelState (mkPropQual Beautiful))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Picture))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Picture)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Picture)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Picture)))) (StageLevelState (mkPropQual Beautiful))
+
+Pred Yes (mkItemDeitic I) (IndLevelState (mkPropQual Heavy))
+
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropQual Heavy))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My Food)))) (IndLevelState (mkPropQual Delicious))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My Food)))) (StageLevelState (mkPropQual Delicious))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (In (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (In (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (In (mkItemDeitic She))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (On (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (On (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (On (mkItemDeitic She))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (This (Mod Dirty (mkKind Path)))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (This (Mod Dirty (mkKind Street)))))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (This (Mod Dirty (mkKind_ (Poss_ Her Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (This (Mod Dirty (mkKind_ (Poss_ Her Street))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (This (Mod Dirty (mkKind_ (Poss_ His Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (This (Mod Dirty (mkKind_ (Poss_ His Street))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (This (Mod Dirty (mkKind_ (Poss_ Its Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (This (Mod Dirty (mkKind_ (Poss_ Its Street))))))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic YouSG))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ YourSG House)))))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind Path)))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind Street)))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind Path)))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind Street)))))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Her Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Her Street))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ His Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ His Street))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Its Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Its Street))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Her Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Her Street))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ His Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ His Street))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Its Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Its Street))))))))
+
+Pred No (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
+
+Pred No (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred No (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic YouPL))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ YourPL House)))))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic She))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))))))
+
+Pred No (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
+
+Pred No (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred No (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+
+Pred No (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
+
+Pred No (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred No (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (In (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (In (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (In (mkItemDeitic She))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (On (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (On (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (On (mkItemDeitic She))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (This (Mod Dirty (mkKind Path)))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (This (Mod Dirty (mkKind Street)))))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic YouSG))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ YourSG House)))))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind Path)))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind Street)))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind Path)))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind Street)))))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Her Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Her Street))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ His Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ His Street))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Its Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Its Street))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Her Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Her Street))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ His Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ His Street))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Its Path))))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (That (Mod Dirty (mkKind_ (Poss_ Its Street))))))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic YouPL))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ YourPL House)))))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic She))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ My House)))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))))))
+
+Pred Yes (mkItemDeitic I) (IndLevelState (mkPropQual Happy))
+
+Pred Yes (mkItemDeitic I) (StageLevelState (mkPropQual Happy))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Community)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Community)))) (IndLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Community)))) (IndLevelState (mkPropQual Beautiful))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Community)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Community)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Community)))) (StageLevelState (mkPropQual Beautiful))
+
+Pred Yes (Poss (mkPsor SG Wife) (ThePL (mkKind Daughter_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+Pred Yes (Poss (mkPsor SG Wife) (ThePL (mkKind Son_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Her Wife)) (ThePL (mkKind Daughter_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Her Wife)) (ThePL (mkKind Son_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ His Wife)) (ThePL (mkKind Daughter_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ His Wife)) (ThePL (mkKind Son_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Its Wife)) (ThePL (mkKind Daughter_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Its Wife)) (ThePL (mkKind Son_Of_Woman))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Wife))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Wife)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Wife)))) (StageLevelState (mkPropQual Beautiful))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Wife)))) (StageLevelState (mkPropQual Beautiful))
+
+Pred Yes (Poss (mkPsor SG Wife) (ThePL (mkKind Son_Of_Man))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Her Wife)) (ThePL (mkKind Son_Of_Man))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ His Wife)) (ThePL (mkKind Son_Of_Man))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Its Wife)) (ThePL (mkKind Son_Of_Man))) (StageLevelState (mkPropLoc (With (mkItemDeitic I))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Wife))) (StageLevelState (mkPropQual Happy))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Wife)))) (StageLevelState (mkPropQual Happy))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Wife)))) (StageLevelState (mkPropQual Happy))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Wife)))) (StageLevelState (mkPropQual Happy))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic She))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic She))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic She))))
+
+Pred Yes (Poss (mkPsor_ SG (Poss_ Her House)) (TheSG (mkKind City))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ His House)) (TheSG (mkKind City))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Its House)) (TheSG (mkKind City))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))) (IndLevelState (mkPropLoc (Near (Poss (mkPsor SG City) (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))) (IndLevelState (mkPropLoc (Near (Poss (mkPsor SG City) (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))) (IndLevelState (mkPropLoc (Near (Poss (mkPsor SG City) (TheSG (mkKind River))))))
+
+Pred Yes (Poss (mkPsor_ SG (Poss_ Her House)) (TheSG (mkKind City))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ His House)) (TheSG (mkKind City))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Its House)) (TheSG (mkKind City))) (StageLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind City))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind City))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind City))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind City))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind City))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind City))))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic She))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic She))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic She))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))) (StageLevelState (mkPropLoc (Near (Poss (mkPsor SG City) (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))) (StageLevelState (mkPropLoc (Near (Poss (mkPsor SG City) (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))) (StageLevelState (mkPropLoc (Near (Poss (mkPsor SG City) (TheSG (mkKind River))))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind City))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind City))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind City))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind City))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind City))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind City))))))
+
+Pred Yes (mkItemDeitic He) (IndLevelState (mkPropQual Happy))
+Pred Yes (mkItemDeitic It) (IndLevelState (mkPropQual Happy))
+Pred Yes (mkItemDeitic She) (IndLevelState (mkPropQual Happy))
+
+Pred Yes (mkItemDeitic He) (IndLevelState (mkPropQual (Very Happy)))
+Pred Yes (mkItemDeitic It) (IndLevelState (mkPropQual (Very Happy)))
+Pred Yes (mkItemDeitic She) (IndLevelState (mkPropQual (Very Happy)))
+
+Pred Yes (mkItemDeitic He) (StageLevelState (mkPropQual Happy))
+Pred Yes (mkItemDeitic It) (StageLevelState (mkPropQual Happy))
+Pred Yes (mkItemDeitic She) (StageLevelState (mkPropQual Happy))
+
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))))))
+
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))))))
+
+Pred No (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemDeitic He))))
+Pred No (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemDeitic It))))
+Pred No (mkItemDeitic I) (StageLevelState (mkPropLoc (Near (mkItemDeitic She))))
+
+Pred No (mkItemDeitic We) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind Community))))))
+Pred No (mkItemDeitic We) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind Community))))))
+
+Pred No (mkItemDeitic YouSG) (StageLevelState (mkPropQual Happy))
+
+Pred No (mkItemDeitic I) (IndLevelState (mkPropQual Happy))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Food))) (IndLevelState (mkPropQual Delicious))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Food))) (StageLevelState (mkPropQual Delicious))
+
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))))))
+Pred Yes (mkItemNonDeitic (TheSG (Mod Delicious (mkKind Food)))) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))))))
+
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Ant))) (IndLevelState (mkPropLoc (In (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Ant))) (IndLevelState (mkPropLoc (In (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Ant))) (IndLevelState (mkPropLoc (In (mkItemDeitic She))))
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Ant))) (IndLevelState (mkPropLoc (On (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Ant))) (IndLevelState (mkPropLoc (On (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Ant))) (IndLevelState (mkPropLoc (On (mkItemDeitic She))))
+
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Ant))) (StageLevelState (mkPropLoc (In (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Ant))) (StageLevelState (mkPropLoc (In (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Ant))) (StageLevelState (mkPropLoc (In (mkItemDeitic She))))
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Ant))) (StageLevelState (mkPropLoc (On (mkItemDeitic He))))
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Ant))) (StageLevelState (mkPropLoc (On (mkItemDeitic It))))
+Pred Yes (mkItemNonDeitic (ThePL (mkKind Ant))) (StageLevelState (mkPropLoc (On (mkItemDeitic She))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Food)))) (IndLevelState (mkPropQual Hot))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Food)))) (IndLevelState (mkPropQual Hot))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Food)))) (IndLevelState (mkPropQual Hot))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Food)))) (StageLevelState (mkPropQual Hot))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Food)))) (StageLevelState (mkPropQual Hot))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Food)))) (StageLevelState (mkPropQual Hot))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Food)))) (IndLevelState (mkPropQual Delicious))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Food)))) (IndLevelState (mkPropQual Delicious))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Food)))) (IndLevelState (mkPropQual Delicious))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Food)))) (StageLevelState (mkPropQual Delicious))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Food)))) (StageLevelState (mkPropQual Delicious))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Food)))) (StageLevelState (mkPropQual Delicious))
+

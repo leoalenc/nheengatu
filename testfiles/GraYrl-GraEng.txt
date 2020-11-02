@@ -1,0 +1,772 @@
+SENT-1:: Maria ruka ti suaki
+the house of Maria is not near him
+the house of Maria is not near it
+the house of Maria is not near her
+
+
+SENT-2:: aiku iké
+I am here
+
+
+SENT-3:: aé i pusé
+he is heavy
+it is heavy
+she is heavy
+
+
+SENT-4:: aé puranga
+he is beautiful
+it is beautiful
+she is beautiful
+
+
+SENT-5:: aé saku
+he is hot
+it is hot
+she is hot
+
+
+SENT-6:: aé suri
+he is happy
+it is happy
+she is happy
+
+
+SENT-7:: i igara i pusé uiku
+her canoe is heavy
+his canoe is heavy
+its canoe is heavy
+
+
+SENT-8:: i igara paranã upé
+her canoe is in the river
+her canoe is on the river
+his canoe is in the river
+his canoe is on the river
+its canoe is in the river
+its canoe is on the river
+
+
+SENT-9:: iandé ti iaiku tendaua upé
+we are not in the community
+we are not on the community
+
+
+SENT-10:: igara i pusé uiku
+the canoe is heavy
+
+
+SENT-11:: igara pusé sepiasuíma uiku
+the heavy canoe is cheap
+
+
+SENT-12:: indé ti ne ruri reiku
+you are not happy
+
+
+SENT-13:: ixé aiku iké
+I am here
+
+
+SENT-14:: ixé aiku suaki
+I am near him
+I am near it
+I am near her
+
+
+SENT-15:: ixé se pusé
+I am heavy
+
+
+SENT-16:: ixé se ruri aiku
+I am happy
+
+
+SENT-17:: kunhã puranga uiku
+the woman is beautiful
+
+
+SENT-18:: kunhã-itá puranga uiku
+the women are beautiful
+
+
+SENT-19:: kurumĩ rendaua pe taua ruaki
+the community of the boy is near your city
+
+
+SENT-20:: kuá kambi saku uiku
+this milk is hot
+
+
+SENT-21:: kuá pirá-itá piranga sepiasuíma uiku
+these red fish are cheap
+
+
+SENT-22:: kuá taína rangaua puranga
+this picture of the child is beautiful
+
+
+SENT-23:: nhaã ximiriku kisé ti uiku uka pupé
+that knife of her wife is not in the house
+that knife of his wife is not in the house
+that knife of its wife is not in the house
+
+
+SENT-24:: kuá-itá pirá piranga sepiasuíma uiku
+these red fish are cheap
+
+
+SENT-25:: meiú-itá ta raku uiku
+the tapioca cakes are hot
+
+
+SENT-26:: mirá rakanga piranga
+the branch of the tree is red
+
+
+SENT-27:: ne kiuíra ta nheenga puranga
+their language of your brother is beautiful
+their word of your brother is beautiful
+
+
+SENT-28:: ne mena nheenga puranga
+the language of your husband is beautiful
+the word of your husband is beautiful
+
+
+SENT-29:: ne rimbiú puranga retana
+your food is very beautiful
+
+
+SENT-30:: nhaã Pedro pindá uiku igara kuara upé
+that hook of Pedro is in the canoe
+
+
+SENT-31:: nhaã kurumĩ pindá igara pupé
+that hook of the boy is in the canoe
+that boy is in the canoe of the hook
+
+
+SENT-32:: nhaã timbiú sepiasu retana
+that food is very expensive
+
+
+SENT-33:: nhaã ximbiú puranga
+that her food is beautiful
+that his food is beautiful
+that its food is beautiful
+
+
+SENT-34:: se pusé
+I am heavy
+
+
+SENT-35:: se pusé aiku
+I am heavy
+
+
+SENT-36:: se ruri aiku
+I am happy
+
+
+SENT-37:: sendaua puranga
+her community is beautiful
+his community is beautiful
+its community is beautiful
+
+
+SENT-38:: suka taua upé
+her house is in the city
+her house is on the city
+his house is in the city
+his house is on the city
+its house is in the city
+its house is on the city
+
+
+SENT-39:: suri
+he is happy
+it is happy
+she is happy
+
+
+SENT-40:: ti iaiku tendaua upé
+we are not in the community
+we are not on the community
+
+
+SENT-41:: ti ne ruri reiku
+you are not happy
+
+
+SENT-42:: tukandira-itá uiku i upé
+the ants are in him
+the ants are in it
+the ants are in her
+the ants are on him
+the ants are on it
+the ants are on her
+
+
+SENT-43:: ximbiú saku
+her food is hot
+his food is hot
+its food is hot
+
+
+SENT-44:: Maria mimbira-itá puranga
+the daughters of Maria are beautiful
+the sons of Maria are beautiful
+
+
+SENT-45:: Maria ramunha uiku paranã upé
+the grandfather of Maria is in the river
+the grandfather of Maria is on the river
+
+
+SENT-46:: Maria rimbiú ti sé
+the food of Maria is not delicious
+
+
+SENT-47:: Maria rimbiú ti sé uiku
+the food of Maria is not delicious
+
+
+SENT-48:: aiku i irũmu
+I am with him
+I am with it
+I am with her
+
+
+SENT-49:: aiku iké
+I am here
+
+
+SENT-50:: aiku suaki
+I am near him
+I am near it
+I am near her
+
+
+SENT-51:: aintá ruri
+they are happy
+
+
+SENT-52:: aintá ta ruri
+they are happy
+
+
+SENT-53:: aé suri
+he is happy
+it is happy
+she is happy
+
+
+SENT-54:: aé suri uiku
+he is happy
+it is happy
+she is happy
+
+
+SENT-55:: i pusé
+he is heavy
+it is heavy
+she is heavy
+
+
+SENT-56:: i pusé uiku
+he is heavy
+it is heavy
+she is heavy
+
+
+SENT-57:: iaiku pe ruaki
+we are near you
+
+
+SENT-58:: igara paranã ruaki
+the canoe is near the river
+
+
+SENT-59:: igara paranã suaki
+the river of the canoe is near him
+the river of the canoe is near it
+the river of the canoe is near her
+
+
+SENT-60:: igara paranã upé
+the canoe is in the river
+the canoe is on the river
+
+
+SENT-61:: igara uiku ape
+the canoe is there
+
+
+SENT-62:: indé ne ruri
+you are happy
+
+
+SENT-63:: indé ne ruri reiku
+you are happy
+
+
+SENT-64:: ixé aiku suaki
+I am near him
+I am near it
+I am near her
+
+
+SENT-65:: ixé aiku suka ruaki
+I am near her house
+I am near his house
+I am near its house
+
+
+SENT-66:: ixé niti se ruri
+I am not happy
+
+
+SENT-67:: ixé niti se ruri aiku
+I am not happy
+
+
+SENT-68:: ixé niti se ruri retana
+I am not very happy
+
+
+SENT-69:: ixé niti se ruri retana aiku
+I am not very happy
+
+
+SENT-70:: ixé se ruri
+I am happy
+
+
+SENT-71:: ixé se ruri aiku
+I am happy
+
+
+SENT-72:: ixé ti aiku suaki
+I am not near him
+I am not near it
+I am not near her
+
+
+SENT-73:: ixé ti se ruri
+I am not happy
+
+
+SENT-74:: ixé ti se ruri aiku
+I am not happy
+
+
+SENT-75:: kunhã mimbira-itá uiku se irũmu
+the daughters of the woman are with me
+the sons of the woman are with me
+
+
+SENT-76:: kunhã suri uiku
+the woman is happy
+
+
+SENT-77:: kuá itá i pusé
+this stone is heavy
+
+
+SENT-78:: kuá itá i pusé retana
+this stone is very heavy
+
+
+SENT-79:: kuá itá i pusé retana uiku
+this stone is very heavy
+
+
+SENT-80:: kuá itá i pusé uiku
+this stone is heavy
+
+
+SENT-81:: kuá itá-itá aintá pusé
+these stones are heavy
+
+
+SENT-82:: kuá itá-itá aintá pusé uiku
+these stones are heavy
+
+
+SENT-83:: kuá itá-itá ta pusé
+these stones are heavy
+
+
+SENT-84:: kuá itá-itá ta pusé uiku
+these stones are heavy
+
+
+SENT-85:: kuá supiá-itá rangaua puranga
+this picture of the eggs is beautiful
+this picture of her eggs is beautiful
+this picture of his eggs is beautiful
+this picture of its eggs is beautiful
+
+
+SENT-86:: kuá supiá-itá rangaua puranga uiku
+this picture of the eggs is beautiful
+this picture of her eggs is beautiful
+this picture of his eggs is beautiful
+this picture of its eggs is beautiful
+
+
+SENT-87:: kuá supiá-itá sangaua puranga
+this her picture of the eggs is beautiful
+this his picture of the eggs is beautiful
+this its picture of the eggs is beautiful
+this her picture of her eggs is beautiful
+this his picture of her eggs is beautiful
+this its picture of her eggs is beautiful
+this her picture of his eggs is beautiful
+this his picture of his eggs is beautiful
+this its picture of his eggs is beautiful
+this her picture of its eggs is beautiful
+this his picture of its eggs is beautiful
+this its picture of its eggs is beautiful
+
+
+SENT-88:: kuá supiá-itá sangaua puranga uiku
+this her picture of the eggs is beautiful
+this his picture of the eggs is beautiful
+this its picture of the eggs is beautiful
+this her picture of her eggs is beautiful
+this his picture of her eggs is beautiful
+this its picture of her eggs is beautiful
+this her picture of his eggs is beautiful
+this his picture of his eggs is beautiful
+this its picture of his eggs is beautiful
+this her picture of its eggs is beautiful
+this his picture of its eggs is beautiful
+this its picture of its eggs is beautiful
+
+
+SENT-89:: kuá-itá itá aintá pusé
+these stones are heavy
+
+
+SENT-90:: kuá-itá itá aintá pusé uiku
+these stones are heavy
+
+
+SENT-91:: kuá-itá itá ta pusé
+these stones are heavy
+
+
+SENT-92:: kuá-itá itá ta pusé uiku
+these stones are heavy
+
+
+SENT-93:: kuá-itá sangaua rupiá puranga
+these eggs of the picture are beautiful
+these eggs of her picture are beautiful
+these eggs of his picture are beautiful
+these eggs of its picture are beautiful
+
+
+SENT-94:: kuá-itá sangaua rupiá puranga uiku
+these eggs of the picture are beautiful
+these eggs of her picture are beautiful
+these eggs of his picture are beautiful
+these eggs of its picture are beautiful
+
+
+SENT-95:: meiú saku uiku
+the tapioca cake is hot
+
+
+SENT-96:: meiú-itá aintá raku uiku
+the tapioca cakes are hot
+
+
+SENT-97:: ne kiuíra aintá nheenga puranga
+their language of your brother is beautiful
+their word of your brother is beautiful
+
+
+SENT-98:: ne kiuíra nheenga puranga
+the language of your brother is beautiful
+the word of your brother is beautiful
+
+
+SENT-99:: ne ruri
+you are happy
+
+
+SENT-100:: ne ruri reiku
+you are happy
+
+
+SENT-101:: nhaã kunhã mimbira-itá uiku aintá irũmu
+those daughters of the woman are with them
+those sons of the woman are with them
+
+
+SENT-102:: nhaã se igara uiku paranã upé
+that my canoe is in the river
+that my canoe is on the river
+
+
+SENT-103:: niti se ruri
+I am not happy
+
+
+SENT-104:: pe ruri peiku
+you are happy
+
+
+SENT-105:: sangaua puranga
+the picture is beautiful
+her picture is beautiful
+his picture is beautiful
+its picture is beautiful
+
+
+SENT-106:: sangaua puranga uiku
+the picture is beautiful
+her picture is beautiful
+his picture is beautiful
+its picture is beautiful
+
+
+SENT-107:: se rimbiú sé
+my food is delicious
+
+
+SENT-108:: se ruka i upé
+my house is in him
+my house is in it
+my house is in her
+my house is on him
+my house is on it
+my house is on her
+
+
+SENT-109:: se ruka kuá kiá pé ruaki
+my house is near this dirty path
+my house is near this dirty street
+
+
+SENT-110:: se ruka kuá kiá sapé ruaki
+my house is near this dirty her path
+my house is near this dirty her street
+my house is near this dirty his path
+my house is near this dirty his street
+my house is near this dirty its path
+my house is near this dirty its street
+
+
+SENT-111:: se ruka ne ruaki
+my house is near you
+
+
+SENT-112:: se ruka ne ruka ruaki
+my house is near your house
+
+
+SENT-113:: se ruka nhaã kiá pé upé
+my house is in that dirty path
+my house is in that dirty street
+my house is on that dirty path
+my house is on that dirty street
+
+
+SENT-114:: se ruka nhaã kiá sapé upé
+my house is in that dirty her path
+my house is in that dirty her street
+my house is in that dirty his path
+my house is in that dirty his street
+my house is in that dirty its path
+my house is in that dirty its street
+my house is on that dirty her path
+my house is on that dirty her street
+my house is on that dirty his path
+my house is on that dirty his street
+my house is on that dirty its path
+my house is on that dirty its street
+
+
+SENT-115:: se ruka niti paranã ruaki
+my house is not near the river
+
+
+SENT-116:: se ruka niti paranã upé
+my house is not in the river
+my house is not on the river
+
+
+SENT-117:: se ruka paranã ruaki
+my house is near the river
+
+
+SENT-118:: se ruka paranã upé
+my house is in the river
+my house is on the river
+
+
+SENT-119:: se ruka suaki
+my house is near him
+my house is near it
+my house is near her
+
+
+SENT-120:: se ruka suka ruaki
+my house is near her house
+my house is near his house
+my house is near its house
+
+
+SENT-121:: se ruka ti paranã ruaki
+my house is not near the river
+
+
+SENT-122:: se ruka ti paranã upé
+my house is not in the river
+my house is not on the river
+
+
+SENT-123:: se ruka uiku i upé
+my house is in him
+my house is in it
+my house is in her
+my house is on him
+my house is on it
+my house is on her
+
+
+SENT-124:: se ruka uiku kuá kiá pé ruaki
+my house is near this dirty path
+my house is near this dirty street
+
+
+SENT-125:: se ruka uiku ne ruaki
+my house is near you
+
+
+SENT-126:: se ruka uiku nhaã kiá pé upé
+my house is in that dirty path
+my house is in that dirty street
+my house is on that dirty path
+my house is on that dirty street
+
+
+SENT-127:: se ruka uiku nhaã kiá sapé upé
+my house is in that dirty her path
+my house is in that dirty her street
+my house is in that dirty his path
+my house is in that dirty his street
+my house is in that dirty its path
+my house is in that dirty its street
+my house is on that dirty her path
+my house is on that dirty her street
+my house is on that dirty his path
+my house is on that dirty his street
+my house is on that dirty its path
+my house is on that dirty its street
+
+
+SENT-128:: se ruka uiku suaki
+my house is near him
+my house is near it
+my house is near her
+
+
+SENT-129:: se ruri
+I am happy
+
+
+SENT-130:: se ruri aiku
+I am happy
+
+
+SENT-131:: suka suaki
+her house is near him
+her house is near it
+her house is near her
+his house is near him
+his house is near it
+his house is near her
+its house is near him
+its house is near it
+its house is near her
+
+
+SENT-132:: suka taua paranã ruaki
+the city of her house is near the river
+the city of his house is near the river
+the city of its house is near the river
+her house is near the river of the city
+his house is near the river of the city
+its house is near the river of the city
+
+
+SENT-133:: suka uiku suaki
+her house is near him
+her house is near it
+her house is near her
+his house is near him
+his house is near it
+his house is near her
+its house is near him
+its house is near it
+its house is near her
+
+
+SENT-134:: suri
+he is happy
+it is happy
+she is happy
+
+
+SENT-135:: suri retana
+he is very happy
+it is very happy
+she is very happy
+
+
+SENT-136:: suri uiku
+he is happy
+it is happy
+she is happy
+
+
+SENT-137:: ti aiku suaki
+I am not near him
+I am not near it
+I am not near her
+
+
+SENT-138:: ti se ruri
+I am not happy
+
+
+SENT-139:: timbiú sé
+the food is delicious
+
+
+SENT-140:: timbiú sé uiku suka upé
+the delicious food is in her house
+the delicious food is in his house
+the delicious food is in its house
+the delicious food is on her house
+the delicious food is on his house
+the delicious food is on its house
+
+
+SENT-141:: ximbiú sé
+her food is delicious
+his food is delicious
+its food is delicious
+
+
+SENT-142:: ximbiú sé uiku
+her food is delicious
+his food is delicious
+its food is delicious
+
+

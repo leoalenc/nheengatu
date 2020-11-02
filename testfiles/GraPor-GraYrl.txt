@@ -1,0 +1,1015 @@
+SENT-1:: a canoa dela está pesada
+i igara i pusé uiku
+
+
+SENT-2:: a canoa dela é no rio
+i igara paranã upé
+i igara paranã upé
+
+
+SENT-3:: a canoa dele está pesada
+i igara i pusé uiku
+i igara i pusé uiku
+
+
+SENT-4:: a canoa dele é no rio
+i igara paranã upé
+i igara paranã upé
+i igara paranã upé
+i igara paranã upé
+
+
+SENT-5:: a canoa está lá
+igara uiku ape
+
+
+SENT-6:: a canoa está pesada
+igara i pusé uiku
+
+
+SENT-7:: a canoa é no rio
+igara paranã upé
+igara paranã upé
+
+
+SENT-8:: a canoa é perto do rio
+igara paranã ruaki
+
+
+SENT-9:: a casa da Maria não é perto dela
+Maria ruka ti suaki
+
+
+SENT-10:: a casa da Maria não é perto dele
+Maria ruka ti suaki
+Maria ruka ti suaki
+
+
+SENT-11:: a casa dela está perto dela
+suka uiku suaki
+
+
+SENT-12:: a casa dela está perto dele
+suka uiku suaki
+suka uiku suaki
+
+
+SENT-13:: a casa dela é na cidade
+suka taua upé
+suka taua upé
+
+
+SENT-14:: a casa dela é perto dela
+suka suaki
+
+
+SENT-15:: a casa dela é perto dele
+suka suaki
+suka suaki
+
+
+SENT-16:: a casa dele está perto dela
+suka uiku suaki
+suka uiku suaki
+
+
+SENT-17:: a casa dele está perto dele
+suka uiku suaki
+suka uiku suaki
+suka uiku suaki
+suka uiku suaki
+
+
+SENT-18:: a casa dele é na cidade
+suka taua upé
+suka taua upé
+suka taua upé
+suka taua upé
+
+
+SENT-19:: a casa dele é perto dela
+suka suaki
+suka suaki
+
+
+SENT-20:: a casa dele é perto dele
+suka suaki
+suka suaki
+suka suaki
+suka suaki
+
+
+SENT-21:: a comida da Maria não está deliciosa
+Maria rimbiú ti sé uiku
+
+
+SENT-22:: a comida da Maria não é deliciosa
+Maria rimbiú ti sé
+
+
+SENT-23:: a comida dela está deliciosa
+ximbiú sé uiku
+
+
+SENT-24:: a comida dela é deliciosa
+ximbiú sé
+
+
+SENT-25:: a comida dela é quente
+ximbiú saku
+
+
+SENT-26:: a comida dele está deliciosa
+ximbiú sé uiku
+ximbiú sé uiku
+
+
+SENT-27:: a comida dele é deliciosa
+ximbiú sé
+ximbiú sé
+
+
+SENT-28:: a comida dele é quente
+ximbiú saku
+ximbiú saku
+
+
+SENT-29:: a comida é deliciosa
+timbiú sé
+
+
+SENT-30:: a comunidade dela é bonita
+sendaua puranga
+
+
+SENT-31:: a comunidade dele é bonita
+sendaua puranga
+sendaua puranga
+
+
+SENT-32:: a comunidade do menino é perto da cidade de vocês
+kurumĩ rendaua pe taua ruaki
+
+
+SENT-33:: a deliciosa comida está na casa dela
+sé timbiú uiku suka upé
+sé timbiú uiku suka upé
+
+
+SENT-34:: a deliciosa comida está na casa dele
+sé timbiú uiku suka upé
+sé timbiú uiku suka upé
+sé timbiú uiku suka upé
+sé timbiú uiku suka upé
+
+
+SENT-35:: a fotografia dela está bonita
+sangaua puranga uiku
+
+
+SENT-36:: a fotografia dela é bonita
+sangaua puranga
+
+
+SENT-37:: a fotografia dele está bonita
+sangaua puranga uiku
+sangaua puranga uiku
+
+
+SENT-38:: a fotografia dele é bonita
+sangaua puranga
+sangaua puranga
+
+
+SENT-39:: a fotografia está bonita
+sangaua puranga uiku
+
+
+SENT-40:: a fotografia é bonita
+sangaua puranga
+
+
+SENT-41:: a língua deles do seu irmão é bonita
+no translation
+
+
+SENT-42:: a língua do seu irmão é bonita
+ne kiuíra nheenga puranga
+
+
+SENT-43:: a língua do seu marido é bonita
+ne mena nheenga puranga
+
+
+SENT-44:: a língua deles do teu irmão é bonita
+no translation
+
+
+SENT-45:: a língua do teu irmão é bonita
+ne kiuíra nheenga puranga
+
+
+SENT-46:: a língua do teu marido é bonita
+ne mena nheenga puranga
+
+
+SENT-47:: a minha casa está naquela suja rua
+se ruka uiku nhaã kiá pé upé
+se ruka uiku nhaã kiá pé upé
+
+
+SENT-48:: a minha casa está naquela suja rua dela
+se ruka uiku nhaã kiá sapé upé
+se ruka uiku nhaã kiá sapé upé
+
+
+SENT-49:: a minha casa está naquela suja rua dele
+se ruka uiku nhaã kiá sapé upé
+se ruka uiku nhaã kiá sapé upé
+se ruka uiku nhaã kiá sapé upé
+se ruka uiku nhaã kiá sapé upé
+
+
+SENT-50:: a minha casa está naquele sujo caminho
+se ruka uiku nhaã kiá pé upé
+se ruka uiku nhaã kiá pé upé
+
+
+SENT-51:: a minha casa está naquele sujo caminho dela
+se ruka uiku nhaã kiá sapé upé
+se ruka uiku nhaã kiá sapé upé
+
+
+SENT-52:: a minha casa está naquele sujo caminho dele
+se ruka uiku nhaã kiá sapé upé
+se ruka uiku nhaã kiá sapé upé
+se ruka uiku nhaã kiá sapé upé
+se ruka uiku nhaã kiá sapé upé
+
+
+SENT-53:: a minha casa está nela
+se ruka uiku i upé
+se ruka uiku i upé
+
+
+SENT-54:: a minha casa está nele
+se ruka uiku i upé
+se ruka uiku i upé
+se ruka uiku i upé
+se ruka uiku i upé
+
+
+SENT-55:: a minha casa está perto de você
+se ruka uiku ne ruaki
+
+
+SENT-56:: a minha casa está perto dela
+se ruka uiku suaki
+
+
+SENT-57:: a minha casa está perto dele
+se ruka uiku suaki
+se ruka uiku suaki
+
+
+SENT-58:: a minha casa está perto desta suja rua
+se ruka uiku kuá kiá pé ruaki
+
+
+SENT-59:: a minha casa está perto deste sujo caminho
+se ruka uiku kuá kiá pé ruaki
+
+
+SENT-60:: a minha casa não é no rio
+se ruka ti paranã upé
+se ruka ti paranã upé
+
+
+SENT-61:: a minha casa não é perto do rio
+se ruka ti paranã ruaki
+
+
+SENT-62:: a minha casa é naquela suja rua
+se ruka nhaã kiá pé upé
+se ruka nhaã kiá pé upé
+
+
+SENT-63:: a minha casa é naquela suja rua dela
+se ruka nhaã kiá sapé upé
+se ruka nhaã kiá sapé upé
+
+
+SENT-64:: a minha casa é naquela suja rua dele
+se ruka nhaã kiá sapé upé
+se ruka nhaã kiá sapé upé
+se ruka nhaã kiá sapé upé
+se ruka nhaã kiá sapé upé
+
+
+SENT-65:: a minha casa é naquele sujo caminho
+se ruka nhaã kiá pé upé
+se ruka nhaã kiá pé upé
+
+
+SENT-66:: a minha casa é naquele sujo caminho dela
+se ruka nhaã kiá sapé upé
+se ruka nhaã kiá sapé upé
+
+
+SENT-67:: a minha casa é naquele sujo caminho dele
+se ruka nhaã kiá sapé upé
+se ruka nhaã kiá sapé upé
+se ruka nhaã kiá sapé upé
+se ruka nhaã kiá sapé upé
+
+
+SENT-68:: a minha casa é nela
+se ruka i upé
+se ruka i upé
+
+
+SENT-69:: a minha casa é nele
+se ruka i upé
+se ruka i upé
+se ruka i upé
+se ruka i upé
+
+
+SENT-70:: a minha casa é no rio
+se ruka paranã upé
+se ruka paranã upé
+
+
+SENT-71:: a minha casa é perto da casa dela
+se ruka suka ruaki
+
+
+SENT-72:: a minha casa é perto da casa dele
+se ruka suka ruaki
+se ruka suka ruaki
+
+
+SENT-73:: a minha casa é perto da sua casa
+se ruka ne ruka ruaki
+
+
+SENT-74:: a minha casa é perto de você
+se ruka ne ruaki
+
+
+SENT-75:: a minha casa é perto dela
+se ruka suaki
+
+
+SENT-76:: a minha casa é perto dele
+se ruka suaki
+se ruka suaki
+
+
+SENT-77:: a minha casa é perto desta suja rua
+se ruka kuá kiá pé ruaki
+
+
+SENT-78:: a minha casa é perto desta suja rua dela
+se ruka kuá kiá sapé ruaki
+
+
+SENT-79:: a minha casa é perto desta suja rua dele
+se ruka kuá kiá sapé ruaki
+se ruka kuá kiá sapé ruaki
+
+
+SENT-80:: a minha casa é perto deste sujo caminho
+se ruka kuá kiá pé ruaki
+
+
+SENT-81:: a minha casa é perto deste sujo caminho dela
+se ruka kuá kiá sapé ruaki
+
+
+SENT-82:: a minha casa é perto deste sujo caminho dele
+se ruka kuá kiá sapé ruaki
+se ruka kuá kiá sapé ruaki
+
+
+SENT-83:: a minha casa é perto do rio
+se ruka paranã ruaki
+
+
+SENT-84:: a minha comida é deliciosa
+se rimbiú sé
+
+
+SENT-85:: a mulher está bonita
+simiriku puranga uiku
+kunhã puranga uiku
+
+
+SENT-86:: a mulher está feliz
+simiriku suri uiku
+kunhã suri uiku
+
+
+SENT-87:: a palavra deles do seu irmão é bonita
+no translation
+
+
+SENT-88:: a palavra do seu irmão é bonita
+ne kiuíra nheenga puranga
+
+
+SENT-89:: a palavra do seu marido é bonita
+ne mena nheenga puranga
+
+
+SENT-90:: a palavra deles do teu irmão é bonita
+no translation
+
+
+SENT-91:: a palavra do teu irmão é bonita
+ne kiuíra nheenga puranga
+
+
+SENT-92:: a palavra do teu marido é bonita
+ne mena nheenga puranga
+
+
+SENT-93:: a pesada canoa está barata
+pusé igara sepiasuíma uiku
+
+
+SENT-94:: a sua comida é muito bonita
+ne rimbiú puranga retana
+
+
+SENT-95:: aquela comida dela é bonita
+nhaã ximbiú puranga
+
+
+SENT-96:: aquela comida dele é bonita
+nhaã ximbiú puranga
+nhaã ximbiú puranga
+
+
+SENT-97:: aquela comida é muito cara
+nhaã timbiú sepiasu retana
+
+
+SENT-98:: aquela minha canoa está no rio
+nhaã se igara uiku paranã upé
+nhaã se igara uiku paranã upé
+
+
+SENT-99:: aquele anzol do Pedro está na canoa
+nhaã Pedro pindá uiku igara upé
+nhaã Pedro pindá uiku igara upé
+
+
+SENT-100:: aquele anzol do menino é na canoa
+nhaã kurumĩ pindá igara upé
+nhaã kurumĩ pindá igara upé
+
+
+SENT-101:: aquele menino é na canoa do anzol
+nhaã kurumĩ pindá igara upé
+nhaã kurumĩ pindá igara upé
+
+
+SENT-102:: aqueles filhos da mulher estão com eles
+nhaã-itá simiriku raíra uiku aintá irũmu
+nhaã-itá simiriku mimbira uiku aintá irũmu
+nhaã-itá kunhã raíra uiku aintá irũmu
+nhaã-itá kunhã mimbira uiku aintá irũmu
+
+
+SENT-103:: as formigas estão nela
+tukandira-itá uiku i upé
+tukandira-itá uiku i upé
+
+
+SENT-104:: as formigas estão nele
+tukandira-itá uiku i upé
+tukandira-itá uiku i upé
+tukandira-itá uiku i upé
+tukandira-itá uiku i upé
+
+
+SENT-105:: as mulheres estão bonitas
+kunhã-itá puranga uiku
+
+
+SENT-106:: ela está feliz
+aé suri uiku
+
+
+SENT-107:: ela está pesada
+aé i pusé uiku
+
+
+SENT-108:: ela é bonita
+aé puranga
+
+
+SENT-109:: ela é feliz
+aé suri
+
+
+SENT-110:: ela é muito feliz
+aé suri retana
+
+
+SENT-111:: ela é pesada
+aé i pusé
+
+
+SENT-112:: ela é quente
+aé saku
+
+
+SENT-113:: ele está feliz
+aé suri uiku
+aé suri uiku
+
+
+SENT-114:: ele está pesado
+aé i pusé uiku
+aé i pusé uiku
+
+
+SENT-115:: ele é bonito
+aé puranga
+aé puranga
+
+
+SENT-116:: ele é feliz
+aé suri
+aé suri
+
+
+SENT-117:: ele é muito feliz
+aé suri retana
+aé suri retana
+
+
+SENT-118:: ele é pesado
+aé i pusé
+aé i pusé
+
+
+SENT-119:: ele é quente
+aé saku
+aé saku
+
+
+SENT-120:: eles são felizes
+aintá aintá ruri
+
+
+SENT-121:: esta faca da esposa dela não está na casa
+kuá simiriku kisé ti uiku uka upé
+kuá simiriku kisé ti uiku uka upé
+
+
+SENT-122:: esta faca da esposa dele não está na casa
+kuá simiriku kisé ti uiku uka upé
+kuá simiriku kisé ti uiku uka upé
+kuá simiriku kisé ti uiku uka upé
+kuá simiriku kisé ti uiku uka upé
+
+
+SENT-123:: esta fotografia da criança é bonita
+kuá taína rangaua puranga
+
+
+SENT-124:: esta fotografia dela dos ovos dela está bonita
+kuá supiá-itá sangaua puranga uiku
+
+
+SENT-125:: esta fotografia dela dos ovos dela é bonita
+kuá supiá-itá sangaua puranga
+
+
+SENT-126:: esta fotografia dela dos ovos dele está bonita
+kuá supiá-itá sangaua puranga uiku
+kuá supiá-itá sangaua puranga uiku
+
+
+SENT-127:: esta fotografia dela dos ovos dele é bonita
+kuá supiá-itá sangaua puranga
+kuá supiá-itá sangaua puranga
+
+
+SENT-128:: esta fotografia dela dos ovos está bonita
+kuá supiá-itá sangaua puranga uiku
+
+
+SENT-129:: esta fotografia dela dos ovos é bonita
+kuá supiá-itá sangaua puranga
+
+
+SENT-130:: esta fotografia dele dos ovos dela está bonita
+kuá supiá-itá sangaua puranga uiku
+kuá supiá-itá sangaua puranga uiku
+
+
+SENT-131:: esta fotografia dele dos ovos dela é bonita
+kuá supiá-itá sangaua puranga
+kuá supiá-itá sangaua puranga
+
+
+SENT-132:: esta fotografia dele dos ovos dele está bonita
+kuá supiá-itá sangaua puranga uiku
+kuá supiá-itá sangaua puranga uiku
+kuá supiá-itá sangaua puranga uiku
+kuá supiá-itá sangaua puranga uiku
+
+
+SENT-133:: esta fotografia dele dos ovos dele é bonita
+kuá supiá-itá sangaua puranga
+kuá supiá-itá sangaua puranga
+kuá supiá-itá sangaua puranga
+kuá supiá-itá sangaua puranga
+
+
+SENT-134:: esta fotografia dele dos ovos está bonita
+kuá supiá-itá sangaua puranga uiku
+kuá supiá-itá sangaua puranga uiku
+
+
+SENT-135:: esta fotografia dele dos ovos é bonita
+kuá supiá-itá sangaua puranga
+kuá supiá-itá sangaua puranga
+
+
+SENT-136:: esta fotografia dos ovos dela está bonita
+kuá supiá-itá rangaua puranga uiku
+
+
+SENT-137:: esta fotografia dos ovos dela é bonita
+kuá supiá-itá rangaua puranga
+
+
+SENT-138:: esta fotografia dos ovos dele está bonita
+kuá supiá-itá rangaua puranga uiku
+kuá supiá-itá rangaua puranga uiku
+
+
+SENT-139:: esta fotografia dos ovos dele é bonita
+kuá supiá-itá rangaua puranga
+kuá supiá-itá rangaua puranga
+
+
+SENT-140:: esta fotografia dos ovos está bonita
+kuá supiá-itá rangaua puranga uiku
+
+
+SENT-141:: esta fotografia dos ovos é bonita
+kuá supiá-itá rangaua puranga
+
+
+SENT-142:: esta pedra está muito pesada
+kuá itá i pusé retana uiku
+
+
+SENT-143:: esta pedra está pesada
+kuá itá i pusé uiku
+
+
+SENT-144:: esta pedra é muito pesada
+kuá itá i pusé retana
+
+
+SENT-145:: esta pedra é pesada
+kuá itá i pusé
+
+
+SENT-146:: estas pedras estão pesadas
+kuá-itá itá aintá pusé uiku
+
+
+SENT-147:: estas pedras são pesadas
+kuá-itá itá aintá pusé
+
+
+SENT-148:: este leite está quente
+kuá kambi saku uiku
+
+
+SENT-149:: estes ovos da fotografia dela estão bonitos
+kuá-itá sangaua rupiá puranga uiku
+
+
+SENT-150:: estes ovos da fotografia dela são bonitos
+kuá-itá sangaua rupiá puranga
+
+
+SENT-151:: estes ovos da fotografia dele estão bonitos
+kuá-itá sangaua rupiá puranga uiku
+kuá-itá sangaua rupiá puranga uiku
+
+
+SENT-152:: estes ovos da fotografia dele são bonitos
+kuá-itá sangaua rupiá puranga
+kuá-itá sangaua rupiá puranga
+
+
+SENT-153:: estes ovos da fotografia estão bonitos
+kuá-itá sangaua rupiá puranga uiku
+
+
+SENT-154:: estes ovos da fotografia são bonitos
+kuá-itá sangaua rupiá puranga
+
+
+SENT-155:: estes peixes vermelhos estão baratos
+kuá-itá piranga pirá sepiasuíma uiku
+
+
+SENT-156:: estes vermelhos peixes estão baratos
+kuá-itá piranga pirá sepiasuíma uiku
+
+
+SENT-157:: eu estou aqui
+ixé aiku iké
+
+
+SENT-158:: eu estou com ela
+ixé aiku i irũmu
+
+
+SENT-159:: eu estou com ele
+ixé aiku i irũmu
+ixé aiku i irũmu
+
+
+SENT-160:: eu estou feliz
+ixé se ruri aiku
+
+
+SENT-161:: eu estou perto da casa dela
+ixé aiku suka ruaki
+
+
+SENT-162:: eu estou perto da casa dele
+ixé aiku suka ruaki
+ixé aiku suka ruaki
+
+
+SENT-163:: eu estou perto dela
+ixé aiku suaki
+
+
+SENT-164:: eu estou perto dele
+ixé aiku suaki
+ixé aiku suaki
+
+
+SENT-165:: eu estou pesado
+ixé se pusé aiku
+
+
+SENT-166:: eu não estou feliz
+ixé ti se ruri aiku
+
+
+SENT-167:: eu não estou muito feliz
+ixé ti se ruri retana aiku
+
+
+SENT-168:: eu não estou perto dela
+ixé ti aiku suaki
+
+
+SENT-169:: eu não estou perto dele
+ixé ti aiku suaki
+ixé ti aiku suaki
+
+
+SENT-170:: eu não sou feliz
+ixé ti se ruri
+
+
+SENT-171:: eu não sou muito feliz
+ixé ti se ruri retana
+
+
+SENT-172:: eu sou feliz
+ixé se ruri
+
+
+SENT-173:: eu sou pesado
+ixé se pusé
+
+
+SENT-174:: estou aqui
+ixé aiku iké
+
+
+SENT-175:: estou com ela
+ixé aiku i irũmu
+
+
+SENT-176:: estou com ele
+ixé aiku i irũmu
+ixé aiku i irũmu
+
+
+SENT-177:: estou feliz
+ixé se ruri aiku
+
+
+SENT-178:: estou perto da casa dela
+ixé aiku suka ruaki
+
+
+SENT-179:: estou perto da casa dele
+ixé aiku suka ruaki
+ixé aiku suka ruaki
+
+
+SENT-180:: estou perto dela
+ixé aiku suaki
+
+
+SENT-181:: estou perto dele
+ixé aiku suaki
+ixé aiku suaki
+
+
+SENT-182:: estou pesado
+ixé se pusé aiku
+
+
+SENT-183:: não estou feliz
+ixé ti se ruri aiku
+
+
+SENT-184:: não estou muito feliz
+ixé ti se ruri retana aiku
+
+
+SENT-185:: não estou perto dela
+ixé ti aiku suaki
+
+
+SENT-186:: não estou perto dele
+ixé ti aiku suaki
+ixé ti aiku suaki
+
+
+SENT-187:: não sou feliz
+ixé ti se ruri
+
+
+SENT-188:: não sou muito feliz
+ixé ti se ruri retana
+
+
+SENT-189:: sou feliz
+ixé se ruri
+
+
+SENT-190:: sou pesado
+ixé se pusé
+
+
+SENT-191:: nós estamos perto de vocês
+iandé iaiku pe ruaki
+
+
+SENT-192:: nós não estamos na comunidade
+iandé ti iaiku tendaua upé
+iandé ti iaiku tendaua upé
+
+
+SENT-193:: estamos perto de vocês
+iandé iaiku pe ruaki
+
+
+SENT-194:: não estamos na comunidade
+iandé ti iaiku tendaua upé
+iandé ti iaiku tendaua upé
+
+
+SENT-195:: o avô da Maria está no rio
+Maria ramunha uiku paranã upé
+Maria ramunha uiku paranã upé
+
+
+SENT-196:: o beiju está quente
+meiú saku uiku
+
+
+SENT-197:: o galho da árvore é vermelho
+mirá rakanga piranga
+
+
+SENT-198:: o rio da canoa é perto dela
+igara paranã suaki
+
+
+SENT-199:: o rio da canoa é perto dele
+igara paranã suaki
+igara paranã suaki
+
+
+SENT-200:: os beijus estão quentes
+meiú-itá aintá raku uiku
+
+
+SENT-201:: os filhos da Maria são bonitos
+Maria raíra-itá puranga
+Maria mimbira-itá puranga
+
+
+SENT-202:: os filhos da mulher estão comigo
+simiriku raíra-itá uiku se irũmu
+simiriku mimbira-itá uiku se irũmu
+kunhã raíra-itá uiku se irũmu
+kunhã mimbira-itá uiku se irũmu
+
+
+SENT-203:: você está feliz
+indé ne ruri reiku
+
+
+SENT-204:: você não está feliz
+indé ti ne ruri reiku
+
+
+SENT-205:: você é feliz
+indé ne ruri
+
+
+SENT-206:: vocês estão felizes
+penhẽ pe ruri peiku
+
+
+SENT-207:: está feliz
+aé suri uiku
+aé suri uiku
+aé suri uiku
+indé ne ruri reiku
+
+
+SENT-208:: não está feliz
+aé ti suri uiku
+aé ti suri uiku
+aé ti suri uiku
+indé ti ne ruri reiku
+
+
+SENT-209:: é feliz
+aé suri
+aé suri
+aé suri
+indé ne ruri
+
+
+SENT-210:: estão felizes
+aintá aintá ruri uiku
+penhẽ pe ruri peiku
+
+
+SENT-211:: estás feliz
+indé ne ruri reiku
+
+
+SENT-212:: não estás feliz
+indé ti ne ruri reiku
+
+
+SENT-213:: és feliz
+indé ne ruri
+
+
+SENT-214:: tu estás feliz
+indé ne ruri reiku
+
+
+SENT-215:: tu não estás feliz
+indé ti ne ruri reiku
+
+
+SENT-216:: tu és feliz
+indé ne ruri
+
+
+SENT-217:: a casa dela é perto do rio da cidade
+suka taua paranã ruaki
+
+
+SENT-218:: a casa dele é perto do rio da cidade
+suka taua paranã ruaki
+suka taua paranã ruaki
+
+
+SENT-219:: a cidade da casa dela é perto do rio
+suka taua paranã ruaki
+
+
+SENT-220:: a cidade da casa dele é perto do rio
+suka taua paranã ruaki
+suka taua paranã ruaki
+
+
