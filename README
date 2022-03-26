@@ -1,7 +1,7 @@
 (c) 2020 Leonel Figueiredo de Alencar
 leonel.de.alencar@ufc.br
 
-This repository contains tools and resources for the computational processing of the Nheengatu language. Its main component is GrammYEP , a multilingual computational grammar comprising equivalent Nheengatu, English and Portuguese modules.
+This repository contains tools and resources for the computational processing of the Nheengatu language. Its main component is GrammYEP, a multilingual computational grammar comprising equivalent Nheengatu, English and Portuguese modules. It also comprises different test sets and a multilingual treebank with semantic representations.
 
 For more details, see
 
