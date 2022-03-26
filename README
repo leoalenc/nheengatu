@@ -1,4 +1,14 @@
 (c) 2020 Leonel Figueiredo de Alencar
 leonel.de.alencar@ufc.br
 
-Tools and resources for the computational processing of the Nheengatu language.
+This repository contains tools and resources for the computational processing of the Nheengatu language. Its main component is GrammYEP , a multilingual computational grammar comprising equivalent Nheengatu, English and Portuguese modules.
+
+For more details, see
+
+ALENCAR, Leonel Figueiredo de. Uma gramática computacional de um fragmento do nheengatu. Revista de Estudos da Linguagem, Belo Horizonte, v. 29, p. 1717-1777, 2021. ISSN 2237-2083. 
+Available at http://www.periodicos.letras.ufmg.br/index.php/relin/article/view/17313 
+DOI http://dx.doi.org/10.17851/2237-2083.29.3.1717-1777
+
+If you use this repository in your research, please cite this paper.
+
+
