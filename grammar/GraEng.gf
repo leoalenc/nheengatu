@@ -13,7 +13,7 @@ concrete GraEng of Lex = open Oper, OperEng, Prelude in {
     Property = EXPR ;
     Location = EXPR ;
     State = STATE ;
-    Item = ITEM_ENG ; 
+    Item = ITEM_ENG ;
     Psor = DEF_ITEM ;
     Deitic = VAR ;
     NonDeitic = NONVAR ;
@@ -21,7 +21,7 @@ concrete GraEng of Lex = open Oper, OperEng, Prelude in {
     Num = DEF ;
 
   lin
-    Pred pol item st = 
+    Pred pol item st =
      {s= item.s ! Nom ++ EngCopula ! item.n ! item.p ! pol.pol ++ pol.s ++ st.s} ;
     StageLevelState quality = {s= quality.s ; l= Stage} ;
     IndLevelState quality = {s= quality.s; l= Ind} ;
@@ -38,15 +38,15 @@ concrete GraEng of Lex = open Oper, OperEng, Prelude in {
     Here = {s= "here"};
     There = {s= "there"};
 
-    Poss psor psum = let f : Str = psor.s in 
-    	      {s = \\cs => psum.s ++ "of" ++ f ; 
-	      n = psum.n; 
+    Poss psor psum = let f : Str = psor.s in
+    	      {s = \\cs => psum.s ++ "of" ++ f ;
+	      n = psum.n;
 	      p= P3} ;
 
 -- TODO: 18/01/20 substitute ProperN for Definite and CommonN for NonDefinte
     Poss_ psor psum = let singForm: Str = psum.s ! Sg ; plForm: Str = psum.s ! Pl in {s= table {Sg => psor.s ++ singForm ; Pl => psor.s ++ plForm} ; pos = ProperN} ;
 
-  
+
     mkPsor df sk= det df sk ;
     mkPsor_ df pk= det df pk ;
     SG = det Sg;
@@ -75,12 +75,12 @@ concrete GraEng of Lex = open Oper, OperEng, Prelude in {
     Her = ss "her";
     Its = ss "its";
     Their = ss "their";
-    Mod quality kind = 
+    Mod quality kind =
       {s = \\n => quality.s ++ kind.s ! n ; pos = kind.pos} ;
 
      Very a = {s = "very" ++ a.s} ;
 
-    
+
 Alive = adj "alive";
 Ant = regNounEng "ant" CommonN;
 Antonio = properNameEng "Antônio";
@@ -92,6 +92,7 @@ Boy = regNounEng "boy" CommonN;
 Branch = regNounEng "branch" CommonN;
 Brother_Of_Woman = regNounEng "brother" CommonN;
 Canoe = regNounEng "canoe" CommonN;
+Cow = regNounEng "cow" CommonN;
 Cheap = adj "cheap";
 Child = nounEng "child" "children" CommonN;
 City = regNounEng "city" CommonN;

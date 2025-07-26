@@ -14,7 +14,7 @@ concrete GraPor of Lex = open Oper, OperPor in {
     Property = QUAL_POR ;
     Location = EXPR ;
     State = STATE_POR ;
-    Item = ITEM_POR ; 
+    Item = ITEM_POR ;
     Psor = DEF_ITEM_POR ;
     Deitic = ITEM_POR ;
     NonDeitic = ITEM_POR ;
@@ -22,7 +22,7 @@ concrete GraPor of Lex = open Oper, OperPor in {
     Num = DEF_POR ;
 
   lin
-    Pred pol item st = 
+    Pred pol item st =
      -- {s= item.s ++ copula  item.n ++ quality.s} ;
      {s= item.s ! Nom ++ pol.s ++ PorCopula st.l item.n  item.p ++ st.s ! item.n ! item.g} ;
     StageLevelState quality = {s=\\n,g => quality.s ! n ! g ; l= Stage} ;
@@ -52,7 +52,7 @@ concrete GraPor of Lex = open Oper, OperPor in {
     mkPsor_ df pk = detPor df pk;
     SG = detPor Sg;
     PL = detPor Pl;
-    TheSG = detPor Sg "o" "a" ; 
+    TheSG = detPor Sg "o" "a" ;
     ThePL = detPor Pl "os" "as" ;
     This  = detPor Sg ("este"|"esse") ("esta"|"essa") ;
     That  = detPor Sg "aquele" "aquela" ;
@@ -76,18 +76,18 @@ concrete GraPor of Lex = open Oper, OperPor in {
     Their = mkPossPron ("deles"|"delas");
 
 {-
-    Mod quality kind = let gend : Gender = kind.g ; 
-    		       	   adj : Number => Gender => Str = quality.s  ; 
-			   noun : Number => Str = kind.s in 
+    Mod quality kind = let gend : Gender = kind.g ;
+    		       	   adj : Number => Gender => Str = quality.s  ;
+			   noun : Number => Str = kind.s in
       {s = \\num => shuffle (adj ! num ! gend)  (noun ! num)  ; g = gend } ;
 -}
 
-    Mod qual kind = let g : Gender = kind.g in 
+    Mod qual kind = let g : Gender = kind.g in
     	{s = \\n => shuffle (qual.s ! n ! g)  (kind.s ! n)  ; g = g } ;
 
 	Very a = {s = \\n,g => "muito" ++ a.s ! n ! g } ;
 
-     
+
 Alive = adjO "duro";
 Ant = regNounPor "formiga" Fem;
 Antonio = regNounPor "Antônio" Masc;
@@ -99,6 +99,7 @@ Boy = regNounPor "menino" Masc;
 Branch = regNounPor ("galho"|"ramo") Masc;
 Brother_Of_Woman = regNounPor "irmão" Masc;
 Canoe = regNounPor "canoa" Fem;
+Cow = regNounPor "vaca" Fem;
 Cheap = adjO "barato";
 Child = regNounPor "criança" Fem;
 City = regNounPor "cidade" Fem;

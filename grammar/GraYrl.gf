@@ -14,7 +14,7 @@ concrete GraYrl of Lex = open Oper, OperYrl in {
     Property = PROPERTY ;
     Location = LOCATION ;
     State = STATE_YRL ;
-    Item = ITEM_YRL ; 
+    Item = ITEM_YRL ;
     Psor = DEF_ITEM_YRL ;
     Deitic = ITEM_YRL ;
     NonDeitic = NONVAR_YRL ;
@@ -68,9 +68,9 @@ concrete GraYrl of Lex = open Oper, OperYrl in {
     Its = mkPossPron Sg P3;
     Their = mkPossPron Pl P3;
 
-    Mod quality kind = let adjForm: Str = quality.s ! Sg ! P3 in 
+    Mod quality kind = let adjForm: Str = quality.s ! Sg ! P3 in
       {s = \\n,nf => adjForm ++ kind.s ! n ! nf | kind.s ! n ! nf ++ adjForm } ;
-  
+
 	Poss psor psum = let psorForm : Str = psor.s in {s = \\c,l,cs,nc => (psum.s).dem ++  psorForm ++ (psum.s).head ! NRel psor.pf ; n = psum.n; p = P3 ; pos = Noun  } ;
     	Poss_ psor psum = let singForm: Str = psum.s ! Sg ! NRel psor.pf; plForm: Str = psum.s ! Pl ! NRel psor.pf; psorForm: Str = psor.s ! psum.nc in {s = table {Sg => psorForm ++ singForm; Pl => psorForm ++ plForm} ; pf = NSG3  } ;
 
@@ -78,7 +78,7 @@ concrete GraYrl of Lex = open Oper, OperYrl in {
 -- TODO: adapt the following to new type system
     Very adj = {s = \\num,pers => adj.s ! num ! pers ++ "retana"; c=adj.c ; v = adj.v ; nc = adj.nc} ;
 
-      
+
 Alive = adjYrl "rikué" NCS;
 Ant = regNounYrl "tukandira";
 Antonio = properNameYrl "Antônio";
@@ -98,6 +98,7 @@ Delicious = adjYrl "sé" C1;
 Dirty = adjYrl "kiá" C2;
 Door = RelPrefNoun "ukena";
 Dove = regNounYrl "pikasu";
+Cow = regNounYrl "tapiira-kunhã";
 Egg = RelPrefNoun "supiá";
 Expensive = adjYrl "sepiasu" C1;
 Fish = regNounYrl "pirá";
@@ -118,7 +119,7 @@ Language = regNounYrl "nheenga";
 Life = RelPrefNoun "sikué";
 Man = regNounYrl "apigaua";
 Maria = properNameYrl "Maria";
-Milk = regNounYrl "kambi";
+Milk = regNounYrl ("kambi"|"kambi-yukisé");
 Nest = RelPrefNoun "taiti";
 New = adjYrl "pisasu" C1;
 Path = RelPrefNoun "pé";

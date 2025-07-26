@@ -5,7 +5,7 @@
 -- https://www.gnu.org/licenses/old-licenses/lgpl-2.1.en.html
 
 
-resource Oper = open Prelude in { 
+resource Oper = open Prelude in {
 flags coding=utf8 ;
 param
 	Person = P1 | P2 | P3 ;
@@ -17,25 +17,25 @@ param
 	EXPR : Type = {s : Str} ;
 	ITEM : Type = {s : Str ; n : Number; p: Person} ;
 	KIND : Type = {s : Number => Str} ;
-	
+
     shuffle : Str -> Str -> Str = \a,b -> a ++ b | b ++ a ;
 
-    noun : Str -> Str -> KIND = 
+    noun : Str -> Str -> KIND =
       \man,men -> {s = table {Sg => man ; Pl => men}} ;
-    
-    
+
+
 --TODO: mkRegVerb returns record, mkIrrVerb returns table; uniformize this
 mkIrrVerb : (_,_,_,_,_,_ : Str) -> Number => Person => Str =
-        \sum,es,est,sumus,estis,sunt -> 
+        \sum,es,est,sumus,estis,sunt ->
           table {
 	  	Sg => table {
-		   P1 => sum; 
-		   P2 => es; 
+		   P1 => sum;
+		   P2 => es;
 		   P3 => est
-		   } ; 
+		   } ;
 	  	 Pl => table {
-		    P1 => sumus; 
-		    P2 => estis; 
+		    P1 => sumus;
+		    P2 => estis;
 		    P3 => sunt
 		    }
 		    } ;
