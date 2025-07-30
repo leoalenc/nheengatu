@@ -1,0 +1,195 @@
+The sentence is not complete
+The parser failed at token 2: "a\233"
+The parser failed at token 2: "timbi\250"
+The sentence is not complete
+The parser failed at token 4: "suaki"
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Woman))) (IndLevelState (mkPropLoc (In (Poss (mkPsor_ SG (Poss_ Her Canoe)) (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Woman))) (IndLevelState (mkPropLoc (In (Poss (mkPsor_ SG (Poss_ His Canoe)) (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Woman))) (IndLevelState (mkPropLoc (In (Poss (mkPsor_ SG (Poss_ Its Canoe)) (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Woman))) (IndLevelState (mkPropLoc (On (Poss (mkPsor_ SG (Poss_ Her Canoe)) (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Woman))) (IndLevelState (mkPropLoc (On (Poss (mkPsor_ SG (Poss_ His Canoe)) (TheSG (mkKind River))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Woman))) (IndLevelState (mkPropLoc (On (Poss (mkPsor_ SG (Poss_ Its Canoe)) (TheSG (mkKind River))))))
+Pred Yes (Poss (mkPsor SG Woman) (TheSG (mkKind_ (Poss_ Her Canoe)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (Poss (mkPsor SG Woman) (TheSG (mkKind_ (Poss_ Her Canoe)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (Poss (mkPsor SG Woman) (TheSG (mkKind_ (Poss_ His Canoe)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (Poss (mkPsor SG Woman) (TheSG (mkKind_ (Poss_ His Canoe)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (Poss (mkPsor SG Woman) (TheSG (mkKind_ (Poss_ Its Canoe)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (Poss (mkPsor SG Woman) (TheSG (mkKind_ (Poss_ Its Canoe)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind River))))))
+
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Woman))) (IndLevelState (mkPropLoc (In (Poss (mkPsor_ SG (Poss_ Her House)) (TheSG (mkKind City))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Woman))) (IndLevelState (mkPropLoc (In (Poss (mkPsor_ SG (Poss_ His House)) (TheSG (mkKind City))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Woman))) (IndLevelState (mkPropLoc (In (Poss (mkPsor_ SG (Poss_ Its House)) (TheSG (mkKind City))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Woman))) (IndLevelState (mkPropLoc (On (Poss (mkPsor_ SG (Poss_ Her House)) (TheSG (mkKind City))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Woman))) (IndLevelState (mkPropLoc (On (Poss (mkPsor_ SG (Poss_ His House)) (TheSG (mkKind City))))))
+Pred Yes (mkItemNonDeitic (TheSG (mkKind Woman))) (IndLevelState (mkPropLoc (On (Poss (mkPsor_ SG (Poss_ Its House)) (TheSG (mkKind City))))))
+Pred Yes (Poss (mkPsor SG Woman) (TheSG (mkKind_ (Poss_ Her House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind City))))))
+Pred Yes (Poss (mkPsor SG Woman) (TheSG (mkKind_ (Poss_ Her House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind City))))))
+Pred Yes (Poss (mkPsor SG Woman) (TheSG (mkKind_ (Poss_ His House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind City))))))
+Pred Yes (Poss (mkPsor SG Woman) (TheSG (mkKind_ (Poss_ His House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind City))))))
+Pred Yes (Poss (mkPsor SG Woman) (TheSG (mkKind_ (Poss_ Its House)))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind City))))))
+Pred Yes (Poss (mkPsor SG Woman) (TheSG (mkKind_ (Poss_ Its House)))) (IndLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind City))))))
+
+The sentence is not complete
+The sentence is not complete
+The sentence is not complete
+The parser failed at token 3: "uiku"
+The parser failed at token 2: "up\233"
+The parser failed at token 3: "a\233"
+The parser failed at token 4: "iaiku"
+The sentence is not complete
+The parser failed at token 2: "simbi\250"
+The parser failed at token 2: "simbi\250"
+The sentence is not complete
+The parser failed at token 2: "ruaki"
+The sentence is not complete
+The parser failed at token 3: "suri"
+The parser failed at token 3: "ruri"
+The sentence is not complete
+The parser failed at token 2: "ruri"
+The parser failed at token 2: "ruri"
+The parser failed at token 2: "ruri"
+The parser failed at token 3: "aiku"
+The parser failed at token 3: "reiku"
+The parser failed at token 4: "ruri"
+The parser failed at token 4: "suri"
+The parser failed at token 4: "aiku"
+The parser failed at token 3: "reiku"
+The parser failed at token 2: "rimbi\250"
+The parser failed at token 2: "rimbi\250"
+The parser failed at token 2: "ruka"
+The parser failed at token 2: "timbi\250"
+The parser failed at token 2: "timbi\250"
+The parser failed at token 2: "uka"
+The parser failed at token 3: "suaki"
+The parser failed at token 2: "aiku"
+The parser failed at token 2: "up\233"
+The parser failed at token 1: "ik\233"
+The parser failed at token 3: "ruri"
+The parser failed at token 3: "suri"
+The parser failed at token 3: "suri"
+The parser failed at token 3: "ruri"
+The parser failed at token 3: "a\233"
+The parser failed at token 3: "a\233"
+The parser failed at token 3: "ruaki"
+The parser failed at token 3: "ruka"
+The parser failed at token 3: "ruka"
+The parser failed at token 4: "suaki"
+The parser failed at token 2: "a\233"
+The parser failed at token 2: "a\233"
+The parser failed at token 3: "ruri"
+The parser failed at token 3: "ruri"
+The parser failed at token 3: "ruri"
+The parser failed at token 3: "ruri"
+The parser failed at token 4: "suri"
+The parser failed at token 4: "suri"
+The parser failed at token 4: "suri"
+The parser failed at token 4: "suri"
+The parser failed at token 2: "ruka"
+The parser failed at token 2: "ruka"
+The parser failed at token 3: "niti"
+The parser failed at token 3: "niti"
+The parser failed at token 3: "niti"
+The parser failed at token 3: "niti"
+The parser failed at token 3: "suri"
+The parser failed at token 3: "suri"
+The parser failed at token 3: "suaki"
+The parser failed at token 3: "suaki"
+The parser failed at token 3: "suaki"
+The parser failed at token 4: "ruaki"
+The parser failed at token 5: "uiku"
+The parser failed at token 4: "suri"
+The parser failed at token 4: "suri"
+The parser failed at token 4: "aiku"
+The parser failed at token 4: "uiku"
+The parser failed at token 3: "ruri"
+The parser failed at token 3: "ruri"
+The parser failed at token 5: "uiku"
+The parser failed at token 4: "a\233"
+The parser failed at token 2: "ruri"
+The parser failed at token 2: "ruri"
+The parser failed at token 3: "peiku"
+The parser failed at token 4: "pus\233"
+The parser failed at token 4: "pus\233"
+The parser failed at token 5: "aiku"
+The sentence is not complete
+The parser failed at token 4: "aiku"
+The sentence is not complete
+The parser failed at token 4: "pus\233"
+The parser failed at token 5: "pus\233"
+The parser failed at token 5: "pus\233"
+The sentence is not complete
+The parser failed at token 4: "pus\233"
+The parser failed at token 4: "pus\233"
+The parser failed at token 4: "pus\233"
+The parser failed at token 4: "pus\233"
+The parser failed at token 4: "pus\233"
+The parser failed at token 4: "pus\233"
+The sentence is not complete
+The sentence is not complete
+The parser failed at token 2: "rangaua"
+The parser failed at token 2: "rangaua"
+The parser failed at token 2: "rangaua"
+The parser failed at token 2: "rangaua"
+The parser failed at token 3: "peiku"
+The parser failed at token 2: "suri"
+The parser failed at token 2: "suri"
+The parser failed at token 5: "a\233"
+The parser failed at token 4: "aiku"
+The parser failed at token 6: "uiku"
+The parser failed at token 7: "uiku"
+The parser failed at token 3: "suri"
+The parser failed at token 3: "reiku"
+The parser failed at token 1: "rangaua"
+The parser failed at token 1: "rangaua"
+The parser failed at token 1: "rimbi\250"
+The parser failed at token 1: "rimbi\250"
+The parser failed at token 1: "ruka"
+The parser failed at token 1: "ruka"
+The parser failed at token 1: "ruka"
+The parser failed at token 1: "ruri"
+The parser failed at token 1: "ruri"
+The parser failed at token 1: "ruri"
+The parser failed at token 4: "ruaki"
+The parser failed at token 4: "suaki"
+The parser failed at token 6: "suaki"
+The parser failed at token 5: "rap\233"
+The parser failed at token 6: "suaki"
+The parser failed at token 4: "suaki"
+The parser failed at token 5: "ki\225"
+The parser failed at token 5: "rap\233"
+The parser failed at token 5: "suaki"
+The parser failed at token 3: "ruaki"
+The parser failed at token 4: "ruaki"
+The parser failed at token 3: "s"
+The parser failed at token 5: "suaki"
+The parser failed at token 5: "suaki"
+The parser failed at token 4: "ruaki"
+The parser failed at token 3: "uiku"
+The parser failed at token 2: "simbi\250"
+The parser failed at token 2: "suka"
+The parser failed at token 2: "suka"
+The parser failed at token 2: "suka"
+The parser failed at token 2: "suka"
+The parser failed at token 2: "suka"
+The parser failed at token 2: "suka"
+The parser failed at token 2: "suka"
+The parser failed at token 2: "suka"
+The parser failed at token 2: "suka"
+The parser failed at token 2: "suka"
+The parser failed at token 2: "suka"
+The parser failed at token 2: "suka"
+The parser failed at token 2: "suka"
+The parser failed at token 2: "suri"
+The parser failed at token 2: "suri"
+The parser failed at token 2: "timbi\250"
+The parser failed at token 2: "uka"
+The parser failed at token 2: "uka"
+The parser failed at token 2: "uka"
+The parser failed at token 2: "uka"
+The parser failed at token 2: "uka"
+The parser failed at token 2: "ximbi\250"
+The parser failed at token 2: "ruaki"
+The parser failed at token 3: "ruaki"
+The parser failed at token 3: "ruaki"
+The parser failed at token 2: "ruri"
+The parser failed at token 3: "suri"
