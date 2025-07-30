@@ -948,22 +948,22 @@ penhẽ pe ruri peiku
 SENT-207:: está feliz
 aé suri uiku
 aé suri uiku
-aé suri uiku
 indé ne ruri reiku
+aé suri uiku
 
 
 SENT-208:: não está feliz
 aé ti suri uiku
 aé ti suri uiku
-aé ti suri uiku
 indé ti ne ruri reiku
+aé ti suri uiku
 
 
 SENT-209:: é feliz
 aé suri
 aé suri
-aé suri
 indé ne ruri
+aé suri
 
 
 SENT-210:: estão felizes
