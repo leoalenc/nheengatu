@@ -143,8 +143,8 @@ that hook of Pedro is in the canoe
 
 
 SENT-31:: nhaã kurumĩ pindá igara pupé
-that hook of the boy is in the canoe
 that boy is in the canoe of the hook
+that hook of the boy is in the canoe
 
 
 SENT-32:: nhaã timbiú sepiasu retana
@@ -697,12 +697,12 @@ its house is near her
 
 
 SENT-132:: suka taua paranã ruaki
-the city of her house is near the river
-the city of his house is near the river
-the city of its house is near the river
 her house is near the river of the city
 his house is near the river of the city
 its house is near the river of the city
+the city of her house is near the river
+the city of his house is near the river
+the city of its house is near the river
 
 
 SENT-133:: suka uiku suaki

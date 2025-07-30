@@ -82,8 +82,8 @@ Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ YourSG Food)))) (IndLevelState 
 
 Pred Yes (Poss (mkPsor SG Pedro) (That (mkKind Hook))) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind Canoe))))))
 
-Pred Yes (Poss (mkPsor SG Boy) (That (mkKind Hook))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind Canoe))))))
 Pred Yes (mkItemNonDeitic (That (mkKind Boy))) (IndLevelState (mkPropLoc (In (Poss (mkPsor SG Hook) (TheSG (mkKind Canoe))))))
+Pred Yes (Poss (mkPsor SG Boy) (That (mkKind Hook))) (IndLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind Canoe))))))
 
 Pred Yes (mkItemNonDeitic (That (mkKind Food))) (IndLevelState (mkPropQual (Very Expensive)))
 
@@ -434,12 +434,12 @@ Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))) (IndLevelState (m
 Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic It))))
 Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))) (IndLevelState (mkPropLoc (Near (mkItemDeitic She))))
 
-Pred Yes (Poss (mkPsor_ SG (Poss_ Her House)) (TheSG (mkKind City))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
-Pred Yes (Poss (mkPsor_ SG (Poss_ His House)) (TheSG (mkKind City))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
-Pred Yes (Poss (mkPsor_ SG (Poss_ Its House)) (TheSG (mkKind City))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
 Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))) (IndLevelState (mkPropLoc (Near (Poss (mkPsor SG City) (TheSG (mkKind River))))))
 Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His House)))) (IndLevelState (mkPropLoc (Near (Poss (mkPsor SG City) (TheSG (mkKind River))))))
 Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its House)))) (IndLevelState (mkPropLoc (Near (Poss (mkPsor SG City) (TheSG (mkKind River))))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Her House)) (TheSG (mkKind City))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ His House)) (TheSG (mkKind City))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
+Pred Yes (Poss (mkPsor_ SG (Poss_ Its House)) (TheSG (mkKind City))) (IndLevelState (mkPropLoc (Near (mkItemNonDeitic (TheSG (mkKind River))))))
 
 Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic He))))
 Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her House)))) (StageLevelState (mkPropLoc (Near (mkItemDeitic It))))

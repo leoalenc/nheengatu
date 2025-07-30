@@ -61,7 +61,7 @@ a pesada canoa está barata
 
 
 SENT-12:: indé ti ne ruri reiku
-você não está feliz
+tu não estás feliz
 
 
 SENT-13:: ixé aiku iké
@@ -103,7 +103,7 @@ estes vermelhos peixes estão baratos
 
 
 SENT-22:: kuá taína rangaua puranga
-esta fotografia da criança é bonita
+este retrato da criança é bonito
 
 
 SENT-23:: nhaã ximiriku kisé ti uiku uka pupé
@@ -143,8 +143,8 @@ aquele anzol do Pedro está na canoa
 
 
 SENT-31:: nhaã kurumĩ pindá igara pupé
-aquele anzol do menino é na canoa
 aquele menino é na canoa do anzol
+aquele anzol do menino é na canoa
 
 
 SENT-32:: nhaã timbiú sepiasu retana
@@ -196,7 +196,7 @@ nós não estamos na comunidade
 
 
 SENT-41:: ti ne ruri reiku
-você não está feliz
+tu não estás feliz
 
 
 SENT-42:: tukandira-itá uiku i upé
@@ -304,11 +304,11 @@ a canoa está lá
 
 
 SENT-62:: indé ne ruri
-você é feliz
+tu és feliz
 
 
 SENT-63:: indé ne ruri reiku
-você está feliz
+tu estás feliz
 
 
 SENT-64:: ixé aiku suaki
@@ -403,47 +403,47 @@ estas pedras estão pesadas
 
 
 SENT-85:: kuá supiá-itá rangaua puranga
-esta fotografia dos ovos é bonita
-esta fotografia dos ovos dela é bonita
-esta fotografia dos ovos dele é bonita
-esta fotografia dos ovos dele é bonita
+este retrato dos ovos é bonito
+este retrato dos ovos dela é bonito
+este retrato dos ovos dele é bonito
+este retrato dos ovos dele é bonito
 
 
 SENT-86:: kuá supiá-itá rangaua puranga uiku
-esta fotografia dos ovos está bonita
-esta fotografia dos ovos dela está bonita
-esta fotografia dos ovos dele está bonita
-esta fotografia dos ovos dele está bonita
+este retrato dos ovos está bonito
+este retrato dos ovos dela está bonito
+este retrato dos ovos dele está bonito
+este retrato dos ovos dele está bonito
 
 
 SENT-87:: kuá supiá-itá sangaua puranga
-esta fotografia dela dos ovos é bonita
-esta fotografia dele dos ovos é bonita
-esta fotografia dele dos ovos é bonita
-esta fotografia dela dos ovos dela é bonita
-esta fotografia dele dos ovos dela é bonita
-esta fotografia dele dos ovos dela é bonita
-esta fotografia dela dos ovos dele é bonita
-esta fotografia dele dos ovos dele é bonita
-esta fotografia dele dos ovos dele é bonita
-esta fotografia dela dos ovos dele é bonita
-esta fotografia dele dos ovos dele é bonita
-esta fotografia dele dos ovos dele é bonita
+este retrato dela dos ovos é bonito
+este retrato dele dos ovos é bonito
+este retrato dele dos ovos é bonito
+este retrato dela dos ovos dela é bonito
+este retrato dele dos ovos dela é bonito
+este retrato dele dos ovos dela é bonito
+este retrato dela dos ovos dele é bonito
+este retrato dele dos ovos dele é bonito
+este retrato dele dos ovos dele é bonito
+este retrato dela dos ovos dele é bonito
+este retrato dele dos ovos dele é bonito
+este retrato dele dos ovos dele é bonito
 
 
 SENT-88:: kuá supiá-itá sangaua puranga uiku
-esta fotografia dela dos ovos está bonita
-esta fotografia dele dos ovos está bonita
-esta fotografia dele dos ovos está bonita
-esta fotografia dela dos ovos dela está bonita
-esta fotografia dele dos ovos dela está bonita
-esta fotografia dele dos ovos dela está bonita
-esta fotografia dela dos ovos dele está bonita
-esta fotografia dele dos ovos dele está bonita
-esta fotografia dele dos ovos dele está bonita
-esta fotografia dela dos ovos dele está bonita
-esta fotografia dele dos ovos dele está bonita
-esta fotografia dele dos ovos dele está bonita
+este retrato dela dos ovos está bonito
+este retrato dele dos ovos está bonito
+este retrato dele dos ovos está bonito
+este retrato dela dos ovos dela está bonito
+este retrato dele dos ovos dela está bonito
+este retrato dele dos ovos dela está bonito
+este retrato dela dos ovos dele está bonito
+este retrato dele dos ovos dele está bonito
+este retrato dele dos ovos dele está bonito
+este retrato dela dos ovos dele está bonito
+este retrato dele dos ovos dele está bonito
+este retrato dele dos ovos dele está bonito
 
 
 SENT-89:: kuá-itá itá aintá pusé
@@ -463,17 +463,17 @@ estas pedras estão pesadas
 
 
 SENT-93:: kuá-itá sangaua rupiá puranga
-estes ovos da fotografia são bonitos
-estes ovos da fotografia dela são bonitos
-estes ovos da fotografia dele são bonitos
-estes ovos da fotografia dele são bonitos
+estes ovos do retrato são bonitos
+estes ovos do retrato dela são bonitos
+estes ovos do retrato dele são bonitos
+estes ovos do retrato dele são bonitos
 
 
 SENT-94:: kuá-itá sangaua rupiá puranga uiku
-estes ovos da fotografia estão bonitos
-estes ovos da fotografia dela estão bonitos
-estes ovos da fotografia dele estão bonitos
-estes ovos da fotografia dele estão bonitos
+estes ovos do retrato estão bonitos
+estes ovos do retrato dela estão bonitos
+estes ovos do retrato dele estão bonitos
+estes ovos do retrato dele estão bonitos
 
 
 SENT-95:: meiú saku uiku
@@ -495,11 +495,11 @@ a palavra do seu irmão é bonita
 
 
 SENT-99:: ne ruri
-você é feliz
+tu és feliz
 
 
 SENT-100:: ne ruri reiku
-você está feliz
+tu estás feliz
 
 
 SENT-101:: nhaã kunhã mimbira-itá uiku aintá irũmu
@@ -521,17 +521,17 @@ vocês estão felizes
 
 
 SENT-105:: sangaua puranga
-a fotografia é bonita
-a fotografia dela é bonita
-a fotografia dele é bonita
-a fotografia dele é bonita
+o retrato é bonito
+o retrato dela é bonito
+o retrato dele é bonito
+o retrato dele é bonito
 
 
 SENT-106:: sangaua puranga uiku
-a fotografia está bonita
-a fotografia dela está bonita
-a fotografia dele está bonita
-a fotografia dele está bonita
+o retrato está bonito
+o retrato dela está bonito
+o retrato dele está bonito
+o retrato dele está bonito
 
 
 SENT-107:: se rimbiú sé
@@ -562,7 +562,7 @@ a minha casa é perto desta suja rua dele
 
 
 SENT-111:: se ruka ne ruaki
-a minha casa é perto de você
+a minha casa é perto de ti
 
 
 SENT-112:: se ruka ne ruka ruaki
@@ -645,7 +645,7 @@ a minha casa está perto desta suja rua
 
 
 SENT-125:: se ruka uiku ne ruaki
-a minha casa está perto de você
+a minha casa está perto de ti
 
 
 SENT-126:: se ruka uiku nhaã kiá pé upé
@@ -697,12 +697,12 @@ a casa dele é perto dela
 
 
 SENT-132:: suka taua paranã ruaki
-a cidade da casa dela é perto do rio
-a cidade da casa dele é perto do rio
-a cidade da casa dele é perto do rio
 a casa dela é perto do rio da cidade
 a casa dele é perto do rio da cidade
 a casa dele é perto do rio da cidade
+a cidade da casa dela é perto do rio
+a cidade da casa dele é perto do rio
+a cidade da casa dele é perto do rio
 
 
 SENT-133:: suka uiku suaki
