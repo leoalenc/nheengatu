@@ -1,109 +1,94 @@
- Maria ruka ti suakí 
- aikú iké
- aé i pusé
- aé puranga
- aé sakú
- aé surí 
- i igara i pusé uikú
- i igara paranã upé
- yandé ti yaikú tendawa upé 
- igara i pusé uikú
- igara pusé sepiasuíma uikú
- indé ti ne rurí reikú
- ixé aikú iké
- ixé aikú suakí
- ixé se pusé
- ixé se rurí aikú
- kunhã puranga uikú
- kunhã-itá puranga uikú
- kurumĩ rendawa pe tawa ruakí
- kwá kambí sakú uikú
- kwá pirá-itá piranga sepiasuíma uikú
- kwá taína rangawa puranga
- nhaã ximirikú kisé ti uikú uka pupé
- kwá-itá pirá piranga sepiasuíma uikú
- meyú-itá ta rakú uikú
- mirá rakanga piranga
- ne kiwira ta nheenga puranga
- ne mena nheenga puranga
- ne rimbiú puranga retana
- nhaã Pedro pindá uikú igara kwara upé 
- nhaã kurumĩ pindá igara pupé 
- nhaã timbiú sepiasú retana
- nhaã ximbiú puranga 
- se pusé
- se pusé aikú
- se rurí aikú
- sendawa puranga
- suka tawa upé
- surí 
- ti yaikú tendawa upé 
- ti ne rurí reikú
- tukandira-itá uikú i upé
- ximbiú sakú
-Maria mimbira-itá puranga
-Maria ramunha uikú paranã upé
-Maria rimbiú ti sé
-Maria rimbiú ti sé uikú
+aé i pusé
+aé puranga
+aé sakú
+aé surí
+aé surí 
+aé surí uikú
 aikú i irumu 
 aikú iké
 aikú suakí
 aintá rurí
 aintá ta rurí
-aé surí
-aé surí uikú
-i pusé
-i pusé uikú
-yaikú pe ruakí
+igara i pusé uikú
 igara paranã ruakí
 igara paranã suakí
 igara paranã upé
+igara pusé sepiasuíma uikú
 igara uikú ape
+i igara i pusé uikú
+i igara paranã upé
 indé ne rurí
 indé ne rurí reikú
+indé ti ne rurí reikú
+i pusé
+i pusé uikú
+ixé aikú iké
 ixé aikú suakí
 ixé aikú suka ruakí
-ixé ti se rurí
-ixé ti se rurí aikú
-ixé ti se rurí retana
-ixé ti se rurí retana aikú
+ixé se pusé
 ixé se rurí
 ixé se rurí aikú
 ixé ti aikú suakí
 ixé ti se rurí
 ixé ti se rurí aikú
+ixé ti se rurí retana
+ixé ti se rurí retana aikú
+kunhã-itá puranga uikú
 kunhã mimbira-itá uikú se irumu
+kunhã puranga uikú
 kunhã surí uikú
+kurumĩ rendawa pe tawa ruakí
 kwá itá i pusé
 kwá itá i pusé retana
 kwá itá i pusé retana uikú
 kwá itá i pusé uikú
 kwá itá-itá aintá pusé
+kwá-itá itá aintá pusé
 kwá itá-itá aintá pusé uikú
+kwá-itá itá aintá pusé uikú
 kwá itá-itá ta pusé
+kwá-itá itá ta pusé
 kwá itá-itá ta pusé uikú
+kwá-itá itá ta pusé uikú
+kwá-itá pirá piranga sepiasuíma uikú
+kwá-itá sangawa rupiá puranga
+kwá-itá sangawa rupiá puranga uikú
+kwá kambí sakú uikú
+kwá pirá-itá piranga sepiasuíma uikú
 kwá supiá-itá rangawa puranga
 kwá supiá-itá rangawa puranga uikú
 kwá supiá-itá sangawa puranga
 kwá supiá-itá sangawa puranga uikú
-kwá-itá itá aintá pusé
-kwá-itá itá aintá pusé uikú
-kwá-itá itá ta pusé
-kwá-itá itá ta pusé uikú
-kwá-itá sangawa rupiá puranga
-kwá-itá sangawa rupiá puranga uikú
-meyú sakú uikú
+kwá taína rangawa puranga
+Maria mimbira-itá puranga
+Maria ramunha uikú paranã upé
+Maria rimbiú ti sé
+Maria rimbiú ti sé uikú
+Maria ruka ti suakí 
 meyú-itá aintá rakú uikú
+meyú-itá ta rakú uikú
+meyú sakú uikú
+mirá rakanga piranga
 ne kiwira aintá nheenga puranga
 ne kiwira nheenga puranga
+ne kiwira ta nheenga puranga
+ne mena nheenga puranga
+ne rimbiú puranga retana
 ne rurí
 ne rurí reikú
 nhaã kunhã mimbira-itá uikú aintá irumu
+nhaã kurumĩ pindá igara pupé 
+nhaã Pedro pindá uikú igara kwara upé 
 nhaã se igara uikú paranã upé
-ti se rurí
+nhaã timbiú sepiasú retana
+nhaã ximbiú puranga 
+nhaã ximirikú kisé ti uikú uka pupé
 pe rurí peikú
 sangawa puranga
 sangawa puranga uikú
+sendawa puranga
+se pusé
+se pusé aikú
 se rimbiú sé
 se ruka i upé
 se ruka kwá kiá pé ruakí
@@ -112,8 +97,6 @@ se ruka ne ruakí
 se ruka ne ruka ruakí
 se ruka nhaã kiá pé upé
 se ruka nhaã kiá sapé upé
-se ruka ti paranã ruakí
-se ruka ti paranã upé
 se ruka paranã ruakí
 se ruka paranã upé
 se ruka suakí
@@ -130,13 +113,21 @@ se rurí
 se rurí aikú
 suka suakí
 suka tawa paranã ruakí
+suka tawa upé
 suka uikú suakí
 surí
+surí 
 surí retana
 surí uikú
 ti aikú suakí
-ti se rurí
 timbiú sé
 timbiú sé uikú suka upé
+ti ne rurí reikú
+ti se rurí
+ti yaikú tendawa upé 
+tukandira-itá uikú i upé
+ximbiú sakú
 ximbiú sé
 ximbiú sé uikú
+yaikú pe ruakí
+yandé ti yaikú tendawa upé 
