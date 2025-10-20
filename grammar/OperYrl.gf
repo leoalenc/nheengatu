@@ -244,7 +244,7 @@ mkRegVerbYrl : Str -> {s: Number => Person => Str} =
 		   P3 => "u" + x
 		   } ; 
 	  	 Pl => table {
-		    P1 => "ia" + x; 
+		    P1 => "ya" + x; 
 		    P2 => "pe" + x; 
 		    P3 => "u" + x
 		    }
