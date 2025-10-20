@@ -233,7 +233,7 @@ C2 => SecondClassPron ! num ! pers ! nc
 }};
 
 
-StageLevelCopula : {s: Number => Person => Str} = mkRegVerbYrl "iku";
+StageLevelCopula : {s: Number => Person => Str} = mkRegVerbYrl "ikú";
 
 mkRegVerbYrl : Str -> {s: Number => Person => Str} =
         \x -> {s=
