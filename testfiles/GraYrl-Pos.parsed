@@ -626,6 +626,10 @@ Pred No (mkItemDeitic YouSG) (StageLevelState (mkPropQual Happy))
 
 Pred No (mkItemDeitic I) (IndLevelState (mkPropQual Happy))
 
+Pred No (mkItemDeitic We) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind Community))))))
+
+Pred No (mkItemDeitic We) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind Community))))))
+
 Pred Yes (mkItemNonDeitic (ThePL (mkKind Ant))) (StageLevelState (mkPropLoc (In (mkItemDeitic He))))
 
 Pred Yes (mkItemNonDeitic (ThePL (mkKind Ant))) (StageLevelState (mkPropLoc (In (mkItemDeitic It))))
@@ -655,3 +659,9 @@ Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Her Food)))) (StageLevelState (
 Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ His Food)))) (StageLevelState (mkPropQual Delicious))
 
 Pred Yes (mkItemNonDeitic (TheSG (mkKind_ (Poss_ Its Food)))) (StageLevelState (mkPropQual Delicious))
+
+Pred Yes (mkItemDeitic We) (StageLevelState (mkPropLoc (Near (mkItemDeitic YouPL))))
+
+Pred No (mkItemDeitic We) (StageLevelState (mkPropLoc (In (mkItemNonDeitic (TheSG (mkKind Community))))))
+
+Pred No (mkItemDeitic We) (StageLevelState (mkPropLoc (On (mkItemNonDeitic (TheSG (mkKind Community))))))
